@@ -1,3 +1,4 @@
 For further information, see:
 
-- [External Links](https://community.wavefront.com/docs/DOC-1242)
+- [Using events() Queries](https://community.wavefront.com/docs/DOC-1157)
+- [Advanced event() Expressions](https://community.wavefront.com/docs/DOC-1159)
