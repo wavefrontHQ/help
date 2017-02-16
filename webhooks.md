@@ -1,3 +1,3 @@
-{% include webhooks_intro.html %}
+{% include webhooks_intro.md %}
 
-{% include webhooks_links.html %}
+{% include webhooks_links.md %}

@@ -1,3 +1,3 @@
-{% include alerts_intro.html %}
+{% include alerts_intro.md %}
 
-{% include alerts_links.html %}
+{% include alerts_links.md %}

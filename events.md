@@ -1,3 +1,3 @@
-{% include events_intro.html %}
+{% include events_intro.md %}
 
-{% include events_links.html %}
+{% include events_links.md %}
