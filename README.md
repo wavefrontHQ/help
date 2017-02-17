@@ -1,2 +1,1 @@
-# help
-Wavefront Help Panel Documentation
+# Wavefront Help Panel Documentation
