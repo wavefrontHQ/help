@@ -18,7 +18,7 @@ In the Create Event page, fill the in event properties:
 <dl>
 <dt>Instantaneous</dt><dd>The event ends almost instantaneously with the start time. The exact interval is indeterminate. The Events page can report that the event starts and ends at exactly the same time or that it lasts a few seconds.</dd>
 <dt>Ongoing</dt><dd>The event does not have a specific end time. </dd>
-<dt><img src="images/calendar.png"/></dt><dd>The event ends at the specified day and time.</dd>
+<dt><i class="fa fa-calendar"></i></dt><dd>The event ends at the specified day and time.</dd>
 </dt>
 </dd>
 <dt>Classification</dt>
