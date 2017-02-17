@@ -1,8 +1,11 @@
 There are two ways to create events:
-<li><strong>Events page</strong> - Click the <strong>Create Event</strong> button located at the top of the filter bar.</span></li>
-<li><strong>Chart</strong> - Click the flag icon <i class="fa fa-flag"></i> located on the far right side of the time bar. Hover over the chart and align your cursor with the point in time at which you wish to insert the event. To make the event instantaneous, simply click at that point. If the start and end time for the desired event are included in the current time window, you can also click, hold, and drag across that window.</li>
+<li><strong>Events</strong> - Click the <strong>Create Event</strong> button located at the top of the filter bar.</span></li>
+<li><strong>Chart</strong> - Click the flag icon <i class="fa fa-flag"></i> located on the far right side of the time
+bar. Hover over the chart and set your cursor at a point in time. To make the event instantaneous, click that point.
+If the start and end time for the desired event are included in the current time window, click, hold, and drag across the window.</li>
 </ul>
-In the Create Event page, fill the in properties:
+
+In the Create Event page, fill the in event properties:
 <dl>
 <dt>Name</dt>
 <dd>The name displayed on the Events page and when you hover over an event icon on the X-axis of a chart.</dd>
