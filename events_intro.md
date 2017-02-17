@@ -13,8 +13,7 @@ as a dot.  The color of an event icon is associated with the severity:
 - info - <span style="color: #00B3CA;">blue</span>
 
 If two or more events occur in a given time interval, the event icon displays as an asterisk <span class="fa-asterisk fa"/>.
-Additionally, instantaneous events include a vertical line that overlays the chart, and non-instantaneous or ongoing events include a shaded box
-representing the duration of the event.
+Additionally, instantaneous events include a vertical line that overlays the chart, and non-instantaneous or ongoing events include a shaded box representing the duration of the event.
 
 ![event display](images/events.png)
 
