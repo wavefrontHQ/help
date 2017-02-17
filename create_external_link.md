@@ -1,12 +1,11 @@
 Optionally specify metric name, source name, and point tag value filters as Javascript regular expressions that the series must match.
 <dl>
 <dt>Metric Filter Regex</dt>
-<dd>A regular expression that metric names must match. E.g.: jvm\.memory\.heap\w+</dd>
+<dd>A regular expression that metric names must match, e.g. <strong>jvm\.memory\.heap\w+</strong></dd>
 <dt>Source Filter Regex</dt>
-<dd>A regular expression that source names must match. E.g.: co-2a-app[0-9]+-i-\d+</dd>
+<dd>A regular expression that source names must match, e.g. <strong>co-2a-app[0-9]+-i-\d+</strong></dd>
 <dt>Point Tag Filter Regexes</dt>
-<dd>A point tag key and a regular expression that point tag values must match.</dd>
-<dt><strong>Tag Key</strong> env<br/><strong>Filter Regex</strong> prod\w+</dt>
+<dd>A point tag key and a regular expression that point tag values must match. <strong>Tag Key</strong>&nbsp;env&nbsp;&nbsp;<strong>Filter Regex</strong>&nbsp;prod\w+
 </dl>
 Specify the external link URL template. The template employs [Mustache syntax](https://mustache.github.io/). The properties supported by the template are:
 <dl>
