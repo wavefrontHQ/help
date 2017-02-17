@@ -42,4 +42,4 @@
 </tbody>
 </table>
 
-{% include events_links.md%}
+{% include events_links.md %}
