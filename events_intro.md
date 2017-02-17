@@ -4,12 +4,12 @@ is **System/Alert**.
 
 You can manually add **User** events to identify user actions, such as code pushes, that occur outside Wavefront but
 that affect metrics within Wavefront. User events support various operations. You can edit and delete all user events
-and you can close user events that are  ongoing (whether they have no end time or a specific end time).
+and you can close (end) user events that are ongoing (whether they have no end time or a specific end time).
 
 While any Wavefront user can an access the Events page and view event overlays on charts, you must have the appropriate
-[permission](https://community.wavefront.com/docs/DOC-1090) to create, delete, and close an event.
+[permission](https://community.wavefront.com/docs/DOC-1090) to create, delete, or close an event.
 
-## Event Display
+### Displaying Events in Charts
 
 Icons associated with events can be displayed on the X-axis of a chart. If a single event occurs in a given time
 interval,  the event icon displays as a dot. If two or more events occur in a given time interval, the event icon
