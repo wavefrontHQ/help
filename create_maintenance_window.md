@@ -8,5 +8,5 @@
 <dt>End Time</dt>
 <dd>The point in time the maintenance window ends. The end time must be after the start time.</dd>
 <dt>Affected Alerts and Sources</dt>
-<dd>The alerts and sources to suppress during the maintenance window. All alerts that have tags in the Alert Tags field are suppressed. An alert is suppressed if at least one of sources identified by the Source Tags and Sources fields causes the alert condition to be met. You must configure at least one alert tag, source, or source tag.</dd>
+<dd>The alerts and sources to suppress during the maintenance window. All alerts that have tags in the <strong>Alert Tags</strong> field are suppressed. An alert is suppressed if at least one of sources identified by the <strong>Source Tags</strong> and <strong>Sources</strong> fields causes the alert condition to be met. You must configure at least one alert tag, source, or source tag.</dd>
 </dl>

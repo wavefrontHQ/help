@@ -1,9 +1,9 @@
-Wavefront events as originate from several different sources. Some events are generated when you perform actions in
+Events originate from several different sources. Some events are generated when you perform actions in
 Wavefront. For example, when you edit or snooze an alert, the source is **System**. When an alert fires or resolves, the
 source is **System/Alert**. You can manually add events to identify user actions, such as code pushes, that occur outside
 Wavefront but that affect metrics within Wavefront. The source of such events is **User**.
 
-When an event occurs in Wavefront, such as a firing alert or the start of a maintenance window, an icon associated with
+When an event occurs in Wavefront, such as a firing alert, an icon associated with
 the alert displays on the X-axis of a chart. If a single event occurs in a given time interval, the event icon displays
 as a dot.  The color of an event icon is associated with the severity:
 
@@ -12,12 +12,15 @@ as a dot.  The color of an event icon is associated with the severity:
 - smoke - <span style="color: #B8C8D8;">gray</span>
 - info - <span style="color: #00B3CA;">blue</span>
 
-If two or more events occur in a given time interval, the event icon displays as an asterisk "\*". Additionally, instantaneous events include a vertical line that overlays the chart, and non-instantaneous or ongoing events include a shaded box representing the duration of the event.
+If two or more events occur in a given time interval, the event icon displays as an asterisk "\*". Additionally,
+instantaneous events include a vertical line that overlays the chart, and non-instantaneous or ongoing events include a
+shaded box representing the duration of the event.
 
 ![event display](images/events.png)
 
-You control event displays at the chart level (local) by adding events() queries to the chart.
-You can also control the displays at the dashboard level (global). To control when event icons are displayed on every chart in a dashboard, select **Show Events >**:
+You control event displays at the chart level (local) by adding events() queries to the chart. You can also control the
+displays at the dashboard level (global). To control when event icons are displayed on every chart in a dashboard,
+select **Show Events >**:
 
 <dl>
 <dt>In Chart Queries</dt><dd>Displays events based on the selection at the individual chart level. Default setting.</dd>
@@ -27,4 +30,5 @@ You can also control the displays at the dashboard level (global). To control wh
 <dt>All</dt><dd>Displays all events that have occurred within the time window associated with the chart windows.</dd>
 <dt>None</dt><dd>Hides all events from every chart in the dashboard.</dd></dl>
 
-While any Wavefront user can an access the Events page and view event overlays on charts, you must have the appropriate [permission](https://community.wavefront.com/docs/DOC-1090) to create, delete, and close an event.
+While any Wavefront user can an access the Events page and view event overlays on charts, you must have the appropriate
+[permission](https://community.wavefront.com/docs/DOC-1090) to create, delete, and close an event.
