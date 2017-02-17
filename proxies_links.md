@@ -1,4 +1,5 @@
 For further information, see:
+- [Introduction to Wavefront](https://community.wavefront.com/docs/DOC-1012)
 - [Installing Wavefront Proxies](https://community.wavefront.com/docs/DOC-1271)
 - [Managing Wavefront Proxies](https://community.wavefront.com/docs/DOC-1083)
 - [Wavefront Proxy Configuration](https://community.wavefront.com/docs/DOC-1034)
