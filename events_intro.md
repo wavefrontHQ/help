@@ -15,10 +15,10 @@ Icons associated with events can be displayed on the X-axis of a chart. If a sin
 interval,  the event icon displays as a dot. If two or more events occur in a given time interval, the event icon
 displays as an asterisk <i class="fa fa-asterisk"></i>.  The color of an event icon is associated with the severity:
 
-- severe - <span style="color: #d9534f;">red</span>
-- warn - <span style="color: #FFA320;">orange</span>
-- smoke - <span style="color: #B8C8D8;">gray</span>
-- info - <span style="color: #00B3CA;">blue</span>
+- SEVERE - <span style="color: #d9534f;">red</span>
+- WARN - <span style="color: #FFA320;">orange</span>
+- SMOKE - <span style="color: #B8C8D8;">gray</span>
+- INFO - <span style="color: #00B3CA;">blue</span>
 
 Instantaneous events display a vertical line that overlays the chart; non-instantaneous or ongoing events display a
 shaded box representing the duration of the event.

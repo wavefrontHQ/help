@@ -1,11 +1,13 @@
-There are two ways to create events:
+There are two ways to create user events:
+<ul>
 <li><strong>Events</strong> - Click the <strong>Create Event</strong> button located at the top of the filter bar.</span></li>
 <li><strong>Chart</strong> - Click the flag icon <i class="fa fa-flag"></i> located on the far right side of the time
 bar. Hover over the chart and set your cursor at a point in time. To make the event instantaneous, click that point.
 If the start and end time for the desired event are included in the current time window, click, hold, and drag across the window.</li>
 </ul>
 
-Provide the event properties:
+### Event Properties
+
 <dl>
 <dt>Name</dt>
 <dd>The name displayed on the Events page and when you hover over an event icon on the X-axis of a chart.</dd>
