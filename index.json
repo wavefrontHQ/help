@@ -1,0 +1,68 @@
+{
+  "helpPages": [
+    {
+      "path": "^/alerts$",
+      "file": "alerts.md"
+    },
+    {
+      "path": "^/alerts/add$",
+      "file": "create_alert.md"
+    },
+    {
+      "path": "^/alerts/(.*)/edit$",
+      "file": "create_alert.md"
+    },
+    {
+      "path": "^/events$",
+      "file": "events.md"
+    },
+    {
+      "path": "^/events/add$",
+      "file": "create_event.md"
+    },
+    {
+      "path": "^/events/(.*)$",
+      "file": "create_event.md"
+    },
+    {
+      "path": "^/dashboards$",
+      "file": "dashboards.md"
+    },
+    {
+      "path": "^/extdata$",
+      "file": "extdata.md"
+    },
+    {
+      "path": "^/externallinks$",
+      "file": "externallinks.md"
+    },
+    {
+      "path": "^/externallinks/add$",
+      "file": "create_external_link.md"
+    },
+    {
+      "path": "^/externallinks/(.*)$",
+      "file": "create_external_link.md"
+    },
+    {
+      "path": "^/agents$",
+      "file": "proxies.md"
+    },
+    {
+      "path": "^/webhooks$",
+      "file": "webhooks.md"
+    },
+    {
+      "path": "^/maintenancewindows$",
+      "file": "maintenancewindows.md"
+    },
+    {
+      "path": "^/maintenancewindows/add$",
+      "file": "create_maintenance_window.md"
+    },
+    {
+      "path": "^/maintenancewindows/(.*)$",
+      "file": "create_maintenance_window.md"
+    }
+  ]
+}
