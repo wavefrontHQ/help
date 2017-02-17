@@ -1,24 +1,25 @@
 Events originate from several different sources. Some events are generated when you perform actions in
-Wavefront. For example, when you edit or snooze an alert, the source is **System**. When an alert fires or resolves, the
+Wavefront. For example, when you edit or snooze an alert, the event source is **System**. When an alert fires or resolves, the
 source is **System/Alert**. You can manually add events to identify user actions, such as code pushes, that occur outside
 Wavefront but that affect metrics within Wavefront. The source of such events is **User**.
 
-When an event occurs in Wavefront, such as a firing alert, an icon associated with
-the alert displays on the X-axis of a chart. If a single event occurs in a given time interval, the event icon displays
-as a dot.  The color of an event icon is associated with the severity:
+You can close, edit, and delete user events that are ongoing (whether they have no end time or a specific end time).
+
+Icons associated with events can be displayed on the X-axis of a chart. If a single event occurs in a given time
+interval,  the event icon displays as a dot. If two or more events occur in a given time interval, the event icon
+displays as an asterisk <i class="fa fa-asterisk"></i>.  The color of an event icon is associated with the severity:
 
 - severe - <span style="color: #d9534f;">red</span>
 - warn - <span style="color: #FFA320;">orange</span>
 - smoke - <span style="color: #B8C8D8;">gray</span>
 - info - <span style="color: #00B3CA;">blue</span>
 
-If two or more events occur in a given time interval, the event icon displays as an asterisk "\*". Additionally,
-instantaneous events include a vertical line that overlays the chart, and non-instantaneous or ongoing events include a
+Instantaneous events display a vertical line that overlays the chart; non-instantaneous or ongoing events display a
 shaded box representing the duration of the event.
 
 ![event display](images/events.png)
 
-You control event displays at the chart level (local) by adding events() queries to the chart. You can also control the
+You control event displays at the chart level (local) by adding events() queries to a chart. You can also control the
 displays at the dashboard level (global). To control when event icons are displayed on every chart in a dashboard,
 select **Show Events >**:
 
