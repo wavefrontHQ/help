@@ -1,7 +1,7 @@
-There are two ways to create an alert:
+You create an alert by:
 <ul>
-<li><strong>Events</strong> - Click the <strong>Create Alert</strong> button located at the top of the filter bar.</span></li>
-<li><strong>Chart</strong> - In a chart, hover over the query field and click the <strong>Create Alert</strong> link below the query field.</li>
+<li><strong>Events browser</strong> - Clicking the <strong>Create Alert</strong> button located at the top of the filter bar.</span></li>
+<li><strong>Chart</strong> - Hovering over the query field and click the <strong>Create Alert</strong> link below the query field.</li>
 </ul>
 
 ### Alert Properties

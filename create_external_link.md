@@ -1,3 +1,5 @@
+You create an external link in the External Links browser by clicking the **Create External Link** button.
+
 Optionally specify metric name, source name, and point tag value filters as Javascript regular expressions that the series must match.
 <dl>
 <dt>Metric Filter Regex</dt>
