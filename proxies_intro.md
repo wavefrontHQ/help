@@ -1,11 +1,11 @@
-## What is a Proxy? 
+## What is the Wavefront Proxy?
 
 In most cases before metrics can begin streaming to Wavefront from a host, application, or service you must add a
 Wavefront proxy to your installation. The Wavefront proxy allows you to send your data to Wavefront in a secure, fast,
 and reliable manner.
 
-The proxy is a Java program that sends data to Wavefront over HTTPs and handles authentication with your Wavefront
-instance through a simple token. The proxy handles hundreds to thousands of simultaneous clients. It   consolidates
+The Wavefront proxy is a Java program that sends data to Wavefront over HTTPs and handles authentication with your Wavefront
+instance through a simple token. The proxy handles hundreds to thousands of simultaneous clients. It consolidates
 points into configurable batches (usually 1 second), adding minimal latency (0.5 second, on average, due to the 1 second
 batches).
 
