@@ -1,3 +1,5 @@
+## Creating an Event
+
 You create a user event by:
 <ul>
 <li><strong>Events browser</strong> - Clicking the <strong>Create Event</strong> button located at the top of the filter bar.</span></li>
@@ -6,7 +8,7 @@ bar. Hover over the chart and set your cursor at a point in time. To make the ev
 If the start and end time for the desired event are included in the current time window, click, hold, and drag across the window.</li>
 </ul>
 
-### Event Properties
+## Event Properties
 
 <dl>
 <dt>Name</dt>

@@ -1,6 +1,8 @@
+## Creating a Maintenance Window
+
 You create a maintenance window in the Alerts and Maintenance Windows browsers by clicking the **Create Maintenance Window** button at the top of the filter bar.
 
-### Maintenance Window Properties
+## Maintenance Window Properties
 
 <dl>
 <dt>Name</dt>
