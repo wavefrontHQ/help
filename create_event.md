@@ -16,7 +16,7 @@ If the start and end time for the desired event are included in the current time
 <dt>Start Time</dt>
 <dd>The start time of the event:
 <dl><dt>Now</dt><dd>The maintenance window starts immediately.</dd>
-<dd><i class="fa fa-calendar"></i></dt><dd>The maintenance window starts on the specified date and time.Click the text field and choose a date and time or type a date and time in the format MM/DD/YYYY HH:MM [AM|PM].</dd></dl></dd>
+<dt><i class="fa fa-calendar"></i></dt><dd>The maintenance window starts on the specified date and time.Click the text field and choose a date and time or type a date and time in the format MM/DD/YYYY HH:MM [AM|PM].</dd></dl></dd>
 <dt>End Time</dt>
 <dd>The end time of the event:
 <dl>
