@@ -1,3 +1,5 @@
+##What is an External Link? 
+
 External links provide integration between Wavefront and external systems. If you use logging systems such as ELK and
 Splunk, you can easily construct a meaningful URL to navigate from Wavefront to a log entry.
 

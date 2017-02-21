@@ -1,6 +1,9 @@
 You create an external link in the External Links browser by clicking the **Create External Link** button.
 
 Optionally specify metric name, source name, and point tag value filters as Javascript regular expressions that the series must match.
+
+### External Link Properties
+
 <dl>
 <dt>Metric Filter Regex</dt>
 <dd>A regular expression that metric names must match, e.g. <strong>jvm\.memory\.heap\w+</strong></dd>

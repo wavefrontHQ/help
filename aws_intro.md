@@ -1,10 +1,11 @@
-[Amazon Web Services](http://aws.amazon.com) (AWS) is a collection of cloud-computing services that provide an on-demand
-computing platform. Wavefront supports cloud integrations, which allow you to ingest metrics directly from AWS and send
-them to Wavefront without needing to set up a Wavefront proxy. The AWS cloud
-integration is the quickest and easiest way to get your [CloudWatch](http://aws.amazon.com/cloudwatch) and
-[CloudTrail](http://aws.amazon.com/cloudtrail) data into Wavefront. While any Wavefront user can view integrations,
-you must have the appropriate [permission](https://community.wavefront.com/docs/DOC-1090) to create, update,
-or delete an integration.
+##What is a Cloud Integration?
+
+Wavefront supports cloud integrations, a mechanism that allows you to ingest metrics directly without needing to send them to a Wavefront proxy.
+The [Amazon Web Services](http://aws.amazon.com) (AWS) cloud integration is the quickest and easiest way to get 
+your [CloudWatch](http://aws.amazon.com/cloudwatch) and[CloudTrail](http://aws.amazon.com/cloudtrail) data into Wavefront.
+
+While any Wavefront user can view integrations, you must have the appropriate
+[permission](https://community.wavefront.com/docs/DOC-1090) to create, update, or delete an integration.
 
 Wavefront supports three types of AWS cloud integrations:
 

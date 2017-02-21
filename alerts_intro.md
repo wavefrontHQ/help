@@ -1,3 +1,5 @@
+##What is an Alert? 
+
 An alert is a logical expression (condition) and set of actions that are performed when the condition evaluates to true
 or false for a specified period of time. The condition is formulated using ts() queries and operators.
 
