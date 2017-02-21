@@ -1,4 +1,4 @@
-##What is a Proxy? 
+## What is a Proxy? 
 
 In most cases before metrics can begin streaming to Wavefront from a host, application, or service you must add a
 Wavefront proxy to your installation. The Wavefront proxy allows you to send your data to Wavefront in a secure, fast,

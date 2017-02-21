@@ -1,4 +1,4 @@
-##What is an Maintenance Window? 
+## What is an Maintenance Window? 
 
 A maintenance window is a predetermined time window when preventative maintenance or testing may occur. Typically,
 maintenance windows are used when disruptive operations could occur as a result of system maintenance and/or testing.
