@@ -26,8 +26,7 @@ If the start and end time for the desired event are included in the current time
 The Events page can report that the event starts and ends at exactly the same time or that it lasts a few seconds.</dd>
 <dt>Ongoing</dt><dd>The event does not have a specified end time. You can manually end (close) the event from the Events page.</dd>
 <dt><i class="fa fa-calendar"></i></dt><dd>End the event at the specified day and time. Click the text field and choose a date and time or type a date and time in the format MM/DD/YYYY HH:MM [AM|PM].</dd>
-</dt>
-</dd>
+</dd></dl>
 <dt>Classification</dt>
 <dd>The event classification: SEVERE, WARN, INFO, and UNCLASSIFIED. You can enter the classification as an event parameter in events() queries.</dd>
 <dt>Tags</dt>
