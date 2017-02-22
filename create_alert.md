@@ -42,6 +42,7 @@ Click the **Advanced** link to configure the properties:
 </dl>
 
 For more information about configuring alert targets, see:
+
 - [Integrating Wavefront Alerts with HipChat Rooms](https://community.wavefront.com/docs/DOC-1055)
 - [Integrating Wavefront Alerts with PagerDuty](https://community.wavefront.com/docs/DOC-1056)
 - [Integrating Wavefront Alerts with Slack Channels](https://community.wavefront.com/docs/DOC-1183)

@@ -31,4 +31,5 @@ Specify the external link URL template. The template employs [Mustache syntax](h
 </dl>
 
 For further information, see:
+
 - [External Links](https://community.wavefront.com/docs/DOC-1242)
