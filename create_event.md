@@ -14,7 +14,7 @@ If the start and end time for the desired event are included in the current time
 <dt>Name</dt>
 <dd>The name displayed on the Events page and when you hover over an event icon on the X-axis of a chart.</dd>
 <dt>Type</dt>
-<dd>The type of the event, such as code push. While there are no limitations to what you can enter into this field, try to limit it to type. You can enter additional information about the event in the Details field.  You can enter the type as an event parameter in events() queries</a>.</dd>
+<dd>The type of the event, such as code push. While there are no limitations to what you can enter into this field, try to limit it to type. You can enter additional information about the event in the Details field.  You can enter the type as an event parameter in events() queries.</dd>
 <dt>Start Time</dt>
 <dd>The start time of the event:
 <dl><dt>Now</dt><dd>The maintenance window starts immediately.</dd>
