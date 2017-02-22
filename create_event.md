@@ -37,5 +37,3 @@ The Events page can report that the event starts and ends at exactly the same ti
 <dt>Display Event in Chart</dt>
 <dd>Displays only when creating an event from a *chart*. Whether to add an events(name=&lt;name&gt;) query to the chart so that the event displays.</dd>
 </dl>
-
-{% include events_links.md %}
