@@ -1,4 +1,4 @@
-## Creating an Alert
+## Alerts
 
 Alerts have conditions and targets.
 
