@@ -1,34 +1,6 @@
-## Creating an External Link
-
-You create an external link in the External Links browser by clicking the **Create External Link** button.
+## External Links
 
 Optionally specify metric name, source name, and point tag value filters as Javascript regular expressions that the series must match.
-
-## External Link Properties
-
-<dl>
-<dt>Metric Filter Regex</dt>
-<dd>A regular expression that metric names must match, e.g. <strong>jvm\.memory\.heap\w+</strong></dd>
-<dt>Source Filter Regex</dt>
-<dd>A regular expression that source names must match, e.g. <strong>co-2a-app[0-9]+-i-\d+</strong></dd>
-<dt>Point Tag Filter Regexes</dt>
-<dd>A point tag key and a regular expression that point tag values must match. <strong>Tag Key</strong>&nbsp;env&nbsp;&nbsp;<strong>Filter Regex</strong>&nbsp;prod\w+
-</dl>
-Specify the external link URL template. The template employs [Mustache syntax](https://mustache.github.io/). The properties supported by the template are:
-<dl>
-<dt>source</dt>
-<dd>The source of the series.</dd>
-<dt>startEpochMillis</dt>
-<dd>Starting time of the chart window, in milliseconds from the UNIX epoch.</dd>
-</tr>
-<tr>
-<dt>endEpochMillis</dt>
-<dd>Ending time of the chart window, in milliseconds from the UNIX epoch.</dd>
-</tr>
-<tr>
-<dt>&lt;pointTagName1&gt;, &lt;pointTagName2&gt;,...</dt>
-<dd>One or more point tag names associated with the series.</dd>
-</dl>
 
 For further information, see:
 
