@@ -71,11 +71,11 @@
     {
       "path": "^/maintenancewindows/(.*)$",
       "file": "create_maintenance_window.md"
-    }
+    },
     {
       "path": "^/intro/populate?redirect=agents$",
       "file": "add_proxy.md"
-    }
+    },
     {
       "path": "^/intro/populate$",
       "file": "add_proxy_first.md"
