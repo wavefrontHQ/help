@@ -11,7 +11,6 @@ on average, due to the 1 second batches).
 The proxy works with Wavefront application response codes to ensure end-to-end flow control. To address network
 connectivity issues, it queues point internally in memory and to disk. Once connectivity is restored it replays queued
 points but prioritizes real-time traffic. There are many ways to
-[configure](https://community.wavefront.com/docs/DOC-1034) the proxy to tune its behavior. The [proxy preprocessor]
-(https://community.wavefront.com/docs/DOC-1207) allows you to correct errors in metric definition, reducing
+[configure](https://community.wavefront.com/docs/DOC-1034) the proxy to tune its behavior. The [proxy preprocessor](https://community.wavefront.com/docs/DOC-1207) allows you to correct errors in metric definition, reducing
 the number of invalid metrics which would otherwise be rejected by the proxy. The proxy generates metrics on the proxy's
 point rate and memory usage for easy monitoring of the pipeline within the Wavefront application.

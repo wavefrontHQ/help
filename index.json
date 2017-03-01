@@ -25,6 +25,10 @@
       "file": "create_event.md"
     },
     {
+      "path": "^/chart$",
+      "file": "create_chart_dashboard.md"
+    },
+    {
       "path": "^/dashboards$",
       "file": "dashboards.md"
     },
