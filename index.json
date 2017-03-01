@@ -73,7 +73,8 @@
       "file": "create_maintenance_window.md"
     },
     {
-      "path": "^/intro/populate?redirect=agents$",
+      "path": "^/intro/populate$",
+      "query": "redirect=agents",
       "file": "add_proxy.md"
     },
     {
