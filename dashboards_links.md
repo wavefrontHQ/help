@@ -1,3 +1,3 @@
-For further information, see:
-- [Interacting with Dashboards and Charts](https://community.wavefront.com/docs/DOC-1067)
+For further information about dashboards, see:
+
 - [Managing Dashboards](https://community.wavefront.com/docs/DOC-1068)

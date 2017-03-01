@@ -1,20 +1,5 @@
-## Alerts
+## Creating Alerts
 
-Alerts have conditions and targets.
+An alert is a condition and set of targets to be notified when the [condition evaluates to true or false for a specified period of time](https://community.wavefront.com/docs/DOC-1052). You express conditions using [ts() queries](https://community.wavefront.com/docs/DOC-1019) and operators.
 
-You define conditions using [ts() query]() expressions, which is the same language you
-use to build your charts.
-
-You can avoid false positives by using the Backtesting option in Events Display.
-
-[Creating an Alert](https://community.wavefront.com/docs/DOC-1050) gives info on all alert options.
-
-### Targets
-
-Targets can be email addresses, PagerDuty and VictorOps, as well as arbitrary webhooks. See how to integrate your alerts with these targets:
-
-- [HipChat Rooms](https://community.wavefront.com/docs/DOC-1055)
-- [PagerDuty](https://community.wavefront.com/docs/DOC-1056)
-- [Slack Channels](https://community.wavefront.com/docs/DOC-1183)
-- [VictorOps](https://community.wavefront.com/docs/DOC-1251)
-- [Webhooks](https://community.wavefront.com/docs/DOC-1054)
+You can send alerts to email addresses, pager services such as [PagerDuty](https://community.wavefront.com/docs/DOC-1056) and [VictorOps](https://community.wavefront.com/docs/DOC-1251), communication channels such as [Slack](https://community.wavefront.com/docs/DOC-1183) and [HipChat](https://community.wavefront.com/docs/DOC-1055), and you can also configure arbitrary actions such as invoking a [webhook](https://community.wavefront.com/docs/DOC-1054) or running an auto-remediation script.

@@ -1,7 +1,10 @@
-## External Links
+## Creating External Links
 
-Optionally specify metric name, source name, and point tag value filters as Javascript regular expressions that the series must match.
+You filter which time series can link externally by specifying metric name, source name, and point tag value filters as
+regular expressions that the series must match.
 
-For further information, see:
+An external link consists of a [templated URL](https://community.wavefront.com/docs/DOC-1242) that contains information
+about metric names, source names, point tag values, and time window of the originating series.
 
-- [External Links](https://community.wavefront.com/docs/DOC-1242)
+The template uses [Mustache syntax](https://mustache.github.io/). It supports several properties derived from the series
+and supports functions to transform sections in the template.

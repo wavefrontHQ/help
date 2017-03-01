@@ -1,7 +1,14 @@
 ## What is an Alert?
 
-An alert is a condition and set of actions that are performed when the condition evaluates to true or false for a specified period of time. You express a condition using ts() queries and operators.
+Alerts focus operations on a system component that could potentially cause service degradation or outage. Alerts are triggered when a monitored metric reaches a value that indicates a problem in the component.
 
-You configure an alert to send notifications to targets when the alert changes state.
+## Alert States
 
-You can send notifications to targets such as email, PagerDuty, and VictorOps and you can also configure arbitrary actions such as invoking a webhook and running an auto-remediation script.
+An alert can be in 5 states:
+<ul><li><strong>FIRING</strong> - The alert is meeting the condition and timing properties.</li>
+<li><strong>CHECKING</strong> - The alert is being checked to see if the condition and timing properties are being met.</li>
+<li><strong>SNOOZED</strong> - The alert is not being checked to determine if the condition and timing properties are being met.</li>
+<li><strong>IN MAINTENANCE</strong> - The alert has an alert tag or a source or set of sources included in a source tag associated
+with an ongoing maintenance window. If an alert has a subset of reporting sources associated with in an ongoing maintenance window,
+the state displays as CHECKING/IN MAINTENANCE.</li>
+<li><strong>INVALID</strong> - A ts() query in the alert condition is timing out (> 5 min execution) or includes inactive metrics or sources.</li></ul>

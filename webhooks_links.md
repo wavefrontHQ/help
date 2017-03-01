@@ -1,2 +1,3 @@
 For further information, see:
-- [External Links](https://community.wavefront.com/docs/DOC-1242)
+
+- [Integrating Wavefront Alerts with Webhooks](https://community.wavefront.com/docs/DOC-1054)
