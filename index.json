@@ -33,7 +33,7 @@
       "file": "dashboards.md"
     },
     {
-      "path": "^/dashboard/$",
+      "path": "^/dashboard$",
       "file": "dashboard.md"
     },
     {
