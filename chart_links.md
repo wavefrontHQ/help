@@ -1,4 +1,4 @@
-For further information about charts, see:
+## What's Next 
 
 - [Creating a Chart](https://community.wavefront.com/docs/DOC-1064)
 - [Wavefront Chart Types](https://community.wavefront.com/docs/DOC-1158)

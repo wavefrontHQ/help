@@ -1,6 +1,10 @@
+## What is a Chart?
+
 [Charts](https://community.wavefront.com/docs/DOC-1064) are the primary way you view the status of your metrics. You add
 [ts() queries](https://community.wavefront.com/docs/DOC-1019) to view and perform operations on metrics and configure
 [chart options](https://community.wavefront.com/docs/DOC-1158) for the most helpful view.
+
+## What is a Dashboard?
 
 Dashboards group a set of related charts. Dashboards allow you to share [display
 preferences](https://community.wavefront.com/docs/DOC-1068#jive_content_id_Setting_Dashboard_Preferences),
