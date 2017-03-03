@@ -13,7 +13,7 @@ When there are enough tags, type a tag name in the Search box below **Tags** in 
 The search process is case insensitive; searching for **myapp** returns **MyApp** and **myapp**.
 
 ### Filtering by Tags
-Click a tag icon ![agents tag](images/agents_tag.png#inline) in the filter bar or below an entity.
+Click a tag icon ![agents tag](images/agents_tag.png#inline) in the filter bar or below {{include.entity}}.
 
 ### Tag Paths
 Tags are organized in a hierarchy by separating tag components with a dot **'.'**: **MyService.MyApp**.

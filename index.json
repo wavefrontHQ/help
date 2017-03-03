@@ -10,23 +10,11 @@
     },
     {
       "path": "^/alerts/(.*)/edit$",
-      "file": "create_alert.md"
-    },
-    {
-      "path": "^/events$",
-      "file": "events.md"
-    },
-    {
-      "path": "^/events/add$",
-      "file": "create_event.md"
-    },
-    {
-      "path": "^/events/(.*)$",
-      "file": "create_event.md"
+      "file": "alert_create.md"
     },
     {
       "path": "^/chart$",
-      "file": "create_chart_dashboard.md"
+      "file": "chart_dashboard_create.md"
     },
     {
       "path": "^/dashboards$",
@@ -37,24 +25,73 @@
       "file": "dashboard.md"
     },
     {
+      "path": "^/events$",
+      "file": "events.md"
+    },
+    {
+      "path": "^/events/add$",
+      "file": "event_create.md"
+    },
+    {
+      "path": "^/events/(.*)$",
+      "file": "event_create.md"
+    },
+    {
       "path": "^/extdata$",
-      "file": "extdata.md"
+      "file": "cloud_integrations.md"
+    },
+    {
+      "path": "^/extdata/add$",
+      "file": "cloud_integrations_add.md"
+    },
+    {
+      "path": "^/extdata/(.*)$",
+      "file": "cloud_integrations_add.md"
     },
     {
       "path": "^/externallinks$",
-      "file": "externallinks.md"
+      "file": "external_links.md"
     },
     {
       "path": "^/externallinks/add$",
-      "file": "create_external_link.md"
+      "file": "external_link_create.md"
     },
     {
       "path": "^/externallinks/(.*)$",
-      "file": "create_external_link.md"
+      "file": "external_link_create.md"
+    },
+    {
+      "path": "^/metrics$",
+      "file": "metrics.md"
+    },
+    {
+      "path": "^/maintenancewindows$",
+      "file": "maintenance_windows.md"
+    },
+    {
+      "path": "^/maintenancewindows/add$",
+      "file": "maintenance_window_create.md"
+    },
+    {
+      "path": "^/maintenancewindows/(.*)$",
+      "file": "maintenance_window_create.md"
+    },
+    {
+      "path": "^/intro/populate$",
+      "query": "redirect=agents",
+      "file": "proxy_add.md"
+    },
+    {
+      "path": "^/intro/populate$",
+      "file": "proxy_first_add.md"
     },
     {
       "path": "^/agents$",
       "file": "proxies.md"
+    },
+    {
+      "path": "^/sources$",
+      "file": "sources.md"
     },
     {
       "path": "^/webhooks$",
@@ -62,32 +99,11 @@
     },
     {
       "path": "^/webhooks/add$",
-      "file": "create_webhook.md"
+      "file": "webhook_create.md"
     },
     {
       "path": "^/webhooks/(.*)$",
-      "file": "create_webhook.md"
-    },
-    {
-      "path": "^/maintenancewindows$",
-      "file": "maintenancewindows.md"
-    },
-    {
-      "path": "^/maintenancewindows/add$",
-      "file": "create_maintenance_window.md"
-    },
-    {
-      "path": "^/maintenancewindows/(.*)$",
-      "file": "create_maintenance_window.md"
-    },
-    {
-      "path": "^/intro/populate$",
-      "query": "redirect=agents",
-      "file": "add_proxy.md"
-    },
-    {
-      "path": "^/intro/populate$",
-      "file": "add_proxy_first.md"
+      "file": "webhook_create.md"
     }
   ]
 }
