@@ -1,3 +1,9 @@
+## Using Tags
+
+A tag is custom metadata that adds application-specific meaning to {{include.entities}}.
+Tags group together {{include.entities}} according to categories you define.
+Tags are organized in a path hierarchy by separating tag components with a dot **'.'**: **MyService.MyApp**.
+
 ### Adding Tags
 1. Choose which {{include.entities}} to tag:
     - Check the checkboxes next to the {{include.entities}} and click the **+ Tag** button.
@@ -14,9 +20,6 @@ The search process is case insensitive; searching for **myapp** returns **MyApp*
 
 ### Filtering by Tags
 Click a tag icon ![agents tag](images/agents_tag.png#inline) in the filter bar or below {{include.entity}}.
-
-### Tag Paths
-Tags are organized in a hierarchy by separating tag components with a dot **'.'**: **MyService.MyApp**.
 
 ### Searching Tag Paths
 Trailing wildcards ".\*" are supported when searching tag paths. To match all tags starting with

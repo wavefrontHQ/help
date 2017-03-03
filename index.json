@@ -90,6 +90,22 @@
       "file": "proxies.md"
     },
     {
+      "path": "^/settings/profile$",
+      "file": "settings_profile.md"
+    },
+    {
+      "path": "^/settings/users$",
+      "file": "settings_users.md"
+    },
+    {
+      "path": "^/settings/groups$",
+      "file": "settings_permissions.md"
+    },
+    {
+      "path": "^/settings/customerPreferences$",
+      "file": "settings_preferences.md"
+    },
+    {
       "path": "^/sources$",
       "file": "sources.md"
     },
