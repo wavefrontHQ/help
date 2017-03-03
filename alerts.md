@@ -2,4 +2,4 @@
 
 {% include alerts_links.md %}
 
-{% include tag_tasks.md $}
+{% include tag_tasks.md %}
