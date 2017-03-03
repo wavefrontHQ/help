@@ -8,10 +8,10 @@ Wavefront supports three types of AWS cloud integrations: CloudWatch, CloudTrail
 
 ### CloudWatch
 The CloudWatch integration retrieves AWS metric and dimension data from AWS services using the AWS CloudWatch
-API. The complete list of metrics and dimensions that can be retrieved from AWS CloudWatch is available at Amazon
+API. The complete list of metrics and dimensions that can be retrieved from AWS CloudWatch is available at [Amazon
 CloudWatch Metrics and Dimensions
-Reference(http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CW_Support_For_AWS.html). In addition, you can
-publish custom AWS metrics that are also ingested by the Wavefront CloudWatch integration.
+Reference](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CW_Support_For_AWS.html). In addition, you can
+publish custom AWS metrics that are also ingested by the CloudWatch integration.
 
 Wavefront adds point tags to CloudWatch metrics:
 
@@ -23,9 +23,8 @@ Wavefront adds point tags to CloudWatch metrics:
 
 The CloudTrail integration retrieves EC2 event information stored in JSON-formatted log files in an AWS S3 bucket and
 parses the files for all events that result from an operation that is not a describe, get, or  list, and creates a
-Wavefront System event.
+Wavefront **System** event.
 
 ### EC2
 
-The EC2 integration retrieves additional metrics using AWS API calls other than CloudWatch:
-aws.ebs.volumesize, aws.ebs.volumeiops, aws.ec2.statuscheckfailed_system, aws.instance.price,aws.reservedinstance.count.
+The EC2 integration retrieves additional metrics using AWS API calls other than CloudWatch.
