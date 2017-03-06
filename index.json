@@ -6,7 +6,7 @@
     },
     {
       "path": "^/alerts/add$",
-      "file": "create_alert.md"
+      "file": "alert_create.md"
     },
     {
       "path": "^/alerts/(.*)/edit$",
@@ -104,6 +104,10 @@
     {
       "path": "^/settings/customerPreferences$",
       "file": "settings_preferences.md"
+    },
+    {
+      "path": "^/settings/query_dashboard$",
+      "file": "settings_query_dashboard.md"
     },
     {
       "path": "^/sources$",
