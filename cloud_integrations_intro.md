@@ -1,7 +1,6 @@
 ## What is a Cloud Integration?
 
-Cloud integrations allow you to ingest metrics directly from cloud services without needing to send them to a Wavefront
-proxy. Wavefront offers [Amazon Web Services](http://aws.amazon.com) (AWS)
+Cloud integrations allow you to ingest metrics directly from cloud services. Wavefront offers [Amazon Web Services](http://aws.amazon.com) (AWS)
 [CloudWatch](http://aws.amazon.com/cloudwatch), [CloudTrail](http://aws.amazon.com/cloudtrail), and EC2 integrations.
 
 ### CloudWatch
@@ -15,7 +14,7 @@ Wavefront sets the value of the metric's [source](https://community.wavefront.co
 tags](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html) or the Amazon instance ID; **EBS**: the Amazon
 instance ID; all other services: the value of the *first* CloudWatch
 [dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Dimension). Wavefront
-adds point tags to CloudWatch metrics: **accountId**, **Region**, and CloudWatch dimensions, which vary by service.
+adds the following point tags: **accountId**, **Region**, and CloudWatch dimensions.
 
 ### CloudTrail
 
@@ -23,4 +22,4 @@ The CloudTrail integration retrieves EC2 event information stored in log files i
 
 ### EC2
 
-The EC2 integration retrieves additional metrics with point tags using AWS API other than CloudWatch: **aws.instance.price** , **aws.reservedinstance.count**, **aws.ebs.volumesize**, and **aws.ebs.volumeiops**.
+The EC2 integration retrieves additional metrics with point tags using AWS API other than CloudWatch: **aws.instance.price** , **aws.reservedinstance.count**, **aws.ebs.[volumesize and volumeiops]**.
