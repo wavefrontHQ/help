@@ -8,17 +8,14 @@ proxy. Wavefront offers [Amazon Web Services](http://aws.amazon.com) (AWS)
 
 The CloudWatch integration retrieves AWS [metric and
 dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CW_Support_For_AWS.html) data using the AWS
-CloudWatch API.
+CloudWatch API. If you enable AWS billing alerts, Wavefront reports the metric **aws.billing.estimatedcharges**.
 
 Wavefront sets the value of the metric's [source](https://community.wavefront.com/docs/DOC-1031) field by service:
 **EC2**: the value of the **hostname**, **host**, or **name** [EC2
-tags](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html), if the tags exist and you have an EC2
-integration. Otherwise, the source is set to the Amazon instance ID; **ELB**: the Amazon instance ID of the EC2 instance
-the load balancer is attached to; all other services: the value of the *first* CloudWatch
+tags](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html) or the Amazon instance ID; **EBS**: the Amazon
+instance ID; all other services: the value of the *first* CloudWatch
 [dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Dimension). Wavefront
 adds point tags to CloudWatch metrics: **accountId**, **Region**, and CloudWatch dimensions, which vary by service.
-
-If you enable AWS billing alerts, Wavefront reports the metric **aws.billing.estimatedcharges**.
 
 ### CloudTrail
 
