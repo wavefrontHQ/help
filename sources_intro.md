@@ -8,4 +8,4 @@ The [Wavefront Query Language](https://community.wavefront.com/docs/DOC-1019) su
 
 As dynamic services become more prevalent, sources are constantly being started and shut down.
 This can lead to sources being included even when they are no longer reporting data. Sources are automatically removed
-from query autocomplete after 4 weeks of inactivity, but you can also manually remove sources by moving them from an Active to Hidden state.
+after 4 weeks of inactivity, but you can also manually remove sources by moving them from an Active to Hidden state.

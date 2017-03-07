@@ -5,12 +5,12 @@ Wavefront proxy to your installation. The proxy allows you to send your data to 
 and reliable manner.
 
 A proxy sends data to Wavefront over HTTPs and handles authentication with your Wavefront instance through a simple
-token. The proxy consolidates points into configurable batches (usually 1 second), adding minimal latency (0.5 second,
+token. The proxy consolidates metrics into configurable batches (usually 1 second), adding minimal latency (0.5 second,
 on average, due to the 1 second batches).
 
-The proxy works with Wavefront response codes to ensure end-to-end flow control. To address network
-connectivity issues, it queues point internally in memory and to disk. Once connectivity is restored it replays queued
-points but prioritizes real-time traffic. A proxy generates proxy point rate and memory usage metrics for easy
+The proxy works with Wavefront response codes to ensure end-to-end flow control. When it detects network
+connectivity issues, the proxy queues metrics internally in memory and to disk. Once connectivity is restored the proxy
+replays queued metrics but prioritizes real-time traffic. A proxy generates its own usage metrics for easy
 monitoring of the pipeline within Wavefront.
 
 There are many ways to [configure](https://community.wavefront.com/docs/DOC-1034) the proxy to tune its behavior. The [proxy preprocessor](https://community.wavefront.com/docs/DOC-1207) allows you to correct errors in metric definition, reducing
