@@ -78,7 +78,7 @@
     },
     {
       "path": "^/intro/populate$",
-      "query": "redirect=agents",
+      "query": "redirect=proxies",
       "file": "proxy_add.md"
     },
     {
@@ -86,7 +86,7 @@
       "file": "proxy_first_add.md"
     },
     {
-      "path": "^/agents$",
+      "path": "^/proxies$",
       "file": "proxies.md"
     },
     {
