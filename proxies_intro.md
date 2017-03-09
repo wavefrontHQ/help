@@ -12,5 +12,4 @@ connectivity issues, the proxy queues metrics in memory and to disk. Once connec
 replays queued metrics but prioritizes real-time traffic. A proxy generates its own usage metrics for easy
 monitoring of the pipeline within Wavefront.
 
-There are many ways to [configure](https://community.wavefront.com/docs/DOC-1034) the proxy to tune its behavior. The [proxy preprocessor](https://community.wavefront.com/docs/DOC-1207) allows you to correct errors in metric definition, reducing
-the number of invalid metrics which would otherwise be rejected by the proxy.
+There are many ways to [configure](https://community.wavefront.com/docs/DOC-1034) the proxy to tune its behavior. The [proxy preprocessor](https://community.wavefront.com/docs/DOC-1207) allows you to correct errors in metric definition, reducing the number of invalid metrics which would otherwise be rejected by the proxy.
