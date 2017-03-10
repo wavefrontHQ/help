@@ -10,6 +10,8 @@ is **System/Alert**.
 You can manually add **User** events to identify user actions, such as code pushes, that occur outside Wavefront but
 that affect metrics within Wavefront.
 
-{% include states.md entities="User events" %}
+User events whose start time is after the current time have the **PENDING** state.
+User events whose start time is before the current time and end time is after the current time have the **ONGOING** state.
+User events whose start and end times are before the current time have the **ENDED** state.
 
 You can close (end) user events that are ongoing (whether they have no end time or a specific end time).
