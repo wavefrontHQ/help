@@ -1,3 +1,3 @@
-{% include externallinks_intro.md %}
+{% include external_links_intro.md %}
 
-{% include externallinks_links.md %}
+{% include external_links_links.md %}
