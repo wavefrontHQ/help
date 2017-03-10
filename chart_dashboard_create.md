@@ -1,4 +1,4 @@
-## Creating and Editing Charts and Dashboards
+### Creating and Editing Charts and Dashboards
 
 You can create a chart from scratch, or starting from an existing chart or metric. You edit a chart by clicking the
 title at the top right of the chart.
