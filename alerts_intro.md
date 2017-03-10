@@ -1,8 +1,6 @@
 ### What is an Alert?
 
-Alerts focus operations on a system component that could potentially cause service degradation or outage. Alerts are
-triggered when a monitored metric reaches a value that indicates a problem in the component. Operators responsible for
-fixing the problem are notified when the alert triggers.
+An alert focuses attention on a system component that could potentially cause service degradation or outage. An alert is triggered when a monitored metric reaches a value that indicates a problem in the component. When an alert triggers notifications are sent to targets such as email addresses, pager services, and real-time communication channels.
 
 Active alerts can be in either the checking or firing states. Inactive alerts are either in maintenance, snoozed, or
 invalid.

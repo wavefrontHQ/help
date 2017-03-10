@@ -1,5 +1,5 @@
 #### Using Tags
-A tag is custom metadata that adds application-specific meaning to {{include.entities}}. Tags group together {{include.entities}} according to categories you define. Tags are organized in a path hierarchy by separating tag components with a dot **'.'**: **MyService.MyApp**.
+A tag is custom metadata that adds application-specific meaning to {{include.entities}}. Tags group together {{include.entities}} according to categories you define. Tags are organized in a path hierarchy by separating tag components with a dot **'.'**: **MyService.MyApp**
 
 #### Adding Tags
 1. Check the checkboxes next to the {{include.entities}} and click the **+ Tag** button or click **+tag** below {{include.entity}}.
