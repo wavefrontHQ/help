@@ -1,4 +1,4 @@
-## What is an Event?
+### What is an Event?
 
 An event is a record that something of interest has occurred – an alert has changed state,
 a maintenance window has been created, AWS instances have started or stopped, and so on.

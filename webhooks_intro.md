@@ -1,4 +1,4 @@
-## What is a Webhook?
+### What is a Webhook?
 
 A webhook is a user-defined HTTP callback. A webhook is usually triggered when a particular event occurs at the source
 site. When the event occurs, the source site makes an HTTP POST request to the URL configured for the webhook that

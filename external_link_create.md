@@ -1,4 +1,4 @@
-## Creating External Links
+### Creating External Links
 
 You filter which time series can link externally by specifying metric name, source name, and point tag value filters as
 regular expressions that the series must match.

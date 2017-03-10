@@ -1,4 +1,4 @@
-## What is an Alert?
+### What is an Alert?
 
 Alerts focus operations on a system component that could potentially cause service degradation or outage. Alerts are
 triggered when a monitored metric reaches a value that indicates a problem in the component. Operators responsible for

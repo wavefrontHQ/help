@@ -1,4 +1,4 @@
-## Understanding Slow Queries
+### Understanding Slow Queries
 
 Jump to Slow Query Dashboard Sections - Several slow queries being executed within the selected time window can cause
 the Slow Query Dashboard page to be very long. These section links allow you to jump down to the relevant section of

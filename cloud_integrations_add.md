@@ -1,4 +1,4 @@
-## Adding a Cloud Integration
+### Adding a Cloud Integration
 
 Adding a cloud integration requires sharing account IDs and an external ID, which establishes a trust relationship between Amazon and Wavefront.
 

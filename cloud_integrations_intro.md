@@ -1,4 +1,4 @@
-## What is a Cloud Integration?
+### What is a Cloud Integration?
 
 Cloud integrations allow you to ingest metrics directly from cloud services. Wavefront offers [Amazon Web Services](http://aws.amazon.com) (AWS)
 [CloudWatch](http://aws.amazon.com/cloudwatch), [CloudTrail](http://aws.amazon.com/cloudtrail), and EC2 integrations.

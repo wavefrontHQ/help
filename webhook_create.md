@@ -1,4 +1,4 @@
-## Creating a Webhook
+### Creating a Webhook
 
 When you create a webhook you specify the list of conditions on that alert that can trigger the webhook and the content
 of the POST body to send to the webhook endpoint. Wavefront provides templates for the webhook payload. The templates support

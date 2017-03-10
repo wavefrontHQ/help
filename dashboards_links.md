@@ -1,4 +1,4 @@
-## What's Next
+### What's Next
 
 - [Searching for Dashboards](https://community.wavefront.com/docs/DOC-1066)
 - [Managing Dashboards](https://community.wavefront.com/docs/DOC-1068)

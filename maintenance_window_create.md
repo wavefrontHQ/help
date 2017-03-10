@@ -1,4 +1,4 @@
-## Creating a Maintenance Window
+### Creating a Maintenance Window
 
 When you create a maintenance window you specify when the window begins and ends and the alerts and
 sources to suppress during the maintenance window.

@@ -1,4 +1,4 @@
-## Creating Alerts
+### Creating Alerts
 
 An alert is a condition and set of targets to be notified when the condition evaluates to true or false for a specified
 period of time. You express conditions using [ts() queries](https://community.wavefront.com/docs/DOC-1019) and
