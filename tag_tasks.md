@@ -10,4 +10,4 @@ When there are enough tags, type a tag name in the Search box below **Tags** in 
 The search process is case insensitive; searching for **myapp** returns **MyApp** and **myapp**.
 
 #### Filtering by Tags
-Click a tag icon ![agents tag](images/agents_tag.png#inline) in the filter bar or below {{include.entity}}.
+Click a tag icon <span class="v-align wf-tag-component item label label-default"><div class="tag-container v-align"><i class="fa fa-tag"></i>MyService.MyApp</div></span> in the filter bar or below {{include.entity}}.
