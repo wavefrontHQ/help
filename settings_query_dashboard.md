@@ -1,11 +1,9 @@
 ### Understanding Slow Queries
 
-Jump to Slow Query Dashboard Sections - Several slow queries being executed within the selected time window can cause
-the Slow Query Dashboard page to be very long. These section links allow you to jump down to the relevant section of
-your choice. The links display only after you have scrolled down the page.
+Slow Query Dashboard helps you understand why certain queries take a long time to display. Section links allow you to jump down to sections containing details. The links display only after you have scrolled down the page.
 
-General Information - Provides general information about slow queries in the system. You can quickly see which slow
-queries failed to complete vs. which queries took a long time but eventually completed. It also provides you with the
-number of slow queries by user(s).
+The **Dashboard** section summarizes slow queries in the system. You can quickly see the number of slow queries, which slow queries failed to complete vs. which queries took a long time but eventually completed. It also provides you with the number of slow queries by user. The time window [1h, 12h, 1d] buttons control which slow queries you are viewing. 
 
-Time Windows - Allow you to look at slow queries executed within the selected time windows.
+The **Slow Queries** section provides details (timestamp, query type, ts() query, points, etc.) about the slow queries.
+
+The **Resource Consumption by User** section displays each user that ran a slow query in that window and provides details such as time spent, total points scanned, and total CPU consumed.
