@@ -3,7 +3,7 @@ A tag is custom metadata that groups together {{include.entities}}. Tags are org
 
 #### Adding Tags
 1. Click **+tag** below {{include.entity}} or select checkboxes next to {{include.entities}} and click **+ Tag**.
-1. Start typing a tag name and click a tag or click **Create Tag** and type a tag name. Tag names are case sensitive; **MyApp** and **myapp** are distinct tags.
+1. Type a tag name and click a matching tag or click **Create Tag** and type a new tag name. Tag names are case sensitive; **MyApp** and **myapp** are distinct tags.
 
 #### Searching Tags
 Expand nodes under **Tag Paths** or type a tag name in the Search box under **Tags**. Search is case insensitive; typing **myapp** returns **MyApp** and **myapp**.

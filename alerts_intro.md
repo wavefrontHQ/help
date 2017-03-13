@@ -6,4 +6,4 @@ Active alerts can be in either the checking or firing states. Inactive alerts ar
 invalid.
 
 To disable alert checking for a set of sources during a specific time window you can put them in maintenance.
-Alternatively snoozing alerts disables alert checking for a fixed time window.
+Snoozing alerts disables alert checking for a fixed time window.
