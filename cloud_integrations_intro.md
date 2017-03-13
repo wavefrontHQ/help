@@ -14,8 +14,8 @@ adds as point tags **accountId**, **Region**, and CloudWatch dimensions.
 
 ### CloudTrail
 
-The CloudTrail integration retrieves EC2 event information stored in log files in AWS S3, parses the files for all events that result from write operations, and creates a Wavefront **System** event that represents the AWS event.
+The CloudTrail integration retrieves EC2 event information stored in log files, parses the files for events that result from write operations, and creates Wavefront **System** events that represent the AWS events.
 
 ### EC2
 
-The EC2 integration retrieves additional metrics with point tags using AWS API other than CloudWatch: **aws.instance.price** , **aws.reservedinstance.count**, **aws.ebs.[volumesize and volumeiops]**.
+The EC2 integration retrieves additional metrics with point tags using AWS APIs other than CloudWatch.
