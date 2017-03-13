@@ -1,5 +1,5 @@
 #### What is a Tag?
-A tag is custom metadata that groups together {{include.entities}}. Tags are organized in a hierarchy by separating path components with a **\".\"** as in **MyService.MyApp**
+A tag is custom metadata that groups together {{include.entities}}. Tags are organized in a hierarchy&mdash; e.g. **MyService.MyApp**&mdash;by separating components with a **'.'**.
 
 #### Adding Tags
 1. Click **+tag** below {{include.entity}} or select checkboxes next to {{include.entities}} and click **+ Tag**.
