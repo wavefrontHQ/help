@@ -7,3 +7,5 @@ such as [AWS](https://community.wavefront.com/docs/DOC-1032).
 Once metrics are ingested into Wavefront you can [query](https://community.wavefront.com/docs/DOC-1019) and
 [chart](https://community.wavefront.com/docs/DOC-1158) the data to help understand underlying patterns. You can create
 [alerts](https://community.wavefront.com/docs/DOC-1052) to notify operators when anomalous values indicate a system malfunction.
+
+Add hide metrics?
