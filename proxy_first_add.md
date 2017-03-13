@@ -4,6 +4,6 @@ Wavefront makes it easy to stream your telemetry data into Wavefront. As shown i
 
 ![Wavefront architecture](images/wavefront_architecture.png)
 
-An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, [flow control](https://community.wavefront.com/docs/DOC-1034), [metrics preprocessing](https://community.wavefront.com/docs/DOC-1207), and more. The WAVEFRONT PROXY <strong>Add Now</strong> <i class="icon-arrow-right"></i> link displays a script that installs the proxy and a script for installing a Telegraf collector agent.
+An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, [flow control](https://community.wavefront.com/docs/DOC-1034), [metrics preprocessing](https://community.wavefront.com/docs/DOC-1207), and more. The WAVEFRONT PROXY <strong>Add Now</strong> <i class="icon-arrow-right"></i> link displays a script that installs the proxy and a script that installs a Telegraf collector agent.
 
 Wavefront directly pulls the metrics data from cloud metrics services such as those offered by [Amazon Web Services (AWS)](https://aws.amazon.com). [Cloud integrations](https://community.wavefront.com/docs/DOC-1032) currently support AWS CloudWatch, CloudTrail, and EC2.
