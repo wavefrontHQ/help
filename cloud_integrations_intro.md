@@ -6,16 +6,14 @@ Cloud integrations allow you to ingest metrics directly from cloud services. Wav
 #### CloudWatch
 
 The CloudWatch integration retrieves AWS [metric and
-dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CW_Support_For_AWS.html) data using the AWS
-CloudWatch API.
+dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CW_Support_For_AWS.html) data.
 
-Wavefront sets the value of the metric's [source](https://community.wavefront.com/docs/DOC-1031) field to the Amazon instance ID, the value of [EC2 tags](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html), or the value of the *first* CloudWatch [dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Dimension). Wavefront
-adds as point tags **accountId**, **Region**, and CloudWatch dimensions.
+The metric's [source](https://community.wavefront.com/docs/DOC-1031) field is set to the Amazon instance ID, or the value of [EC2 tags](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html) or the *first* CloudWatch [dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Dimension) with the point tags **accountId**, **Region**, and CloudWatch dimensions.
 
 #### CloudTrail
 
-The CloudTrail integration retrieves EC2 event information stored in log files, parses the files for events that result from write operations, and creates Wavefront **System** events that represent the AWS events.
+The CloudTrail integration retrieves EC2 event information stored in log files, parses the files for write operations, and creates Wavefront **System** events that represent the AWS events.
 
 #### EC2
 
-The EC2 integration retrieves additional metrics with point tags using AWS APIs other than CloudWatch.
+The EC2 integration retrieves additional metrics using AWS APIs other than CloudWatch.
