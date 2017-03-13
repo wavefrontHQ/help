@@ -12,7 +12,7 @@ The metric's [source](https://community.wavefront.com/docs/DOC-1031) field is se
 
 #### CloudTrail
 
-The CloudTrail integration retrieves EC2 event information stored in log files, parses the files for write operations, and creates Wavefront **System** events that represent the AWS events.
+The CloudTrail integration retrieves EC2 event information stored in log files, extracts write operations, and creates Wavefront **System** events that represent the AWS events.
 
 #### EC2
 
