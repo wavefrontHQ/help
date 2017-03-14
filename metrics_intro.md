@@ -8,4 +8,4 @@ Once metrics are ingested into Wavefront you can [query](https://community.wavef
 [chart](https://community.wavefront.com/docs/DOC-1158) the data to help understand underlying patterns. You can create
 [alerts](https://community.wavefront.com/docs/DOC-1052) to notify operators when anomalous values indicate a system malfunction.
 
-Metrics are automatically removed after 4 weeks of inactivity, but you can also manually hide metrics. While hidden metrics are removed from autocomplete, they can still be used in a query when data values are present.
+Metrics are automatically hidden after 4 weeks of inactivity, but you can also manually hide metrics. While hidden metrics are removed from autocomplete, they can still be used in a query when data values are present.

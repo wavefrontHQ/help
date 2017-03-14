@@ -7,4 +7,4 @@ Events originate from several different sources. When you perform actions in Wav
 
 You can close (end) user events that are ongoing (whether they have no end time or a specific end time).
 
-Events display as icons on the X-axis and as lines and regions of a chart. You control which events display using [events() expressions](https://community.wavefront.com/docs/DOC-1157) and can control whether they display at the [chart](https://community.wavefront.com/docs/DOC-1158#jive_content_id_Display_Source_Events) or [dashboard](https://community.wavefront.com/docs/DOC-1063) level. 
+Events display as icons on the X-axis and as lines and regions of a chart. You specify which events display using [events() expressions](https://community.wavefront.com/docs/DOC-1157) and control whether they display at the [chart](https://community.wavefront.com/docs/DOC-1158#jive_content_id_Display_Source_Events) or [dashboard](https://community.wavefront.com/docs/DOC-1063) level. 
