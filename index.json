@@ -14,7 +14,7 @@
     },
     {
       "path": "^/chart$",
-      "file": "chart_dashboard_create.md"
+      "file": "charts.md"
     },
     {
       "path": "^/dashboards$",
