@@ -41,8 +41,20 @@
       "file": "cloud_integrations.md"
     },
     {
-      "path": "^/extdata/add$",
-      "file": "cloud_integrations_add.md"
+      "path": "^/extdata/add/amazon$",
+      "file": "cloud_integrations_add_amazon.md"
+    },
+    {
+      "path": "^/extdata/add/cloudwatch$",
+      "file": "cloud_integrations_add_cloudwatch.md"
+    },
+    {
+      "path": "^/extdata/add/cloudtrail$",
+      "file": "cloud_integrations_add_cloudtrail.md"
+    },
+    {
+      "path": "^/extdata/add/ec2$",
+      "file": "cloud_integrations_add_aws_metrics.md"
     },
     {
       "path": "^/extdata/(.*)$",

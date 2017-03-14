@@ -1,7 +1,6 @@
 ### What is a Cloud Integration?
 
-Cloud integrations allow you to ingest metrics directly from cloud services. Wavefront offers [Amazon Web Services](http://aws.amazon.com) (AWS)
-[CloudWatch](http://aws.amazon.com/cloudwatch), [CloudTrail](http://aws.amazon.com/cloudtrail), and EC2 integrations.
+Cloud integrations allow you to ingest metrics directly from cloud services. Wavefront offers [Amazon Web Services](http://aws.amazon.com) (AWS) [CloudWatch](http://aws.amazon.com/cloudwatch), [CloudTrail](http://aws.amazon.com/cloudtrail), and EC2 integrations.
 
 #### CloudWatch
 
@@ -12,8 +11,10 @@ The metric's [source](https://community.wavefront.com/docs/DOC-1031) field is se
 
 #### CloudTrail
 
-The CloudTrail integration retrieves EC2 event information stored in log files, extracts write operations, and creates Wavefront **System** events that represent the AWS events.
+The CloudTrail integration retrieves EC2 event information and creates Wavefront **System** events that represent the AWS events.
 
 #### EC2
 
 The EC2 integration retrieves additional metrics using AWS APIs other than CloudWatch.
+
+{% include cloud_integrations_add.md %}
