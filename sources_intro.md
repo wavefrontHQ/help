@@ -6,5 +6,5 @@ cloud integrations, the source is extracted from [AWS service properties or dime
 
 Sources are automatically hidden after 4 weeks of inactivity, but you can also manually hide sources. While hidden sources are removed from autocomplete, they can still be used in a query when data values are present.
 
-The [Wavefront Query Language](https://community.wavefront.com/docs/DOC-1019) supports filtering by sources
+[Wavefront Query Language](https://community.wavefront.com/docs/DOC-1019) supports filtering by sources
 and source tags.
