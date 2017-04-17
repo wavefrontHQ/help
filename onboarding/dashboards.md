@@ -1,7 +1,4 @@
-## Dashboards
-
 Dashboards are wonderful.
-
 
 <table class="layout">
 <colgroup>

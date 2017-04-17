@@ -1,7 +1,4 @@
-## Alerts
-
 Alerts are wonderful.
-
 
 <table class="layout">
 <colgroup>
