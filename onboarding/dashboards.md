@@ -10,7 +10,7 @@ Dashboards are wonderful.
 </colgroup>
 <tr>
 <td style="text-align: left;vertical-align: middle">Check out this quick video for a quick look at what our dashboards can do.</td>  
-<td><video width="100%" controls><source src="images/dashboards_preview.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></td>
+<td><video width="100%" controls autoplay><source src="images/dashboards_preview.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></td>
 </tr>
 </table>
 
