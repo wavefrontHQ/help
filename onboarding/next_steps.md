@@ -2,7 +2,7 @@ Now that you are started with Wavefront, here are some other areas you can explo
 
 ### Invite New Users
 
-
+[[inviteUsers]]
 
 ### Work Through Tutorials
 
