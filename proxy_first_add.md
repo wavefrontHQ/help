@@ -7,6 +7,6 @@ Wavefront makes it easy to stream your metrics into Wavefront. As shown in the d
 An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, [flow control](https://community.wavefront.com/docs/DOC-1034), [metrics preprocessing](https://community.wavefront.com/docs/DOC-1207), and more. Wavefront offers many options for 
 [installing proxies](https://community.wavefront.com/docs/DOC-1271).
 
-Wavefront directly pulls the metrics data from cloud metrics services such as those offered by [Amazon Web Services (AWS)](https://aws.amazon.com). Wavefront offers AWS CloudWatch, CloudTrail, and EC2 [cloud ßintegrations](https://community.wavefront.com/docs/DOC-1032).
+Wavefront directly pulls the metrics data from cloud metrics services such as those offered by [Amazon Web Services (AWS)](https://aws.amazon.com). Wavefront offers AWS CloudWatch, CloudTrail, and EC2 [cloud integrations](https://community.wavefront.com/docs/DOC-1032).
 
 

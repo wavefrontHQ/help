@@ -5,7 +5,7 @@
       "file": "alerts.md"
     },
     {
-      "path": "^onboard/alerts$",
+      "path": "^/onboard/alerts$",
       "file": "alerts.md"
     },
     {

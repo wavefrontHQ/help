@@ -1,7 +1,5 @@
 With Wavefront go beyond simple threshold-based anomalies, which often make it difficult to distinguish between false alarms and real issues. Wavefront allows you to craft alerts that are tailored for your data. With a wealth of functions, Wavefront can help you design the perfect alert for any anomaly. When creating an alert, you can backtest on existing data so you can see when the alert would have fired in the past. Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.
 
-<video width="100%" controls autoplay><source src="images/" type="video/mp4">Your browser does not support HTML5 video.</video>
-
 <table class="layout">
 <colgroup>
 <col width="50%" />

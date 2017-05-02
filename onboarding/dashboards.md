@@ -11,15 +11,13 @@ In addition to standard line, point, stacked area charts, you can
 - Highlight critical metrics with sparklines
 - Use Markdown charts to integrate operational analysis and run book procedures. 
 
-Wavefront dashboards support full change tracking, version management, and direct cloning. 
-
 <table class="layout">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: middle">Check out this preview video for a comprehensive look at what Wavefront dashboards can do.</td>  
+<td style="text-align: left;vertical-align: middle">Check out this preview video for a comprehensive look at what you can do in Wavefront dashboards.</td>  
 <td><video width="100%" controls autoplay><source src="images/onboarding-dashboards.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></td>
 </tr>
 </table>
