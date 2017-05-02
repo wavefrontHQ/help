@@ -5,6 +5,10 @@
       "file": "alerts.md"
     },
     {
+      "path": "^onboard/alerts$",
+      "file": "alerts.md"
+    },
+    {
       "path": "^/alerts/add$",
       "file": "alert_create.md"
     },
@@ -18,6 +22,10 @@
     },
     {
       "path": "^/dashboards$",
+      "file": "dashboards.md"
+    },
+    {
+      "path": "^/onboard/dashboards$",
       "file": "dashboards.md"
     },
     {
@@ -136,6 +144,14 @@
     {
       "path": "^/webhooks/(.*)$",
       "file": "webhook_create.md"
-    }
+    },
+    {
+      "path": "^/onboard/welcome$",
+      "file": "welcome.md"
+    },  
+    {
+      "path": "^/onboard/next-steps$",
+      "file": "next_steps.md"
+    }  
   ]
 }

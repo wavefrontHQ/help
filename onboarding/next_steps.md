@@ -15,8 +15,8 @@ Get hands-on experience with [creating charts, dashboards, and alerts](https://c
 
 Try the integrations tutorials
 
-[Tutorial: Getting Amazon Web Services Data into Wavefront](https://community.wavefront.com/docs/DOC-1280)
-[Tutorial: Getting Host, Application, and Custom Data into Wavefront](https://community.wavefront.com/docs/DOC-1281)
+- [Tutorial: Getting Amazon Web Services Data into Wavefront](https://community.wavefront.com/docs/DOC-1280)
+- [Tutorial: Getting Host, Application, and Custom Data into Wavefront](https://community.wavefront.com/docs/DOC-1281)
 
 or explore the full range of supported integrations in the [Integrations](https://community.wavefront.com/docs/DOC-1275) page.
 
@@ -24,6 +24,5 @@ or explore the full range of supported integrations in the [Integrations](https:
 
 The alert you create in Tutorial: Getting Started sends a notification to your email address. You can explore other types of notifications:
 
-Using PagerDuty? See [Integrating Wavefront Alerts with PagerDuty](https://community.wavefront.com/docs/DOC-1056)
-
-Learn about [notifications and webhooks](https://community.wavefront.com/docs/DOC-1054). 
+- Using PagerDuty? See [Integrating Wavefront Alerts with PagerDuty](https://community.wavefront.com/docs/DOC-1056).
+- Learn about [notifications and webhooks](https://community.wavefront.com/docs/DOC-1054).
