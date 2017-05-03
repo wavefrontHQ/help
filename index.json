@@ -86,7 +86,7 @@
     },
     {
       "path": "^/onboard/integration-status$",
-      "file": "integration-status.md"
+      "file": "integration_status.md"
     },
     {
       "path": "^/metrics$",
@@ -156,6 +156,10 @@
     {
       "path": "^/onboard/welcome$",
       "file": "welcome.md"
+    },  
+    {
+      "path": "^/onboard/your-content$",
+      "file": "your_content.md"
     },  
     {
       "path": "^/onboard/next-steps$",
