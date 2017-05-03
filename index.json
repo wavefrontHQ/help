@@ -81,6 +81,14 @@
       "file": "external_link_create.md"
     },
     {
+      "path": "^/integrations$",
+      "file": "integrations.md"
+    },
+    {
+      "path": "^/interations-status$",
+      "file": "integrations-status.md"
+    },
+    {
       "path": "^/metrics$",
       "file": "metrics.md"
     },
