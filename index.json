@@ -81,11 +81,11 @@
       "file": "external_link_create.md"
     },
     {
-      "path": "^/integrations$",
+      "path": "^/onboard/integrations$",
       "file": "integrations.md"
     },
     {
-      "path": "^/interations-status$",
+      "path": "^/onboard/integrations-status$",
       "file": "integrations-status.md"
     },
     {
