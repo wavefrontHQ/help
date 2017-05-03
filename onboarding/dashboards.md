@@ -8,15 +8,14 @@ To get you started, Wavefront includes pre-built charts and dashboards for Amazo
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: top">In addition to displaying your data in standard line, point, and stacked area charts, you can:
-
+<td style="text-align: left;vertical-align: top">In addition to displaying your data in standard line, point, and stacked area charts:
 <ul>
 <li>Explore correlations with scatter plots</li>
 <li>Highlight critical metrics with sparklines</li>
 <li>Use Markdown charts to integrate operational analysis and run book procedures</li>
 </ul>
 
-Both charts and dashboards support:
+Charts and dashboards both support:
 <ul>
 <li>Time scale quick select and zoom in and out</li>
 <li>Isolating sources and series</li>

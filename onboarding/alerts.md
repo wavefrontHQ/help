@@ -1,20 +1,21 @@
-With Wavefront go beyond simple threshold-based anomalies, which often make it difficult to distinguish between false alarms and real issues. 
+Wavefront alerts get you on top of issues emerging across all your distributed applications. Intelligent alerting helps DevOps and developer teams avoid alert fatigue by increasing accuracy of incident detection.
+
 <table class="layout">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: top">Wavefront allows you to craft intelligent alerts tailored to your data:
+<td style="text-align: left;vertical-align: top">Craft intelligent alerts using:
 <ul>
 <li>Over a hundred functions help you design the perfect alert for any anomaly.</li>
 <li>Backtest on existing data so you can see when the alert would have fired in the past.</li>
-<li>Deactivate alerts using maintenance windows or snoozing.
+<li>Deactivation via maintenance windows or snoozing.
 </ul>
 
 Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.
 
-You can send notification of alert state changes to any number of channels:
+Send notification of alert state changes to any number of channels:
 <ul>
 <li>email</li>
 <li>PagerDuty and VictorOps</li>
