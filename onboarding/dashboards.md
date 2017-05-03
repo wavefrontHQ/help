@@ -1,4 +1,4 @@
-Wavefront's charts and dashboards enable the real-time insight that helps you perform meaningful analysis and make data-driven decisions. In addition to standard line, point, stacked area charts, you can
+Wavefront's charts and dashboards enable the real-time insight that helps you perform meaningful analysis and make data-driven decisions. In addition to displaying your data in standard line, point, and stacked area charts, you can
 
 - Explore correlations with scatter plots
 - Highlight critical metrics with sparklines
@@ -6,12 +6,11 @@ Wavefront's charts and dashboards enable the real-time insight that helps you pe
 
 Both charts and dashboards support:
 
-- Selecting time scales
-- Sharing live and historical data
+- Time scale quick select and zoom in and out
 - Isolating sources and series
 - Displaying events
 
-To get you started, Wavefront includes dashboards for Amazon Web Services, container technologies, and standard collector agents. 
+To get you started, Wavefront includes pre-built charts and dashboards for Amazon Web Services, container technologies, and standard collector agents. 
 
 <table class="layout">
 <colgroup>

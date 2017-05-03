@@ -2,7 +2,7 @@ With Wavefront go beyond simple threshold-based anomalies, which often make it d
 
 When creating an alert, you can backtest on existing data so you can see when the alert would have fired in the past. Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.
 
-You can integrate alerts with any number of notification channels, including email, PagerDuty, VictorOps, HipChat, Slack, and arbitrary webhooks.
+You can integrate alerts with any number of notification channels, including email, PagerDuty, VictorOps, HipChat, Slack, and invoke custom webhooks.
 
 <table class="layout">
 <colgroup>
