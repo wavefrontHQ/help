@@ -8,7 +8,7 @@ To get you started, Wavefront includes pre-built charts and dashboards for Amazo
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: middle">In addition to displaying your data in standard line, point, and stacked area charts, you can
+<td style="text-align: left;vertical-align: top">In addition to displaying your data in standard line, point, and stacked area charts, you can:
 
 <ul>
 <li>Explore correlations with scatter plots</li>
