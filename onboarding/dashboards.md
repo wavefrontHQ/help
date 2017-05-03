@@ -2,7 +2,7 @@ Wavefront's charts and dashboards enable the real-time insight that helps you pe
 
 - Explore correlations with scatter plots
 - Highlight critical metrics with sparklines
-- Use Markdown charts to integrate operational analysis and run book procedures. 
+- Use Markdown charts to integrate operational analysis and run book procedures
 
 Both charts and dashboards support:
 
