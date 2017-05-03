@@ -5,20 +5,19 @@
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: top">Wavefront alerts get you on top of issues emerging across all your distributed applications. Intelligent alerting helps DevOps and developer teams avoid alert fatigue by increasing accuracy of incident detection.<br /><br />
+<td style="text-align: left;vertical-align: top">Wavefront alerts get you on top of issues emerging across all your distributed applications. Intelligent alerting and accurate incident detection helps DevOps and developer teams avoid alert fatigue.<br /><br />
 
-Craft intelligent alerts using:
+Craft intelligent alerts:
 <ul>
-<li>Over a hundred functions, which help you design the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
-<li>Backtesting on existing data, so you can see when the alert would have fired in the past.</li>
-<li>Deactivation via maintenance windows or snoozing, to avoid wasting time on sidelined systems.
+<li>Over a hundred functions help you design the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
+<li>Backtesting existing data lets you see when the alert would have fired in the past.</li>
+<li>Deactivating to avoid wasting time on sidelined systems.
 </ul>
 
 Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.<br /><br />
 
 Send notification of alert state changes to any channel:
 <ul>
-<li>Email</li>
 <li>PagerDuty and VictorOps</li>
 <li>HipChat and Slack</li>
 <li>Custom webhooks</li>
