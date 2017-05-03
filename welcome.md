@@ -1,1 +1,1 @@
-{% include proxy_first_add.md %}
+{% include getting_started.md %}
