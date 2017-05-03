@@ -26,7 +26,7 @@
     },
     {
       "path": "^/onboard/dashboards$",
-      "file": "dashboards.md"
+      "file": "dashboards_onboarding.md"
     },
     {
       "path": "^/dashboard/(.+)$",
