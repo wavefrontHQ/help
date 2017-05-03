@@ -5,7 +5,7 @@ With Wavefront go beyond simple threshold-based anomalies, which often make it d
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: middle">Wavefront allows you to craft intelligent alerts tailored to your data:
+<td style="text-align: left;vertical-align: top">Wavefront allows you to craft intelligent alerts tailored to your data:
 <ul>
 <li>Over a hundred functions help you design the perfect alert for any anomaly.</li>
 <li>Backtest on existing data so you can see when the alert would have fired in the past.</li>
