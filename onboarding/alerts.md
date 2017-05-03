@@ -1,4 +1,3 @@
-Wavefront alerts get you on top of issues emerging across all your distributed applications. Intelligent alerting helps DevOps and developer teams avoid alert fatigue by increasing accuracy of incident detection.
 
 <table class="layout">
 <colgroup>
@@ -6,7 +5,9 @@ Wavefront alerts get you on top of issues emerging across all your distributed a
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: top">Craft intelligent alerts using:
+<td style="text-align: left;vertical-align: top">Wavefront alerts get you on top of issues emerging across all your distributed applications. Intelligent alerting helps DevOps and developer teams avoid alert fatigue by increasing accuracy of incident detection.
+
+Craft intelligent alerts using:
 <ul>
 <li>Over a hundred functions, which help you design the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
 <li>Backtesting on existing data, so you can see when the alert would have fired in the past.</li>

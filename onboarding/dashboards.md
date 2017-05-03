@@ -1,14 +1,14 @@
-Wavefront's charts and dashboards enable real-time insight that helps you perform meaningful analysis and make data-driven decisions. 
-
-To get you started, Wavefront includes pre-built charts and dashboards for Amazon Web Services, container technologies, and standard collector agents. 
-
 <table class="layout">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: top">In addition to displaying your data in standard line, point, and stacked area charts:
+<td style="text-align: left;vertical-align: top">Wavefront's charts and dashboards enable real-time insight that helps you perform meaningful analysis and make data-driven decisions. 
+
+To get you started, Wavefront includes pre-built charts and dashboards for Amazon Web Services, container technologies, and standard collector agents.
+
+In addition to displaying your data in standard line, point, and stacked area charts:
 <ul>
 <li>Explore correlations with scatter plots</li>
 <li>Highlight critical metrics with sparklines</li>

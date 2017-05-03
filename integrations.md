@@ -1,2 +1,2 @@
-### What is an Integration
+### What is an Integration?
 
