@@ -10,8 +10,8 @@
 Craft intelligent alerts:
 <ul>
 <li>Over a hundred functions help you design the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
-<li>Backtesting existing data lets you see when the alert would have fired in the past.</li>
-<li>Deactivating to avoid wasting time on sidelined systems.
+<li>Backtest existing data to see when an alert would have fired in the past.</li>
+<li>Deactivate alerts to avoid wasting time on sidelined systems.
 </ul>
 
 Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.<br /><br />
