@@ -5,7 +5,7 @@
 <col width="50%" />
 </colgroup>
 <tr>
-<td style="text-align: left;vertical-align: top">Wavefront alerts get you on top of issues emerging across all your distributed applications. Intelligent alerting helps DevOps and developer teams avoid alert fatigue by increasing accuracy of incident detection.
+<td style="text-align: left;vertical-align: top">Wavefront alerts get you on top of issues emerging across all your distributed applications. Intelligent alerting helps DevOps and developer teams avoid alert fatigue by increasing accuracy of incident detection.<br />
 
 Craft intelligent alerts using:
 <ul>
@@ -14,7 +14,7 @@ Craft intelligent alerts using:
 <li>Deactivation via maintenance windows or snoozing, to avoid wasting time on sidelined systems.
 </ul>
 
-Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.
+Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.<br />
 
 Send notification of alert state changes to any channel:
 <ul>
