@@ -8,7 +8,7 @@ Wavefront alerts get you on top of issues emerging across all your distributed a
 <tr>
 <td style="text-align: left;vertical-align: top">Craft intelligent alerts using:
 <ul>
-<li>Over a hundred functions help you design the perfect alert for any anomaly.</li>
+<li>Over a hundred functions help you design the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
 <li>Backtest on existing data so you can see when the alert would have fired in the past.</li>
 <li>Deactivation via maintenance windows or snoozing.
 </ul>
