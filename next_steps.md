@@ -1,4 +1,4 @@
-## What's Next
+### What's Next
 
 Wavefront has a wealth of resources for learning the platform. Check them out:
 
