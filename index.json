@@ -85,8 +85,8 @@
       "file": "integrations.md"
     },
     {
-      "path": "^/onboard/integrations-status$",
-      "file": "integrations-status.md"
+      "path": "^/onboard/integration-status$",
+      "file": "integration-status.md"
     },
     {
       "path": "^/metrics$",
