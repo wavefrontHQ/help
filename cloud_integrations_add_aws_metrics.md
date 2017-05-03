@@ -1,3 +1,3 @@
-### Registering an EC2 Integration
+### Registering an AWS Metrics+ Integration
 
-{% include cloud_integrations_add_single.md integration="EC2" %}
+{% include cloud_integrations_add_single.md integration="AWS Metrics+" %}

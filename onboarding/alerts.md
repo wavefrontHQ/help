@@ -1,4 +1,8 @@
-With Wavefront go beyond simple threshold-based anomalies, which often make it difficult to distinguish between false alarms and real issues. Wavefront allows you to craft alerts that are tailored for your data. With a wealth of functions, Wavefront can help you design the perfect alert for any anomaly. When creating an alert, you can backtest on existing data so you can see when the alert would have fired in the past. Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.
+With Wavefront go beyond simple threshold-based anomalies, which often make it difficult to distinguish between false alarms and real issues. Wavefront allows you to craft intelligent alerts tailored to your data. With a wealth of functions, Wavefront can help you design the perfect alert for any anomaly. 
+
+When creating an alert, you can backtest on existing data so you can see when the alert would have fired in the past. Ultimately you experience fewer false alarms and are better able to predict the behavior of your applications and environments.
+
+You can integrate alerts with any number of notification channels, including email, PagerDuty, VictorOps, HipChat, Slack, and arbitrary webhooks.
 
 <table class="layout">
 <colgroup>
