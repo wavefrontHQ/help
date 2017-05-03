@@ -23,7 +23,7 @@ Both charts and dashboards support:
 <li>Displaying events</li>
 </ul>
 </td>  
-<td><video width="100%" controls autoplay><source src="images/onboarding-dashboards.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></td>
+<td><video class="xs-pl-20" width="100%" controls autoplay><source src="images/onboarding-dashboards.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></td>
 </tr>
 </table>
 

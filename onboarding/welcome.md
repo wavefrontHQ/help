@@ -7,6 +7,6 @@ Welcome to Wavefront. Let's get you started.
 </colgroup>
 <tr>
 <td style="text-align: left;vertical-align: middle">First, have a look at how Wavefront works.</td>  
-<td><video width="100%" controls autoplay><source src="images/onboarding-welcome.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></td>
+<td><video class="xs-pl-20" width="100%" controls autoplay><source src="images/onboarding-welcome.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></td>
 </tr>
 </table>
