@@ -1,9 +1,8 @@
 <div class="container-fluid">
 <div class="row">
 <p class="lead">Now that you are started with Wavefront, here are some other areas you can explore.</p>
-</div>
-
 <hr/>
+</div>
 
 ### Invite New Users
 

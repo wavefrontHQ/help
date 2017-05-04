@@ -1,9 +1,9 @@
 <div class="container-fluid">
 <div class="row">
 <p class="lead">Wavefront alerts get you on top of issues emerging across all your distributed applications. Intelligent alerting and accurate incident detection helps DevOps and developer teams avoid alert fatigue.</p>
+<hr/>
 </div>
 
-<hr/>
 
 <div class="row">
 <div class="col-sm-12 col-md-6">

@@ -1,7 +1,9 @@
 <div class="container-fluid">
 <div class="row">
 <p class="lead">Welcome to Wavefront. Let's get you started.</p>
+<hr/>
 </div>
+
 <div class="row">
 <div class="col-sm-12 col-md-6">
 <p>First, have a look at how Wavefront works.</p>
