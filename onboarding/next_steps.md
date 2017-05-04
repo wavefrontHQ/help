@@ -1,8 +1,15 @@
-Now that you are started with Wavefront, here are some other areas you can explore:
+<div class="container-fluid">
+<div class="row">
+<p class="lead">Now that you are started with Wavefront, here are some other areas you can explore.</p>
+</div>
+
+<hr/>
 
 ### Invite New Users
 
 [[inviteUsers]]
+
+<hr/>
 
 ### Learn Wavefront Through Tutorials
 
@@ -10,6 +17,7 @@ Review the [Getting Started with Wavefront Query Language](/dashboard/intro-to-t
 
 Get hands-on experience with creating charts, dashboards, and alerts in [Tutorial: Getting Started](https://community.wavefront.com/docs/DOC-1248).
 
+<hr/>
 
 ### Add More Integrations
 
@@ -20,6 +28,8 @@ Follow the integrations tutorials
  
 Explore the full range of supported integrations in the [Integrations](/integrations) page.
 
+<hr/>
+
 ### Explore Notifications
 
 The alert you create in Tutorial: Getting Started sends a notification to your email address. Explore other types of notifications:
@@ -27,3 +37,4 @@ The alert you create in Tutorial: Getting Started sends a notification to your e
 - Using PagerDuty? See [PagerDuty integration](/integrations/pagerduty) page.
 - Send messages to [Slack](/integrations/slack) or [HipChat](/integrations/hipchat).
 - Learn how to create custom [webhooks](https://community.wavefront.com/docs/DOC-1054).
+</div>

@@ -2,6 +2,9 @@
 <div class="row">
 <p class="lead">Wavefront's charts and dashboards enable real-time insight that helps you perform meaningful analysis and make data-driven decisions.</p>
 </div>
+
+<hr/>
+
 <div class="row">
 <div class="col-sm-12 col-md-6">
 <p>To get you started, Wavefront includes pre-built charts and dashboards for Amazon Web Services, container technologies, and standard collector agents.</p>
@@ -24,8 +27,10 @@ In addition to displaying your data in standard line, point, and stacked area ch
 <video width="100%" controls autoplay><source src="images/onboarding-dashboards.mp4" type="video/mp4">Your browser does not support HTML5 video.</video>
 </div>
 </div>
-</div>  
 </div>
+</div>
+
+<hr/>
 
 ### Wavefront Tour Dashboards
 
