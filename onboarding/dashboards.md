@@ -1,12 +1,10 @@
-<table class="layout">
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tr>
-<td style="text-align: left;vertical-align: top">Wavefront's charts and dashboards enable real-time insight that helps you perform meaningful analysis and make data-driven decisions.<br /><br />
-
-To get you started, Wavefront includes pre-built charts and dashboards for Amazon Web Services, container technologies, and standard collector agents.<br /><br />
+<div class="container-fluid">
+<div class="row">
+<p class="lead">Wavefront's charts and dashboards enable real-time insight that helps you perform meaningful analysis and make data-driven decisions.</p>
+</div>
+<div class="row">
+<div class="col-sm-12 col-md-6">
+<p>To get you started, Wavefront includes pre-built charts and dashboards for Amazon Web Services, container technologies, and standard collector agents.</p>
 
 In addition to displaying your data in standard line, point, and stacked area charts:
 <ul>
@@ -14,25 +12,24 @@ In addition to displaying your data in standard line, point, and stacked area ch
 <li>Highlight critical metrics with sparklines</li>
 <li>Use Markdown charts to integrate operational analysis and run book procedures</li>
 </ul>
-
-Charts and dashboards both support:
+<p>Charts and dashboards both support:</p>
 <ul>
 <li>Time scale quick select and zoom in and out</li>
 <li>Isolating sources and series</li>
 <li>Displaying events</li>
-</ul>
-</td>  
-<td><video class="xs-pl-20" width="100%" controls autoplay><source src="images/onboarding-dashboards.mp4" type="video/mp4">Your browser does not support HTML5 video.</video></td>
-</tr>
-</table>
+</ul>    
+</div>
+<div class="col-sm-12 col-md-6"> 
+<div class="well">   
+<video width="100%" controls autoplay><source src="images/onboarding-dashboards.mp4" type="video/mp4">Your browser does not support HTML5 video.</video>
+</div>
+</div>
+</div>  
+</div>
 
 ### Wavefront Tour Dashboards
 
 To get an overview of the benefits and capabilities of Wavefront, check out the Wavefront **Tour** dashboards. You can click the links below or head on over to the [dashboard browser](/dashboards) and click the **wavefront.tour** tag.
 
 [[wavefrontTourDashboards]]
-
-
-
-
 
