@@ -6,4 +6,4 @@
 ### Interacting with Charts and Dashboards
 
 Wavefront provides many ways to [interact with charts and dashboards](https://community.wavefront.com/docs/DOC-1067).
-You can change time windows, share links, apply global ßqueries, isolate sources and series, and zoom in and out. In charts you can use hot keys to see full precision values and fish-eye views at the cursor.
+You can change time windows, share links, apply global queries, isolate sources and series, and zoom in and out. In charts you can use hot keys to see full precision values and fish-eye views at the cursor.

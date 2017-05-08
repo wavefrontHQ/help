@@ -1,6 +1,6 @@
 <div class="container-fluid">
 <div class="row">
-<p class="lead">Wavefront's charts and dashboards enable real-time insight that helps you perform meaningful analysis and make data-driven decisions.</p>
+<p class="lead">Wavefront's dashboards enable real-time insight.</p>
 <hr/>
 </div>
 
