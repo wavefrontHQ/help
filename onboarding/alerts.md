@@ -4,19 +4,16 @@
 <hr/>
 </div>
 
-
 <div class="row">
 <div class="col-sm-12 col-md-6">
-Intelligent alerting and accurate incident detection helps DevOps and developer teams avoid alert fatigue.
-
-<p>Craft intelligent alerts:</p>
+<p>Intelligent alerting and accurate incident detection features help DevOps and developer teams avoid alert fatigue:</p>
 <ul>
-<li>Over a hundred functions help you design the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
-<li>Backtest existing data to see when an alert would have fired in the past.</li>
-<li>Deactivate alerts to avoid wasting time on sidelined systems.
+<li>Over a hundred functions for designing the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
+<li>Backtesting existing data to see when an alert would have fired in the past.</li>
+<li>Deactivating alerts to avoid wasting time on sidelined systems.
 </ul>
 
-<p>Ultimately experience fewer false alarms and are better able to predict the behavior of your applications and environments.</p>
+<p>Ultimately experience fewer false alarms and more accurately predict the behavior of your applications and environments.</p>
 
 <p>Send notification of alert state changes to any channel:</p>
 <ul>

@@ -1,6 +1,6 @@
 <div class="container-fluid">
 <div class="row">
-<p class="lead">Now that you are started with Wavefront, here are some other areas you can explore.</p>
+<p class="lead">Now that you are started with Wavefront, here are some other areas to explore.</p>
 <hr/>
 </div>
 
@@ -20,7 +20,7 @@ Get hands-on experience with creating charts, dashboards, and alerts in [Tutoria
 
 ### Add More Integrations
 
-Follow the integrations tutorials
+Follow the integrations tutorials:
 
 - [Tutorial: Getting Started with Amazon Web Services Data](https://community.wavefront.com/docs/DOC-1280)
 - [Tutorial: Getting Started with Host, Application, and Custom Data](https://community.wavefront.com/docs/DOC-1281)

@@ -1,6 +1,6 @@
 <div class="container-fluid">
 <div class="row">
-<p class="lead">Wavefront's dashboards enable real-time insight.</p>
+<p class="lead">Wavefront dashboards enable real-time insight.</p>
 <hr/>
 </div>
 
