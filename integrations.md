@@ -1,2 +1,1 @@
-### What is an Integration?
-
+{% include integrations_onboarding.md %}

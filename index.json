@@ -5,10 +5,6 @@
       "file": "alerts.md"
     },
     {
-      "path": "^/onboard/alerts$",
-      "file": "alerts.md"
-    },
-    {
       "path": "^/alerts/add$",
       "file": "alert_create.md"
     },
@@ -23,10 +19,6 @@
     {
       "path": "^/dashboards$",
       "file": "dashboards.md"
-    },
-    {
-      "path": "^/onboard/dashboards$",
-      "file": "dashboards_onboarding.md"
     },
     {
       "path": "^/dashboard/(.+)$",
@@ -81,12 +73,8 @@
       "file": "external_link_create.md"
     },
     {
-      "path": "^/onboard/integrations$",
+      "path": "^/integrations$",
       "file": "integrations.md"
-    },
-    {
-      "path": "^/onboard/integration-status$",
-      "file": "integration_status.md"
     },
     {
       "path": "^/metrics$",
@@ -117,6 +105,10 @@
       "path": "^/proxies$",
       "file": "proxies.md"
     },
+    {
+      "path": "^/proxies/add$",
+      "file": "proxy_first_add.md"
+    },    
     {
       "path": "^/settings/profile$",
       "file": "settings_profile.md"
@@ -152,18 +144,6 @@
     {
       "path": "^/webhooks/(.*)$",
       "file": "webhook_create.md"
-    },
-    {
-      "path": "^/onboard/welcome$",
-      "file": "welcome.md"
-    },  
-    {
-      "path": "^/onboard/your-content$",
-      "file": "your_content.md"
-    },  
-    {
-      "path": "^/onboard/next-steps$",
-      "file": "next_steps.md"
-    }  
+    }
   ]
 }
