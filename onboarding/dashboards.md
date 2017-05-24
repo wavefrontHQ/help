@@ -8,7 +8,7 @@
 <div class="col-sm-12 col-md-6">
 <p>To get you started, Wavefront includes pre-built charts and dashboards for Amazon Web Services, container technologies, and standard collector agents.</p>
 
-In addition to displaying your data in standard line, point, and stacked area charts:
+<p>In addition to displaying your data in standard line, point, and stacked area charts:</p>
 <ul>
 <li>Explore correlations with scatter plots</li>
 <li>Highlight critical metrics with sparklines</li>
@@ -33,7 +33,7 @@ In addition to displaying your data in standard line, point, and stacked area ch
 
 ### Wavefront Tour Dashboards
 
-To get an overview of the benefits and capabilities of Wavefront, check out the Wavefront **Tour** dashboards. You can click the links below or head on over to the [dashboard browser](/dashboards) and click the **wavefront.tour** tag.
+To get an overview of the benefits and capabilities of Wavefront, check out the Wavefront Tour dashboards. You can click the links below or head on over to the [dashboard browser](/dashboards) and click the **wavefront.tour** tag.
 
 [[wavefrontTourDashboards]]
 

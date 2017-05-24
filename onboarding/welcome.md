@@ -6,15 +6,15 @@
 
 <div class="row">
 <div class="col-sm-12 col-md-6">
-First, have a look at how Wavefront works.
+<p>First, have a look at how Wavefront works.</p>
 
-Wavefront makes it easy to stream your data into Wavefront. Wavefront supports two approaches depending on where the metrics originate: push from agents and pull from cloud services.
+<img src="images/wavefront_architecture.png" alt="Wavefront architecture" style="display:block;width:400px;margin:10px auto;"></img>
 
-<img src="images/wavefront_architecture.png" alt="Wavefront architecture" style="height:75%;"></img>
+<p>Wavefront makes it easy to stream your data into Wavefront. Wavefront supports two approaches depending on where the metrics originate: push from agents and pull from cloud services.</p>
 
-An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, [flow control](https://community.wavefront.com/docs/DOC-1034), [metrics preprocessing](https://community.wavefront.com/docs/DOC-1207), and more.
+<p>An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, [flow control](https://community.wavefront.com/docs/DOC-1034), [metrics preprocessing](https://community.wavefront.com/docs/DOC-1207), and more.</p>
 
-Wavefront directly pulls metrics data from cloud services such as Amazon Web Services (AWS). Wavefront offers CloudWatch, CloudTrail, and AWS Metrics+ [cloud integrations](https://community.wavefront.com/docs/DOC-1032).
+<p>Wavefront directly pulls metrics data from cloud services such as Amazon Web Services (AWS). Wavefront offers CloudWatch, CloudTrail, and AWS Metrics+ [cloud integrations](https://community.wavefront.com/docs/DOC-1032).</p>
 </div>
 <div class="col-sm-12 col-md-6"> 
 <div class="well">
