@@ -3,23 +3,24 @@
 <p class="lead">Wavefront dashboards enable real-time insight.</p>
 <hr/>
 </div>
-
 <div class="row">
 <div class="col-sm-12 col-md-6">
-<p>To get you started, Wavefront includes pre-built charts and dashboards for Amazon Web Services, container technologies, and standard collector agents.</p>
-
-<p>In addition to displaying your data in standard line, point, and stacked area charts:</p>
+<p>Charts are the primary way you view the status of your metrics. In addition to displaying your data in standard line, point, and stacked area charts, you can:</p>
 <ul>
 <li>Explore correlations with scatter plots</li>
 <li>Highlight critical metrics with sparklines</li>
-<li>Use Markdown charts to integrate operational analysis and run book procedures</li>
+<li>Integrate operational analysis with run book procedures in Markdown charts</li>
 </ul>
+
+<p>While charts provide a window into your company's data, dashboards offer you a way to prioritize and group those windows in a meaningful way. Dashboards enable you to quickly compare different data sets, alter time windows for all data sets, and save those windows for future use.</p>
+
 <p>Charts and dashboards both support:</p>
 <ul>
 <li>Time scale quick select and zoom in and out</li>
 <li>Isolating sources and series</li>
 <li>Displaying events</li>
-</ul>    
+</ul>
+
 </div>
 <div class="col-sm-12 col-md-6"> 
 <div class="well">   
@@ -33,7 +34,7 @@
 
 ### Wavefront Tour Dashboards
 
-To get an overview of the benefits and capabilities of Wavefront, check out the Wavefront Tour dashboards. You can click the links below or head on over to the [dashboard browser](/dashboards) and click the **wavefront.tour** tag.
+To get an overview of the benefits and capabilities of Wavefront, check out the Wavefront Tour dashboards. Click the links below or head on over to the [dashboard browser](/dashboards) and click the **wavefront.tour** tag.
 
 [[wavefrontTourDashboards]]
 
