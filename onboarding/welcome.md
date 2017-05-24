@@ -10,11 +10,11 @@
 
 <img src="images/wavefront_architecture.png" alt="Wavefront architecture" style="display:block;width:400px;margin:10px auto;"></img>
 
-<p>Wavefront makes it easy to stream your data into Wavefront. Wavefront supports two approaches depending on where the metrics originate: push from agents and pull from cloud services.</p>
+<p>Wavefront makes it easy to stream your data into the Wavefront service. Depending on where the metrics originate, data is either pushed from agents and or pulled from cloud services.</p>
 
-<p>An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, [flow control](https://community.wavefront.com/docs/DOC-1034), [metrics preprocessing](https://community.wavefront.com/docs/DOC-1207), and more.</p>
+<p>An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, flow control metrics preprocessing, and more.</p>
 
-<p>Wavefront directly pulls metrics data from cloud services such as Amazon Web Services (AWS). Wavefront offers CloudWatch, CloudTrail, and AWS Metrics+ [cloud integrations](https://community.wavefront.com/docs/DOC-1032).</p>
+<p>Wavefront directly pulls metrics data from cloud services such as Amazon Web Services (AWS). Wavefront offers CloudWatch, CloudTrail, and AWS Metrics+ cloud integrations.</p>
 </div>
 <div class="col-sm-12 col-md-6"> 
 <div class="well">
