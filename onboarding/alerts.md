@@ -15,8 +15,9 @@
 
 <p>Ultimately experience fewer false alarms and more accurately predict the behavior of your applications and environments.</p>
 
-<p>Send notification of alert state changes to any channel:</p>
+<p>After designing your alerts, easily configure your preferred channels to receive notification of alert state changes:</p>
 <ul>
+<li>Email</li>
 <li>PagerDuty and VictorOps</li>
 <li>HipChat and Slack</li>
 <li>Custom webhooks</li>
