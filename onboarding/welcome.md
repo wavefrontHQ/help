@@ -10,7 +10,7 @@ First, have a look at how Wavefront works.
 
 Wavefront makes it easy to stream your data into Wavefront. Wavefront supports two approaches depending on where the metrics originate: push from agents and pull from cloud services.
 
-<img src="images/wavefront_architecture.png" alt="Wavefront architecture" width="50%" height="50%">
+<img src="images/wavefront_architecture.png" alt="Wavefront architecture" width="50%" height="50%"></img>
 
 An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, [flow control](https://community.wavefront.com/docs/DOC-1034), [metrics preprocessing](https://community.wavefront.com/docs/DOC-1207), and more.
 
