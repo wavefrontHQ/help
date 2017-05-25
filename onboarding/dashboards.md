@@ -18,7 +18,7 @@
 <ul>
 <li>Time scale quick select and zoom in and out</li>
 <li>Isolating sources and series</li>
-<li>Displaying events</li>
+<li>Displaying system and user-defined events</li>
 </ul>
 
 </div>
@@ -34,7 +34,7 @@
 
 ### Wavefront Tour Dashboards
 
-To get an overview of the benefits and capabilities of Wavefront, check out the Wavefront Tour dashboards. Click the links below or head on over to the [dashboard browser](/dashboards) and click the **wavefront.tour** tag.
+To get an overview of the benefits and capabilities of Wavefront, check out the Wavefront Tour dashboards. Select links below or head on over to the [dashboard browser](/dashboards) and look for dashboards with the **wavefront.tour** tag.
 
 [[wavefrontTourDashboards]]
 

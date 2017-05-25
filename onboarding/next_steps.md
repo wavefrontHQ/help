@@ -1,6 +1,6 @@
 <div class="container-fluid">
 <div class="row">
-<p class="lead">Now that you are started with Wavefront, here are some other areas to explore.</p>
+<p class="lead">Now that you are started with Wavefront, here's how to continue the journey.</p>
 <hr/>
 </div>
 

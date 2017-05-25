@@ -6,16 +6,16 @@
 
 <div class="row">
 <div class="col-sm-12 col-md-6">
-<p>Intelligent alerting and accurate incident detection features help DevOps and developer teams avoid alert fatigue:</p>
+<p>Intelligent alerting help DevOps and developer teams avoid alert fatigue. Wavefront offers:</p>
 <ul>
 <li>Over a hundred functions for designing the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
 <li>Backtesting existing data to see when an alert would have fired in the past.</li>
 <li>Deactivating alerts to avoid wasting time on sidelined systems.
 </ul>
 
-<p>Ultimately experience fewer false alarms and more accurately predict the behavior of your applications and environments.</p>
+<p>You ultimately experience fewer false alarms and can more accurately predict the behavior of your applications and environments.</p>
 
-<p>After designing your alerts, easily configure your preferred channels to receive notification of alert state changes:</p>
+<p>After designing your alerts, configure your preferred channels to receive notification of alert state changes:</p>
 <ul>
 <li>Email</li>
 <li>PagerDuty and VictorOps</li>
