@@ -6,15 +6,13 @@
 
 <div class="row">
 <div class="col-sm-12 col-md-6">
-<p>First, have a look at how Wavefront works.</p>
+<p>First, have a look at how Wavefront works. The Wavefront platform consists of the Wavefront service and the Wavefront proxy.</p>
 
 <img src="images/wavefront_architecture.png" alt="Wavefront architecture" style="display:block;width:400px;margin:10px auto;"></img>
 
-<p>Wavefront makes it easy to stream your data into the Wavefront service. Depending on where the metrics originate, data is either pushed from agents and or pulled from cloud services.</p>
+<p>For most metrics, an agent collects the metrics and pushes them to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected metrics to the Wavefront service. The proxy provides authentication, flow control metrics preprocessing, and more.</p>
 
-<p>An agent collects metrics and pushes it to the Wavefront proxy. The proxy runs within your infrastructure and forwards collected data to the Wavefront service. The proxy provides authentication, flow control metrics preprocessing, and more.</p>
-
-<p>Wavefront directly pulls metrics data from cloud services such as Amazon Web Services (AWS). Wavefront offers CloudWatch, CloudTrail, and AWS Metrics+ cloud integrations.</p>
+<p>For Amazon Web Services, metrics are pulled directly from service by the Wavefront service. Wavefront can get metrics from CloudWatch and CloudTrail and directly from AWS services such as EC2, SQS, and Redshift.</p>
 </div>
 <div class="col-sm-12 col-md-6"> 
 <div class="well">
