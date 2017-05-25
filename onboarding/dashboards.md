@@ -12,7 +12,7 @@
 <li>Integrate operational analysis with run book procedures in Markdown charts</li>
 </ul>
 
-<p>While charts provide a window into your company's data, dashboards offer you a way to prioritize and group those windows in a meaningful way. Dashboards enable you to quickly compare different data sets, alter time windows for all data sets, and save those windows for future use.</p>
+<p>While charts provide a window into your company's data, dashboards let you prioritize and group those windows in a meaningful way. Dashboards enable you to quickly compare different data sets, alter time windows for all data sets, and save those windows for future use.</p>
 
 <p>Charts and dashboards both support:</p>
 <ul>
