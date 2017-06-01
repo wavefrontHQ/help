@@ -6,7 +6,7 @@
 <div>
 <p>First, have a look at how Wavefront works. Wavefront consists of the Wavefront service and the Wavefront proxy.</p>
 
-<img src="images/wavefront_architecture.png" alt="Wavefront architecture" style="display:block;width:80%;max-width:1000"></img>
+<img src="images/wavefront_architecture.png" alt="Wavefront architecture" style="display:block;width:50%;max-width:1000"></img>
 
 <p>For most hosts, applications, and services, an agent collects metrics and pushes them to a Wavefront proxy running within your infrastructure. The proxy forwards collected metrics to the Wavefront service at the same time providing authentication, flow control, metrics preprocessing, and more.</p>
 
