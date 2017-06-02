@@ -1,7 +1,6 @@
 <div class="container-fluid">
 <div class="row">
 <p class="lead">Wavefront dashboards enable real-time insight.</p>
-<hr/>
 </div>
 <div class="row">
 <div class="col-sm-12 col-md-6">
@@ -29,8 +28,6 @@
 </div>
 </div>
 </div>
-
-<hr/>
 
 ### Wavefront Tour Dashboards
 

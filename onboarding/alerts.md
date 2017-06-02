@@ -1,7 +1,6 @@
 <div class="container-fluid">
 <div class="row">
 <p class="lead">Wavefront alerts get you on top of issues emerging across all your distributed applications. </p>
-<hr/>
 </div>
 
 <div class="row">

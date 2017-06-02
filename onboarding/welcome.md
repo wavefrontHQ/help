@@ -1,7 +1,6 @@
 <div class="container-fluid">
 <div class="row">
 <p class="lead">Welcome to Wavefront. Let's get you started.</p>
-<hr/>
 </div>
 <div>
 <p>First, have a look at how Wavefront works. Wavefront consists of the Wavefront service and the Wavefront proxy.</p>
