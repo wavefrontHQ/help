@@ -135,11 +135,11 @@
     },
     {
       "path": "^/webhooks/add$",
-      "file": "webhook_create.md"
+      "file": "webhooks_create.md"
     },
     {
       "path": "^/webhooks/(.*)$",
-      "file": "webhook_create.md"
+      "file": "webhooks_create.md"
     }
   ]
 }
