@@ -73,7 +73,7 @@
       "file": "external_link_create.md"
     },
     {
-      "path": "^/integrations/$",
+      "path": "^/integrations$",
       "file": "integrations.md"
     },
     {
