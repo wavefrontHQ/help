@@ -77,6 +77,10 @@
       "file": "integrations.md"
     },
     {
+      "path": "^/integrations/(.*)$",
+      "file": "integrations_content.md"
+    },
+    {
       "path": "^/metrics$",
       "file": "metrics.md"
     },

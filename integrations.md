@@ -2,9 +2,9 @@
 
 Wavefront integrations are the link between any system and the Wavefront application. Integration links can be from your system into Wavefront or from Wavefront to an external system: data collector, alert notification, and authentication.
 
-#### Data Collector and Code Instrumentation
+#### Collector and Code Instrumentation
 
-Data collector integrations include all ways to get data into Wavefront: using a collector agent and Wavefront proxy, sending metrics from application code to the proxy, or Wavefront pulling the data from a cloud service.
+Collector and code instrumentation integrations include all ways to get data into Wavefront: using a collector agent and Wavefront proxy, sending metrics from application code to the proxy, or Wavefront pulling the data from a cloud service.
 
 ![Wavefront integrations](images/integrations_data_collector.png)
 
