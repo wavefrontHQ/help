@@ -77,7 +77,7 @@
       "file": "integrations.md"
     },
     {
-      "path": "^/integrations/(.*)/(.*)$",
+      "path": "^/integration/(.*)/(.*)$",
       "file": "integrations_content.md"
     },
     {
