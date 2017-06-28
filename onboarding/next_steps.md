@@ -3,8 +3,6 @@
 <p class="lead">Now that you are started with Wavefront, here's how to continue the journey.</p>
 </div>
 
-### Invite New Users
-
 [[inviteUsers]]
 
 ### Learn Wavefront Through Tutorials
