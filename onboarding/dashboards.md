@@ -22,9 +22,7 @@
 
 </div>
 <div class="col-sm-12 col-md-6"> 
-<div class="well">   
-<video width="100%" controls autoplay><source src="images/onboarding-dashboards.mp4" type="video/mp4">Your browser does not support HTML5 video.</video>
-</div>
+<video width="100%" controls autoplay loop><source src="images/onboarding-dashboards.mp4" type="video/mp4">Your browser does not support HTML5 video.</video>
 </div>
 </div>
 </div>
