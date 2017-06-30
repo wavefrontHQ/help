@@ -4,7 +4,7 @@
 </div>
 <div class="row">
 <div class="col-sm-12 col-md-6">
-<p>Charts are the primary way you view the status of your metrics. Display your data in standard line, point, and stacked area charts and charts. Then, go on to:</p>
+<p>Charts are the primary way you view the status of your metrics. Display your data in standard line, point, and stacked area charts. Then, go on to:</p>
 <ul>
 <li>Explore correlations with scatter plots</li>
 <li>Highlight critical metrics with sparklines</li>
