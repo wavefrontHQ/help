@@ -7,7 +7,7 @@ Cloud integrations allow you to ingest metrics directly from cloud services. Wav
 The CloudWatch integration retrieves AWS [metric and
 dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CW_Support_For_AWS.html) data.
 
-The metric's [source](https://community.wavefront.com/docs/DOC-1031) field is set to the Amazon instance ID, the value of [EC2 tags](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html), or the *first* CloudWatch [dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Dimension). Metrics have the point tags **accountId**, **Region**, and CloudWatch dimensions.
+The metric's [source](https://docs.wavefront.com/integrations_aws_metrics.html#wavefront-source-field) field is set to the Amazon instance ID, the value of [EC2 tags](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html), or the *first* CloudWatch [dimension](http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Dimension). Metrics have the point tags **accountId**, **Region**, and CloudWatch dimensions.
 
 #### CloudTrail
 

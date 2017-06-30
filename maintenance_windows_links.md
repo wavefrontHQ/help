@@ -1,4 +1,4 @@
 ### What's Next
 
-[Managing Maintenance Windows](https://community.wavefront.com/docs/DOC-1053)  
-[Managing Alerts](https://community.wavefront.com/docs/DOC-1014)
+[Managing Maintenance Windows](https://docs.wavefront.com/maintenance_windows_managing.html)  
+[Managing Alerts](https://docs.wavefront.com/alerts_managing.html)

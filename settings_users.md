@@ -4,5 +4,5 @@ You can invite other users to your company's Wavefront account, set the default 
 
 ### What's Next
 
-[Setting Default Permissions](https://community.wavefront.com/docs/DOC-1085)  
-[Managing Users](https://community.wavefront.com/docs/DOC-1084)
+[Setting Default Permissions](https://docs.wavefront.com/users_managing.html#setting-default-permissions-for-new-users)  
+[Managing Users and Permissions](https://docs.wavefront.com/users_managing.html)

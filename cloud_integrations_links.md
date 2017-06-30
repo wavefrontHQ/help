@@ -1,4 +1,4 @@
 ### What's Next
 
-[AWS Metrics Integration](https://community.wavefront.com/docs/DOC-1032)  
-[Managing Events](https://community.wavefront.com/docs/DOC-1082)
+[AWS Metrics Integration](https://docs.wavefront.com/integrations_aws_metrics.html)  
+[Managing Events](https://docs.wavefront.com/events_managing.html)

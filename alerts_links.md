@@ -1,5 +1,6 @@
 ### What's Next
 
-[Creating an Alert](https://community.wavefront.com/docs/DOC-1050)  
-[Alerting States and Lifecycle](https://community.wavefront.com/docs/DOC-1052)  
-[Managing Alerts](https://community.wavefront.com/docs/DOC-1014)
+[Creating an Alert](https://docs.wavefront.com/alerts_managing.html#creating-an-alert)  
+[Alerting States and Lifecycle](https://docs.wavefront.com/alerts_states_lifecycle.html)  
+[Managing Alerts](https://docs.wavefront.com/alerts_managing.html)
+[Integrations](https://docs.wavefront.com/integrations.html)
