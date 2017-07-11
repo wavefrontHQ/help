@@ -7,7 +7,7 @@
 
 ### Learn Wavefront Through Tutorials
 
-Review the [Getting Started with Wavefront Query Language](/dashboard/intro-to-ts-language) dashboard.
+Go through the tutorial dashboards, starting with the [Introduction](/dashboard/tutorial-intro) dashboard.
 
 Get hands-on experience with creating charts, dashboards, and alerts in [Tutorial: Getting Started](https://docs.wavefront.com/tutorial_getting_started.html).
 
@@ -15,7 +15,7 @@ Get hands-on experience with creating charts, dashboards, and alerts in [Tutoria
 
 Explore the full range of supported integrations in the [Integrations](/integrations) page. 
 
-To learn more about integrations, see the [Integrations documentation](https://docs.wavefront.com/integrations.html).
+Learn more about integrations from the [Integrations documentation](https://docs.wavefront.com/integrations.html).
 
 ### Explore Notifications
 
