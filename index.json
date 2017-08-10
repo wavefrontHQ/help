@@ -97,6 +97,10 @@
       "file": "maintenance_window_create.md"
     },
     {
+      "path": "^/notificants$",
+      "file": "webhooks.md"
+    },
+    {
       "path": "^/intro/populate$",
       "query": "redirect=proxies",
       "file": "proxy_add.md"
