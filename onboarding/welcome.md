@@ -3,7 +3,7 @@
 <p class="lead">Welcome to Wavefront. Let's get you started.</p>
 </div>
 <div>
-<p>First, have a look at how Wavefront works. Wavefront consists of the Wavefront service and the Wavefront proxy.</p>
+<p>First, have a look at how Wavefront works. Wavefront consists of the Wavefront cloud service and the Wavefront proxy.</p>
 
 <img src="images/welcome_integrations_architecture.png" alt="Integrations Architecture" style="display:block;width:60%;max-width:1000px"></img>
 
