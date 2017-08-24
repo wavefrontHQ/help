@@ -23,5 +23,5 @@ The alert you create in Tutorial: Getting Started sends a notification to your e
 
 - Using PagerDuty? See [PagerDuty integration](/integration/pagerduty).
 - Send messages to [Slack](/integration/slack) or [HipChat](/integration/hipchat).
-- Learn how to create custom [webhooks](https://docs.wavefront.com/integrations_alert_notification.html).
+- Learn how to create custom [webhooks](https://docs.wavefront.com/webhooks_alert_notification.html).
 </div>
