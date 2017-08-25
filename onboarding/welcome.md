@@ -1,6 +1,6 @@
 <div class="container-fluid">
 <div class="row">
-<p class="lead">Welcome to Wavefront. Let's get started.</p>
+<p class="lead">Let's get started.</p>
 </div>
 <div>
 <p>First, have a look at how Wavefront works. Wavefront consists of the Wavefront cloud service and the Wavefront proxy.</p>
