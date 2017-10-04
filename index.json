@@ -142,15 +142,15 @@
       "file": "sources.md"
     },
     {
-      "path": "^/webhooks$",
+      "path": "^/notificants$",
       "file": "webhooks.md"
     },
     {
-      "path": "^/webhooks/add$",
+      "path": "^/notificants/add$",
       "file": "webhooks_create.md"
     },
     {
-      "path": "^/webhooks/(.*)$",
+      "path": "^/notificants/(.*)$",
       "file": "webhooks_create.md"
     }
   ]
