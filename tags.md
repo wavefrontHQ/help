@@ -8,5 +8,4 @@ In queries, Wavefront supports filtering metrics with **source** and **point** t
 and **event** tags.
 
 In the Wavefront UI and API you can specify alert, dashboard, event, and source tags to filter those entities in their
-respective browsers and during API invocations. In the Wavefront UI, tags display as gray labeled icons ![agents
-tag](images/agents_tag.png#inline) in the filter bar and below each entity in the entity browser.
+respective browsers and during API invocations. In the Wavefront UI, tags display as gray labeled icons <span class="v-align wf-tag-component item label label-default"><span class="tag-container v-align"><i class="fa fa-tag"></i>MyService.MyApp</span></span> in the filter bar and below each entity in the entity browser.
