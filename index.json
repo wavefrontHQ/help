@@ -152,6 +152,14 @@
     {
       "path": "^/webhooks/(.*)$",
       "file": "webhooks_create.md"
+    },
+    {
+      "path": "^/notificants/add$",
+      "file": "webhooks_create.md"
+    },
+    {
+      "path": "^/notificants/(.*)$",
+      "file": "webhooks_create.md"
     }
   ]
 }
