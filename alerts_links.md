@@ -1,4 +1,4 @@
-### What's Next
+### More Info
 
 [Creating an Alert](https://docs.wavefront.com/alerts_managing.html#creating-an-alert)  
 [Alerting States and Lifecycle](https://docs.wavefront.com/alerts_states_lifecycle.html)  

@@ -1,7 +1,7 @@
 ### Visualizing Metrics
 
-[Charts](http://docs.wavefront.com/charts_creating.html) are the primary way you view the status of your metrics. You add
-[Wavefront Query Language](https://docs.wavefront.com/query_language_getting_started.html) queries to view and perform operations on metrics and configure [chart options](http://docs.wavefront.com/charts.html) to display the most helpful presentation.
+[Charts](http://docs.wavefront.com/charts_creating.html) are the primary way you view the status of your metrics. To display the most helpful presentation, you add
+[Wavefront Query Language](https://docs.wavefront.com/query_language_getting_started.html) queries to view and perform operations on metrics and configure [chart options](http://docs.wavefront.com/charts.html).
 
 ### Interacting with Charts and Dashboards
 

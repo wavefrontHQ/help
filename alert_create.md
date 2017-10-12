@@ -5,6 +5,5 @@ period of time. You express conditions using [ts() queries](https://docs.wavefro
 operators.
 
 You can send alert notifications to various types of targets: email addresses, pager services such as
-PagerDuty and VictorOps, communication channels such as Slack and HipChat, and
-you can also configure arbitrary actions such as invoking a [webhook](https://docs.wavefront.com/webhooks_alert_notification.html) or
+PagerDuty and VictorOps, or communication channels such as Slack and HipChat. You can also invoke an [alert notification](https://docs.wavefront.com/webhooks_alert_notification.html) or configure arbitrary actions such as 
 running an auto-remediation script.

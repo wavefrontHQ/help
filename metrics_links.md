@@ -1,3 +1,3 @@
-### What's Next
+### More Info
 
 [Managing Metrics](https://docs.wavefront.com/metrics_managing.html)
