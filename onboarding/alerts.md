@@ -7,7 +7,7 @@
 <div class="col-sm-12 col-md-6">
 <p>Intelligent alerting help DevOps and developer teams avoid alert fatigue. Wavefront offers:</p>
 <ul>
-<li>Over a hundred functions for designing the [perfect alert](/dashboard/demo-the-perfect-alert) for any anomaly.</li>
+<li>Over a hundred functions for designing the [perfect alert](/dashboard/tour-the-perfect-alert) for any anomaly.</li>
 <li>Backtesting existing data to see when an alert would have fired in the past.</li>
 <li>Deactivating alerts to avoid wasting time on sidelined systems.
 </ul>
@@ -22,9 +22,8 @@
 <li>Custom webhooks</li>
 </ul>
 </div>
-<div class="col-sm-12 col-md-6"> 
+<div class="col-sm-12 col-md-6">
 <video width="100%" controls autoplay loop><source src="images/onboarding-alerts.mp4" type="video/mp4">Your browser does not support HTML5 video.</video>
 </div>
-</div>  
 </div>
-
+</div>
