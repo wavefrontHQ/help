@@ -10,7 +10,9 @@
 
 <p>Amazon Web Services metrics are pulled directly by the Wavefront cloud service. Wavefront can get metrics from CloudWatch and CloudTrail and from AWS services such as EC2, SQS, and Redshift.</p>
 
-<p>Have questions? Talk to a technical expert: <img src="images/1on1.png"></img>  <img src="images/slack.png"></img></p>
+<p>Have questions? Talk to a technical expert: <a href="https://wavefront.com/join-public-slack"> <img src="images/slack_short.png"></img></a>
+
+<a href="https://calendly.com/wavefront/15min-wavefront-one-on-one"><img src="images/1on1.png"></img> </a> </p>
 
 <p>Have questions? <img src="images/slack_short.png"></img><a href="https://wavefront.com/join-public-slack">Slack us </a> or <img src="images/1-on-1-short.png"></img> request a <a href="https://calendly.com/wavefront/15min-wavefront-one-on-one"> 1-to-1 with an engineer</a>.</p>
 
