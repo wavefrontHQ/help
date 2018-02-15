@@ -13,7 +13,7 @@
 &nbsp;
 &nbsp;
 
-<p>Have questions?  <a href="https://wavefront.com/join-public-slack"> <img src="images/slack.png"></img></a>
+<p>Have questions? &nbsp; &nbsp; <a href="https://wavefront.com/join-public-slack"> <img src="images/slack.png"></img></a>
 &nbsp; &nbsp;
 <a href="https://calendly.com/wavefront/15min-wavefront-one-on-one"><img src="images/1on1.png"></img> </a> </p>
 
