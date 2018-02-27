@@ -8,7 +8,7 @@
 
 <p>For most hosts, applications, and services, an agent collects metrics and pushes them to a Wavefront proxy running within your infrastructure. The proxy forwards collected metrics to the Wavefront cloud service while providing authentication, buffering, metrics pre-processing, and more.</p>
 
-<p>Amazon Web Services metrics are pulled directly by the Wavefront cloud service. Wavefront can get metrics from CloudWatch and CloudTrail and from AWS services such as EC2, SQS, and Redshift.</p>
+<p>Metrics for cloud services are pulled directly by the Wavefront cloud service. Wavefront can get metrics from Amazon Web Services (AWS) and Google Cloud Platform (GCP). </p>
 
 &nbsp;
 &nbsp;
