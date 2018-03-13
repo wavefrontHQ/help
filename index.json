@@ -42,7 +42,7 @@
     },
     {
       "path": "^/extdata/add/amazon$",
-      "file": "cloud_integrations_add_amazon.md"
+      "file": "cloud_integrations_add_aws.md"
     },
     {
       "path": "^/extdata/add/cloudwatch$",
@@ -55,6 +55,18 @@
     {
       "path": "^/extdata/add/ec2$",
       "file": "cloud_integrations_add_aws_metrics.md"
+    },
+    {
+      "path": "^/extdata/add/tesla$",
+      "file": "cloud_integrations_add_tesla.md"
+    },
+    {
+      "path": "^/extdata/add/gcp$",
+      "file": "cloud_integrations_add_gcp.md"
+    },
+    {
+      "path": "^/extdata/add/azure$",
+      "file": "cloud_integrations_add_azure.md"
     },
     {
       "path": "^/extdata/(.*)$",
