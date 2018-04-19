@@ -25,6 +25,14 @@
       "file": "dashboard.md"
     },
     {
+      "path": "^/derivedmetrics/(.+)$",
+      "file": "derived_metrics.md"
+    },
+     {
+      "path": "^/derivedmetrics/add$",
+      "file": "derived_metrics_create.md"
+    },
+    {
       "path": "^/events$",
       "file": "events.md"
     },
