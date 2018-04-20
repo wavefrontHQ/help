@@ -25,10 +25,10 @@
       "file": "dashboard.md"
     },
     {
-      "path": "^/derivedmetrics/$",
+      "path": "^/derivedmetrics/(.*)$",
       "file": "derived_metrics.md"
     },
-     {
+    {
       "path": "^/derivedmetrics/add$",
       "file": "derived_metrics_create.md"
     },
