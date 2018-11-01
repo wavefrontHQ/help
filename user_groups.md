@@ -8,3 +8,4 @@ You can also select a permission on the left to see which groups have that permi
 ### More Info
 
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
+[Managing Users and Groups](https://docs.wavefront.com/users_groups.html)
