@@ -198,11 +198,11 @@
       "file": "settings_query_dashboard.md"
     },
     {
-      "path": "^/usergroups/(.*)$",
+      "path": "^/usergroups(.*)$",
       "file": "user_groups.md"
     },
     {
-      "path": "^/users/(.*)$",
+      "path": "^/users(.*)$",
       "file": "settings_users.md"
     }
   ]
