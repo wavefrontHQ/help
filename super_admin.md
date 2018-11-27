@@ -1,3 +1,5 @@
+### Super Admin User
+
 When a company signs up with Wavefront, we create a Super Admin user who has full administrative privileges.
 * All permissions
 * View, modify, and share restricted objects
