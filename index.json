@@ -180,6 +180,30 @@
     {
       "path": "^/notificants/(.*)$",
       "file": "webhooks_create.md"
+    },
+    {
+      "path": "^/userprofile/(.*)$",
+      "file": "settings_profile.md"
+    },
+    {
+      "path": "^/super-admin$",
+      "file": "super_admin.md"
+    },
+    {
+      "path": "^/system-preferences/(.*)$",
+      "file": "system_prefs.md"
+    },
+    {
+      "path": "^/slow-queries/(.*)$",
+      "file": "settings_query_dashboard.md"
+    },
+    {
+      "path": "^/usergroups(.*)$",
+      "file": "user_groups.md"
+    },
+    {
+      "path": "^/users(.*)$",
+      "file": "settings_users.md"
     }
   ]
 }
