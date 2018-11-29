@@ -1,3 +1,5 @@
+### User Group Management
+
 The User Groups page allows you to:
 * Create or delete user groups.
 * Add users to groups and remove permissions from groups.
