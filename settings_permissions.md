@@ -4,6 +4,6 @@
 
 ### More Info
 
-[Managing Users and Permissions](https://docs.wavefront.com/users_managing.html)
+[Managing Users and Permissions](https://docs.wavefront.com/permissions.html)
 [Setting Default Permissions for New Users](http://docs.wavefront.com/users_groups.html#setting-default-permissions-for-new-users)
 [Examining Groups and Permissions]http://docs.wavefront.com/users_account_managing.html#examining-groups-and-permissions
