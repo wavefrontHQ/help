@@ -5,7 +5,7 @@ in [Wavefront data format](https://docs.wavefront.com/wavefront_data_format.html
 such as [AWS](https://docs.wavefront.com/integrations_aws_metrics.html).
 
 Once metrics are ingested into Wavefront you can [query](https://docs.wavefront.com/query_language_getting_started.html) and
-[chart](https://docs.wavefront.com/charts_creating.html) the data to help understand underlying patterns. You can create
+[chart](https://docs.wavefront.com/ui_charts.html) the data to help understand underlying patterns. You can create
 [alerts](https://docs.wavefront.com/alerts.html) to notify operators when anomalous values indicate a system malfunction.
 
 Metrics are automatically hidden after 4 weeks of inactivity, but you can also manually hide metrics. Hidden metrics are removed from autocomplete, but they can still be used in a query when data values are present.

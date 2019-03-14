@@ -1,9 +1,11 @@
 ### Visualizing Metrics
 
-[Charts](http://docs.wavefront.com/charts_creating.html) are the primary way you view the status of your metrics. To display the most helpful presentation, you add
-[Wavefront Query Language](https://docs.wavefront.com/query_language_getting_started.html) queries to view and perform operations on metrics and configure [chart options](http://docs.wavefront.com/charts.html).
+Charts let you [view the status of your metrics](ui_examine_data.html). You can organize charts into dashboards and customize the dashboard and its charts.
+
+You add [Wavefront Query Language](https://docs.wavefront.com/query_language_getting_started.html) queries to charts to view metrics and to perform operations such as aggregation on them. You can customize many [chart options](http://docs.wavefront.com/ui_chart_reference.html).
 
 ### Interacting with Charts and Dashboards
 
-Wavefront provides many ways to [interact with charts and dashboards](https://docs.wavefront.com/dashboards_interacting.html).
-You can change time windows, share links, apply global queries, isolate sources and series, and zoom in and out. In charts you can use hot keys to see full precision values and fish-eye views at the cursor.
+Wavefront provides many ways to interact with charts and dashboards.
+* In [dashboards](ui_dashboards.html), you can change time windows, share links, apply global queries, isolate sources and series, and zoom in and out.
+* In [charts](ui_charts.html) you can use hot keys to see full precision values and fish-eye views at the cursor.
