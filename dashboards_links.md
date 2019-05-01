@@ -1,5 +1,5 @@
 ### More Info
 
-[Searching for Dashboards](https://docs.wavefront.com/dashboards.html#searching-dashboards)  
-[Managing Dashboards](https://docs.wavefront.com/dashboards.html#searching-dashboards)  
-[Creating a Dashboard](https://docs.wavefront.com/dashboards_managing.html#creating-a-dashboard)
+[Create a Dashboard](https://docs.wavefront.com/ui_dashboards.html#create-a-dashboard)
+[Add a Chart to a Dashboard](http://docs.wavefront.com/ui_dashboards.html#add-a-chart-to-a-dashboard)
+[Dashboard Variables](https://docs.wavefront.com/dashboards_variables.html)

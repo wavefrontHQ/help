@@ -1,4 +1,5 @@
-[Creating a Dashboard](https://docs.wavefront.com/dashboards_managing.html#creating-a-dashboard)  
-[Setting Dashboard Preferences](https://docs.wavefront.com/dashboards_managing.html#setting-dashboard-preferences)  
-[Displaying Events in Charts](https://docs.wavefront.com/charts_events_displaying.html)  
+## More Info
+
+[Create a Dashboard](https://docs.wavefront.com/ui_dashboards.html#create-a-dashboard)
+[Add a Chart to a Dashboard](http://docs.wavefront.com/ui_dashboards.html#add-a-chart-to-a-dashboard)
 [Dashboard Variables](https://docs.wavefront.com/dashboards_variables.html)
