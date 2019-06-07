@@ -1,7 +1,14 @@
 <div class="container-fluid">
-<div class="row">
-<p class="lead">Wavefront dashboards enable real-time insight.</p>
+<div class="col-sm-12 col-md-6">
+
+<p>Examining your data in Wavefront charts and dashboards is as easy as 1 - 2 - 3.</p>
+<a href=".dashboards/untitled-dashboard/create"><img src="images/create_dashboard_button.png"></img> </a>
+&nbsp;
+&nbsp;
+<img src="images/dashboards_charts.png"></img>
 </div>
+</div>
+<!---
 <div class="row">
 <div class="col-sm-12 col-md-6">
 <p>Charts are the primary way you view the status of your metrics.</p>
@@ -31,4 +38,4 @@
 
 To get an overview of the benefits and capabilities of Wavefront, check out the Tour dashboards. Select links below or head on over to the [dashboard browser](/dashboards) and look for dashboards with the **welcome.tour** tag.
 
-[[wavefrontTourDashboards]]
+[[wavefrontTourDashboards]]--->

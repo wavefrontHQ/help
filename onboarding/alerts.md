@@ -1,8 +1,17 @@
 <div class="container-fluid">
-<div class="row">
-<p class="lead">Wavefront alerts get you on top of issues emerging across all your distributed applications. </p>
+<div class="col-sm-12 col-md-6">
+<p><strong>Intelligent alerting</strong> helps DevOps and developer teams avoid alert fatigue. Fine tune who receives the alert notification. You can pick how to send the alert based on severity.</p>
+&nbsp;
+<img src="images/alert_options.png"></img>
+&nbsp;
+&nbsp;
+<a href=".alerts/add"><img src="images/alert_button.png"></img> </a>
+<p>When you get the alert notification, it includes a clickable link to the alert and an alert image
+snapshot, for example:</p>
+<img src="images/alert_example.png"></img>
 </div>
-
+</div>
+<!---
 <div class="row">
 <div class="col-sm-12 col-md-6">
 <p>Intelligent alerting helps DevOps and developer teams avoid alert fatigue. Wavefront offers:</p>
@@ -26,4 +35,4 @@
 <video width="100%" controls autoplay loop><source src="images/onboarding-alerts.mp4" type="video/mp4">Your browser does not support HTML5 video.</video>
 </div>
 </div>
-</div>
+--->

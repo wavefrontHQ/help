@@ -1,10 +1,16 @@
 <div class="container-fluid">
-<div class="row">
-<p class="lead">Now that you've started with Wavefront, here's how to continue the journey.</p>
+
+1. If you've got data flowing, add dashboards and customize with filters, functions, and grouping.
+<a href=".dashboards/untitled-dashboard/create"><img src="images/create_dashboard_button.png"></img> </a>
+&nbsp;
+&nbsp;
+2. Experiment with sample data using our tutorial integration.
+<a href=".dashboard/tutorial-intro"><img src="images/tutorial_integration.png"></img> </a>
+&nbsp;
+&nbsp;
 </div>
-
 [[inviteUsers]]
-
+<!---
 ### Learn Wavefront Through Tutorials
 
 Go through the tutorial dashboards, starting with the [Tutorial: Introduction](/dashboard/tutorial-intro) dashboard.
@@ -24,4 +30,4 @@ The alert you create in Tutorial: Getting Started sends a notification to your e
 - Using PagerDuty? See [PagerDuty integration](/integration/pagerduty).
 - Send messages to [Slack](/integration/slack) or [HipChat](/integration/hipchat).
 - Learn how to create custom [alert targets](https://docs.wavefront.com/webhooks_alert_notification.html).
-</div>
+--->
