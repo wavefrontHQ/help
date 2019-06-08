@@ -10,4 +10,6 @@
 
 [[inviteUsers]]
 
+See you all at the beach! #beachops
+<img src="images/beachops_at_beach.png" align="center"></img>
 </div>
