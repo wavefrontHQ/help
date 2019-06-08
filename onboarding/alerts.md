@@ -5,6 +5,7 @@
 <img src="images/alert_options.png" align="center"></img>
 <p>&nbsp;</p>
 <a href="../alerts/add"><img src="images/alert_button.png"></img> </a>
+<p>&nbsp;</p>
 <p>When you get an alert notification, it includes a clickable link to the alert and an alert image snapshot. Here's an example:</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
