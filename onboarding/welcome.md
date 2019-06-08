@@ -1,5 +1,5 @@
 <div class="container-fluid">
-<div class="col-sm-12 col-md-6">
+
 <p>Wavefront gives you the power to operate your whole stack easily and effectively.</p>
 <p>In this Getting Started workflow you'll:</p>
 <ul>
@@ -15,5 +15,4 @@
 &nbsp; &nbsp;
 <a href="https://wavefront.com/meet-1-on-1"><img src="images/1on1.png"></img></a> </p>
 
-</div>
 </div>
