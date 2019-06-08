@@ -8,6 +8,8 @@
 <li>Alert on problems in real time.</li>
 </ul>
 <p>&nbsp;</p>
+Let's go!
+<p>&nbsp;</p>
 <img src="images/beachops.png"></img>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
