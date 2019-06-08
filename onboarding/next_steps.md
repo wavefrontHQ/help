@@ -2,11 +2,11 @@
 
 <p>If you've got data flowing, add dashboards and customize with filters, functions, and grouping.</p>
 &nbsp;
-<a href="../dashboards/untitled-dashboard/create"><img src="images/create_dashboard_button.png"></img> </a>
+<a href="../dashboards/untitled-dashboard/create"><img src="images/create_dashboard.png"></img> </a>
 &nbsp;
 &nbsp;
 <p>Experiment with sample data using our tutorial integration.</p>
-<a href="../dashboard/tutorial-intro"><img src="images/tutorial_integration.png"></img> </a>
+<a href="../dashboard/tutorial-intro"><img src="images/tutorial_integration_pic.png"></img> </a>
 &nbsp;
 &nbsp;
 Invite your co-workers to collaborate in Wavefront!
