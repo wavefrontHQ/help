@@ -7,16 +7,14 @@
 <li>Fine-tune how we show your data.</li>
 <li>Alert on problems in real time.</li>
 </ul>
-
-
+&nbsp;
 <img src="images/beachops.png"></img>
-
 &nbsp;
 &nbsp;
 
 <p>Have questions? &nbsp; &nbsp; <a href="https://wavefront.com/join-public-slack"> <img src="images/slack.png"></img></a>
 &nbsp; &nbsp;
-<a href="https://wavefront.com/meet-1-on-1"><img src="images/1on1.png"></img> </a> </p>
+<a href="https://wavefront.com/meet-1-on-1"><img src="images/1on1.png"></img></a> </p>
 
 </div>
 </div>
