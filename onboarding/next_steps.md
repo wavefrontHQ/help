@@ -11,6 +11,4 @@
 [[inviteUsers]]
 
 <p>See you all at the beach! #beachops</p>
-<p>&nbsp;</p>
-<img src="images/beachops_at_beach.png"></img>
 </div>

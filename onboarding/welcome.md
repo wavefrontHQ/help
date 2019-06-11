@@ -8,10 +8,7 @@
 <li>Alert on problems in real time.</li>
 </ul>
 <p>&nbsp;</p>
-Let's go!
-<p>&nbsp;</p>
-<img src="images/beachops.png"></img>
-<p>&nbsp;</p>
+<p><strong>Let's go!</strong></p>
 <p>&nbsp;</p>
 <p>Have questions? &nbsp; &nbsp; <a href="https://wavefront.com/join-public-slack"> <img src="images/slack.png"></img></a>
 &nbsp; &nbsp;
