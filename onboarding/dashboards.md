@@ -3,7 +3,7 @@
 
 <p>Examining your data in Wavefront charts and dashboards is as easy as 1 - 2 - 3.</p>
 <p>&nbsp;</p>
-<a href="../dashboards/untitled-dashboard/create"><img src="images/create_dashboard.png"></img> </a>
+<a href="../dashboards/untitled-dashboard/create"><img src="images/create_dashboard_button.png"></img> </a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <img src="images/dashboards_charts.png"></img>
