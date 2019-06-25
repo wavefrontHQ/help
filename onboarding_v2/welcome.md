@@ -15,5 +15,5 @@
 <a href="https://wavefront.com/meet-1-on-1"><img src="images/1on1.png"></img></a> </p>
 &nbsp;
 &nbsp;
-<img src="beach_ops.png" alt="wavefront and beachops">
+<img src="images/beach_ops.png" alt="wavefront and beachops">
 </div>
