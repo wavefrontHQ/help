@@ -3,9 +3,10 @@
 A service account is for services that use the Wavefront API to perform certain tasks. Service accounts use a token to authenticate and are constrained from performing certain UI operations.
 
 From this page, you can:
-* Create a service account
+* Create a service account.
+* Disable and enable a service account.
 * Generate a new API token. The service can use the token to authenticate to Wavefront. It's rarely necessary to generate a new token.
-* Assign permissions to a service account. In most situations, it's preferred to assign permissions directly to the service account.  
+* Assign permissions to a service account. In most situations, it's best to assign permissions directly to the service account.
 
 
 ### More Info
