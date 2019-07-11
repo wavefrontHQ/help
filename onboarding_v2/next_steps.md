@@ -8,9 +8,7 @@
 
 [[inviteUsers]]
 
-<p>&nbsp;</p>
 <p>Want to learn about Distributed Tracing, histograms, and other cool features?</p>
-<p>&nbsp;</p>
 <p><a href="https://wavefront.com/join-public-slack"> <img src="images/slack.png"></img></a>&nbsp; &nbsp;
 <a href="https://wavefront.com/meet-1-on-1"><img src="images/1on1.png"></img></a> </p>
 
