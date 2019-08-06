@@ -204,6 +204,14 @@
     {
       "path": "^/users(.*)$",
       "file": "settings_users.md"
+    },
+    {
+      "path": "^/account/users(.*)$",
+      "file": "settings_users.md"
+    },
+    {
+      "path": "^/account/serviceaccounts(.*)$",
+      "file": "settings_service_accounts.md"
     }
   ]
 }
