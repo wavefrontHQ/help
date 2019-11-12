@@ -1,8 +1,5 @@
 #### Kubernetes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+Wavefront provides a comprehensive solution for monitoring Kubernetes.<br />
+Collects real-time metrics from all layers of a Kubernetes environment (clusters, nodes, pods, containers, and the Kubernetes control plane).<br />
+Supports plugins such as Prometheus, Telegraf, and Systemd; enabling you to collect metrics from various workloads.<br />
