@@ -1,6 +1,3 @@
 <!-- Do not include a header for this file -->
 
-Monitoring and analyzing modern distributed systems.<br />
-See all application traces.<br />
-Pinpoint all issues.<br />
-Instantly find the root cause.<br />
+Wavefront Distributed Tracing gives full visibility into microservices environements. When you send distributed tracing data to Wavefront you'll be able to understand service dependencies allowing you to troubleshoot productions issues faster and optimize critical performance bottlenecks. Our solution is fully OpenTracing compliant.
