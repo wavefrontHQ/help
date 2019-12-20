@@ -4,7 +4,7 @@ Your profile allows you to update user preferences, view the groups you belong t
 
 **User Information Tab**
 
-Let's you:
+Lets you:
 * Set display preferences (including a dark theme).
 * Change your password if your environment supports that.
 * Keep [Query Builder]((https://docs.wavefront.com/query_language_query_builder.html)) as the default or select the chart editor.
