@@ -1,3 +1,3 @@
 ### More Info
 
-[Managing Metrics](https://docs.wavefront.com/metrics_managing.html)
+[Working with Metrics](https://docs.wavefront.com/metric_types.html#metrics-browser)
