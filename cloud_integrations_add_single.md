@@ -1,1 +1,1 @@
-You have to grant Wavefront read-only access to your Amazon account so we can show you your metrics. Run the Amazon **Create New Role** wizard where you provide Wavefront account and external IDs. In the Create New Role wizard Review, copy the Role ARN containing the Amazon account ID.
+You have to grant Wavefront read-only access to your Amazon account so we can show you your metrics. Run the Amazon **Create New Role** wizard where you provide Wavefront account. In the Create New Role wizard Review, copy the Role ARN containing the Amazon account ID.
