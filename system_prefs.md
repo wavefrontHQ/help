@@ -1,6 +1,6 @@
 ### System Preferences
 
-System Preferences allow users with User Management permissions to set Wavefront preferences:
+System Preferences allow users with **Accounts & Groups** permissions to set Wavefront preferences:
 
 The **New User Defaults** tab has these options:
 * Globally set whether Getting Started Progress display and Query Builder are the defaults. Individual users can override those settings.
