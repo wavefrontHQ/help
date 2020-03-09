@@ -11,5 +11,5 @@ From this page, you can:
 
 ### More Info
 
-[Managing Service Accounts](https://docs.wavefront.com/service_accounts.html)
+[Managing Service Accounts](https://docs.wavefront.com/accounts.html#service_accounts)
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
