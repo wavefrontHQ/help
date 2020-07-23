@@ -2,6 +2,11 @@
 
 Adding a Kubernetes cluster for monitoring requires deploying a **Wavefront proxy** and **Wavefront collector** inside your Kubernetes cluster.
 
-You can follow the step-by-step guided Helm instructions if applicable, or follow the manual instructions to deploy the required components yourself.
+You have two choices:
 
-If you need more help, check out the [Kubernetes Troubleshooting](https://docs.wavefront.com/wf_kubernetes_troubleshooting.html) page.
+* Follow the simple Helm install steps on the left.
+* Perform manual installation.
+
+### More Info
+
+[Kubernetes Troubleshooting](https://docs.wavefront.com/wf_kubernetes_troubleshooting.html)
