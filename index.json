@@ -77,6 +77,10 @@
       "file": "cloud_integrations_add_azure.md"
     },
     {
+      "path": "^/extdata/(add|edit)/kubernetes(.*)$",
+      "file": "cloud_integrations_add_kubernetes.md"
+    },
+    {
       "path": "^/extdata/(.*)$",
       "file": "cloud_integrations_add.md"
     },
@@ -136,7 +140,7 @@
     {
       "path": "^/proxies/add$",
       "file": "proxy_first_add.md"
-    },    
+    },
     {
       "path": "^/settings/profile$",
       "file": "settings_profile.md"
