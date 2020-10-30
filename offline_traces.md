@@ -15,4 +15,4 @@ You can export traces and view them later using the Offline Traces page.
 
 ### More Info 
 
-[View Traces Offline](https://docs.wavefront.com/tracing_ui_overview.html#view-traces-offline)
+[View Traces Offline](https://docs.wavefront.com/tracing_ui_overview.html#offline_traces)

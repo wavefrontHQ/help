@@ -11,4 +11,4 @@ Explore the details of your application’s traces:
 
 ### More Info 
 
-[Traces Browser ](https://docs.wavefront.com/tracing_ui_overview.html#traces-browser)
+[Traces Browser ](https://docs.wavefront.com/tracing_ui_overview.html#traces)
