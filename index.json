@@ -216,6 +216,18 @@
     {
       "path": "^/account/serviceaccounts(.*)$",
       "file": "settings_service_accounts.md"
+    },
+    {
+      "path": "^/tracing/appmap$",
+      "file": "application_status.md"
+    },
+    {
+      "path": "^/tracing/search$",
+      "file": "traces_browser.md"
+    },
+    {
+      "path": "^/tracing/browse-offline$",
+      "file": "offline_traces.md"
     }
   ]
 }
