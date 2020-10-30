@@ -2,13 +2,13 @@
 
 See the overall health of each application using the application map, table view, and grid view 
 
-[**Application Map**](https://docs.wavefront.com/tracing_ui_overview.html#application-map)<br/> 
-Get an overview of how the applications and services are linked. Focus on a specific service and View Request, Error, and Duration (RED) metrics for each service and for the tracing traffic in the application.  
+[**Application Map**](https://docs.wavefront.com/tracing_ui_overview.html#app_map)<br/> 
+Get an overview of how the applications and services are linked. Focus on a specific service and view Request, Error, and Duration (RED) metrics for each service and for the tracing traffic in the application.  
 
-[**Table View**](https://docs.wavefront.com/tracing_ui_overview.html#table-view)<br/>
+[**Table View**](https://docs.wavefront.com/tracing_ui_overview.html#table_view)<br/>
 View RED metrics at a glance, see changes (Δ value) in RED metrics, and sort data.  
 
-[**Grid view**](https://docs.wavefront.com/tracing_ui_overview.html#grid-view)<br/> 
+[**Grid view**](https://docs.wavefront.com/tracing_ui_overview.html#grid_view)<br/> 
 Examine the RED metrics for each of the application’s services. 
 
 From each view, drill down to the Service Dashboard and Tracing Browser. 
