@@ -18,6 +18,6 @@ Click the Link icon to get a link and share what you’re seeing right now (NO
 
 ### More Info 
 
-[Send Trace Data to Wavefront](https://docs.wavefront.com/tracing_instrumenting_frameworks.html)<br/>
+[Wavefront Distributed Tracing Overview](https://docs.wavefront.com/tracing_basics.html)<br/>
 
-[Visualize Trace Data](https://docs.wavefront.com/tracing_ui_overview.html)
+[Send Trace Data to Wavefront](https://docs.wavefront.com/tracing_instrumenting_frameworks.html)
