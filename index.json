@@ -228,6 +228,10 @@
     {
       "path": "^/tracing/browse-offline$",
       "file": "offline_traces.md"
+    },
+    {
+      "path": "^tracing/applications/configuration/(.*)$",
+      "file": "offline_traces.md"
     }
   ]
 }
