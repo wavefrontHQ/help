@@ -231,7 +231,7 @@
     },
     {
       "path": "^/tracing/applications/configuration(.*)$",
-      "file": "offline_traces.md"
+      "file": "application_configuration.md"
     }
   ]
 }
