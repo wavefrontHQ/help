@@ -10,7 +10,7 @@
 <p>&nbsp;</p>
 <p>Have questions? &nbsp; &nbsp; <a href="https://wavefront.com/join-public-slack"> <img src="images/slack.png"></img></a>
 &nbsp; &nbsp;
-<a href="https://wavefront.com/meet-1-on-1"><img src="images/1on1.png"></img></a> </p>
+<a href="https://docs.wavefront.com/tutorial_overview.html"><img src="images/tutorials_videos.png"></img></a> </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <img src="images/beach_ops.png" alt="wavefront and beachops">
