@@ -3,7 +3,7 @@
 <p>Wavefront gives you the power to operate your whole stack easily and effectively.</p>
 <p>In this Getting Started workflow you'll:</p>
 <ul>
-<li>Look at data from Wavefront (or start by getting some data in)</li>
+<li>Visualize data in dashboards & charts (or start by getting some data in)</li>
 <li>Fine-tune how we show your data.</li>
 <li>Alert on problems in real time.</li>
 </ul>
