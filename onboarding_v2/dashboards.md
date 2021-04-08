@@ -6,7 +6,7 @@
 <a href="../dashboards/untitled-dashboard/create"><strong>Click here to create a dashboard!</strong> </a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<iframe src="https://players.brightcove.net/1971571333001/default_default/index.html?videoId=6154498663001" width="960" height="540" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
-<p>&nbsp;</p>
+<img src="images/dashboards_charts.png"></img>
+&nbsp;
 </div>
 </div>
