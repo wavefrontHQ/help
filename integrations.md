@@ -12,7 +12,7 @@ Featured, collector, and code instrumentation integrations include all ways to g
 
 Alert notification integrations link alerts with incident management systems and notification services.
 
-![Wavefront integrations](images/integrations_alert_notification.png)
+![Wavefront integrations](images/integrations_alert_notifications.png)
 
 ####  Authentication
 
