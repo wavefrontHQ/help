@@ -6,7 +6,7 @@ Wavefront integrations are the link between any system and the Wavefront applica
 
 Featured, collector, and code instrumentation integrations include all ways to get data into Wavefront: using a collector agent and Wavefront proxy, sending metrics from application code to the proxy, and Wavefront pulling the data from a cloud service.
 
-![Wavefront integrations](images/wavefront_architecture.svg)
+![Wavefront integrations](images/wavefront_architecture.png)
 
 ####  Alert Notification
 
@@ -18,6 +18,6 @@ Alert notification integrations link alerts with incident management systems and
 
 Authentication integrations enable SSO access to Wavefront by linking to authentication providers.
 
-![Wavefront integrations](images/integrations_authentication.svg)
+![Wavefront integrations](images/integrations_authentication.png)
 
 {% include integrations_links.md %}
