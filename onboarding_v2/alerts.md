@@ -8,8 +8,8 @@
 <p>&nbsp;</p>
 <p>When you get an alert notification, it includes a clickable link to the alert in Alert Viewer. Watch this video for an introduction:</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<iframe src="https://players.brightcove.net/1971571333001/default_default/index.html?videoId=6263535548001" width="960" height="540" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
+
+<iframe src="https://players.brightcove.net/1971571333001/default_default/index.html?videoId=6263535548001" width="600" height="340" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
 &nbsp;
 </div>
 </div>

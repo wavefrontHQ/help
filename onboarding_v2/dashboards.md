@@ -7,7 +7,9 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>To learn how to drill down and customize dashboards, watch this video:
-<iframe src="https://players.brightcove.net/1971571333001/default_default/index.html?videoId=6154498320001" width="960" height="540" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
+<p>&nbsp;</p>
+
+<iframe src="https://players.brightcove.net/1971571333001/default_default/index.html?videoId=6154498320001" width="600" height="340" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
 &nbsp;
 </div>
 </div>
