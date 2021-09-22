@@ -1,4 +1,4 @@
-### What is Application Configuration 
+### What is Application Configuration? 
 
 The Apdex score helps you compare the response time of a service with a response time threshold (T) that you define. Define the response time threshold for each service using this page.
 
