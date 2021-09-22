@@ -232,6 +232,14 @@
     {
       "path": "^/tracing/applications/configuration(.*)$",
       "file": "application_configuration.md"
-    }
+    },
+    {
+      "path": "^/spanpolicy$",
+      "file": "tracing_sampling_policy.md"
+    },
+    {
+      "path": "^/spanpolicy/deleted$",
+      "file": "tracing_manage_sampling_policy.md"
+    }  
   ]
 }
