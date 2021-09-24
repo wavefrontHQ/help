@@ -1,12 +1,12 @@
 ### Organization Settings
 
-Organization Settings allow users with **Accounts, Groups & Roles** permission to set Wavefront preferences:
+As an administrator with **Accounts, Groups & Roles** permission, you can set Wavefront preferences:
 
 **New User Defaults Tab**
 
 Lets you to:
 
-* Globally set whether Getting Started Progress display is the default and set a default landing page -- a dashboard that you specify or the dashboard list.
+* Globally set whether Getting Started Progress display is the default and set a default landing page - a dashboard that you specify or the dashboard list.
 * Set the default query language preferences and optionally allow users to write queries in PromQL. 
 * When the default query language is WQL, you can also set whether Query Editor or Chart Builder is the default query builder. 
 * Set the default user groups. New users are assigned to all default user groups, and permissions are additive.
