@@ -1,4 +1,4 @@
-### What is Application Status? 
+### What Is Application Status? 
 
 See the overall health of each application using the application map, table view, and grid view. 
 
