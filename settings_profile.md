@@ -5,16 +5,17 @@ Your profile allows you to update user preferences, view the groups you belong t
 **User Information Tab**
 
 Lets you:
-* Set display preferences (including a dark theme).
 * Change your password if your environment supports that.
-* Keep [Query Builder]((https://docs.wavefront.com/query_language_query_builder.html)) as the default or select the chart editor.
+* Set the preferred time zone.
+* Set display preferences (including a dark theme).
+* Set query settings and keep [Chart Builder](https://docs.wavefront.com/chart_builder.html) as the default or select the query editor.
 
- **Groups & Permissions Tab**
+**Groups, Roles & Permissions Tab**
 Lets you see which groups you belong to, and which permissions you have. If you belong to more than one group, hover over the group name to see which permissions come from that group.
 
 **API Access Tab**
 
-Supports generating and revoking tokens required for accessing the [Wavefront API](https://docs.wavefront.com/wavefront_api.html). Access the API documentation from the gear icon while logged in to your Wavefront cluster.
+Lets you generate and revoke API tokens required for accessing the [Wavefront API](https://docs.wavefront.com/wavefront_api.html). Access the API documentation from the gear icon while logged in to your Wavefront cluster.
 
 ### More Info
 
