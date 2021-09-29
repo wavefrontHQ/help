@@ -194,8 +194,12 @@
       "file": "super_admin.md"
     },
     {
-      "path": "^/system-preferences/(.*)$",
+      "path": "^/system-preferences/defaults(.*)$",
       "file": "system_prefs.md"
+    },
+    {
+      "path": "^/system-preferences/security(.*)$",
+      "file": "security_prefs.md"
     },
     {
       "path": "^/slow-queries/(.*)$",
