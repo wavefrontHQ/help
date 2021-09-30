@@ -2,9 +2,9 @@
 
 On the **API Access** tab, you can:
 
-* Generate a new API token.
+* Generate a new API token by clicking the **Generate** button.
   You can have up to 20 API tokens at a time.
-* Revoke an API token, if you no longer need it. 
+* Revoke an API token, if you no longer need it, by clicking the **Revoke** button. 
 
 API tokens are required for accessing the Wavefront API. 
  

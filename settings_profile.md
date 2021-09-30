@@ -3,7 +3,8 @@
 On the **User Information** tab, you can update your user preferences:
 
 * Change your password if your environment supports that and set the preferred time zone.
-* Set display preferences (including a dark theme), chart title size, and turn sampling on and off.
+* Set display preferences (including a dark theme).
+* Set whether Getting Started Progress display is the default, set the chart title size, and turn sampling on and off..
 * Set a default landing page - a dashboard that you specify or the dashboard list.
 * If your administrator has enabled you to write queries in PromQL, you can set the preferred query settings. 
 * If WQL is your default query language, you can select [Chart Builder](https://docs.wavefront.com/chart_builder.html) as the default or select the Query Editor.
