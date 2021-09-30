@@ -1,8 +1,8 @@
-### What is a Sampling Policy? 
+### What Is a Sampling Policy? 
 
-Wavefront [intelligent sampling](http://docs-sandbox-b.wavefront.com/trace_data_sampling.html) significantly reduces the volume of ingested traces and is enabled by default. The goal of intelligent sampling is to retain traces that are likely to be informative. But sometimes intelligent sampling discards traces that you want to keep. 
+Wavefront [intelligent sampling](http://docs.wavefront.com/trace_data_sampling.html) retains traces that are likely to be informative, such as traces with errors or traces that take a long time to complete. If you want more control over the traces you want to retain in Wavefront, you can create a sampling policy to keep the spans you specify. 
 
-If intelligent sampling discards traces that you want to keep, you can create a sampling policy to keep the traces you specify. With sampling policies, you retain more data than the default intelligent sampling. That requires more storage and affects your cost. 
+With sampling policies, you retain more data than default intelligent sampling. That requires more storage and affects your cost. 
 
 ### More Info
 

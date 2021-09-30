@@ -1,26 +1,16 @@
-### Organization Settings
+### Organization Default Settings
 
-As an administrator with **Accounts, Groups & Roles** permission, you can set Wavefront preferences:
+As an administrator with **Accounts, Groups & Roles** permission, on the **New Account Defaults** tab, you can set Wavefront preferences:
 
-**New Account Defaults Tab**
-
-Lets you to:
-
-* Globally set whether Getting Started Progress display is the default and set a default landing page - a dashboard that you specify or the dashboard list.
+* Globally set whether Getting Started Progress display is the default. Individual users can override this setting.
+* Set a default landing page - a dashboard that you specify or the dashboard list. Individual users can override this setting.
 * Set the default query language preferences and optionally allow users to write queries in PromQL. 
 * When the default query language is WQL, you can also set whether Query Editor or Chart Builder is the default query builder. 
 * Set the default groups for new user accounts. New users are assigned to all default user groups, and permissions are additive.
 * Set the default groups for new service accounts. 
 * Set the default permissions for new user accounts. These permissions don't apply to service accounts
 
-**Security Tab**
-
-Lets you give access to new dashboards and alerts to: 
-* All user accounts that belong to the **Everyone** group.
-* All user accounts that belong to the **Everyone** group and all service accounts that belong to the **Service Accounts** group.
-* Only to the **Object Creator**. Even if you select **Object Creator**, the Super Admin user still has access.
-
 ### More Info
 
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
-[Managing Access](https://docs.wavefront.com/access.html)
+[Using PromQL in Wavefront](http://docs.wavefront.com/wavefront_prometheus.html)

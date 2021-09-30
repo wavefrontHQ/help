@@ -186,16 +186,28 @@
       "file": "webhooks_create.md"
     },
     {
-      "path": "^/userprofile/(.*)$",
+      "path": "^/userprofile/info(.*)$",
       "file": "settings_profile.md"
+    },
+    {
+      "path": "^/userprofile/groups(.*)$",
+      "file": "usergroups_profile.md"
+    },
+    {
+      "path": "^/userprofile/apiaccess(.*)$",
+      "file": "apiaccess_profile.md"
     },
     {
       "path": "^/super-admin$",
       "file": "super_admin.md"
     },
     {
-      "path": "^/system-preferences/(.*)$",
+      "path": "^/system-preferences/defaults(.*)$",
       "file": "system_prefs.md"
+    },
+    {
+      "path": "^/system-preferences/security(.*)$",
+      "file": "security_prefs.md"
     },
     {
       "path": "^/slow-queries/(.*)$",
