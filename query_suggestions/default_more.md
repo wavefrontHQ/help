@@ -1,4 +1,4 @@
-The default() function allows you to specify the <[[suggestionColor text=defaultValue]]> to fill in gaps in each time series described by <tsExpression>
+The default() function allows you to specify the <[[colorWrapper text=defaultValue]]> to fill in gaps in each time series described by <tsExpression>
 
 **Docs:**
 

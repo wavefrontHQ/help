@@ -1,4 +1,4 @@
-The next() function allows you to assign the next known reported data point value to a gap of missing data in each time series described by <[[suggestionColor text=tsExpression]]>
+The next() function allows you to assign the next known reported data point value to a gap of missing data in each time series described by <[[colorWrapper text=tsExpression]]>
 
 **Docs:**
 
