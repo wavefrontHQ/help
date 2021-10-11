@@ -1,8 +1,11 @@
-MISSING DATA FUNCTIONS: [[colorWrapper type=header text=default()]]
+MISSING DATA FUNCTIONS: [[queryFunctionName type=header text=default()]]
 
-`default([<[[colorWrapper type=body text=timeWindow]]>,] [<[[colorWrapper type=body text=delayTime]]>,] <defaultValue>, <tsExpression> [.orElse<defaultIfNoData>])`
+`default([<[[queryFunctionName type=body text=timeWindow]]>,] [<[[queryFunctionName type=body text=delayTime]]>,] <defaultValue>, <tsExpression> [.orElse<defaultIfNoData>])`
 
 **Tips to improve performance**
-- Use <[[colorWrapper type=body text=timeWindow]]> to fill in data specific to a desired smaller time window. Omitting this will fill in gaps of missing data for upto 4 weeks.
+- Use <[[queryFunctionName type=body text=timeWindow]]>to focus on the data you really need.
 
-- Specify <[[colorWrapper type=body text=delayTime]]> to allow a gap before the inserted data. Omitting this will lead to data points being inserted at the beginning of each gap.
+- Use <[[queryFunctionName type=body text=timeWindow]]> to specify a gap before the inserted data in case of
+
+If you don’t specify a timeWindow and/or delayTime, we apply the default value for every second and fill gaps up to 28 days. 
+

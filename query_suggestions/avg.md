@@ -1,4 +1,4 @@
-AGGREGATION FUNCTIONS: [[colorWrapper type=header text=avg()]]
+AGGREGATION FUNCTIONS: [[queryFunctionName type=header text=avg()]]
 
 `avg(<tsExpression>[,metrics|sources|sourceTags|pointTags|<pointTagKey>])`
 

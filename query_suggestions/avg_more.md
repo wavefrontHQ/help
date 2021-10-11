@@ -7,14 +7,5 @@ If you are aggregating thousands of time series, query performance might be affe
 **Docs:**
 
 [Time Series and Interpolation](https://www.youtube.com/watch?v=9LnDszVrJs4)<br>
-[How to dashboard performance](http://docs-sandbox-a.wavefront.com/ui_dashboards.html#ensure-optimal-dashboard-performance)
-
-suggestion: ['avg', 'count'];
-
-suggestion : [
-   {
-     content:
-     moreContent:
-   }
-]
+[Optimize dashboard performance](https://docs.wavefront.com/ui_dashboards.html#ensure-optimal-dashboard-performance)
 

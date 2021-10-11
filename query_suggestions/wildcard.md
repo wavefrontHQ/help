@@ -1,4 +1,4 @@
-Wildcard: [[colorWrapper type=header text="'*' to match strings"]]
+Wildcard: [[queryFunctionName type=header text="'*' to match strings"]]
 
 **Tips to improve performance**
 - Do not start a query with a wildcard
