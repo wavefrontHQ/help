@@ -1,7 +1,7 @@
 ### Setting up an Amazon Account
 
 
-For all integration types you first grant Wavefront read-only access to your Amazon account. Run the Amazon Create New Role wizard and copy the Role ARN that contains the Amazon account ID for use in Wavefront cloud integrations.
+For all integration types you first grant Wavefront read-only access to your Amazon account. Run the Amazon **Create New Role** wizard and copy the Role ARN that contains the Amazon account ID for use in Wavefront cloud integrations.
 
 More Info
 
