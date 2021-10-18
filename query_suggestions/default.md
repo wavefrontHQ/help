@@ -7,5 +7,3 @@ MISSING DATA FUNCTIONS: [[queryFunctionName type=header text=default()]]
 
 - Use <[[queryFunctionName type=body text=timeWindow]]> to specify a gap before the inserted data in case of
 
-If you don’t specify a timeWindow and/or delayTime, we apply the default value for every second and fill gaps up to 28 days. 
-
