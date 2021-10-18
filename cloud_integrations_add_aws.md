@@ -1,4 +1,4 @@
-### Adding an Amazon Cloud Integration
+### Add an Amazon Cloud Integration
 
 Setting up an Amazon cloud integration requires establishing a trust relationship between Amazon and Wavefront.
 
