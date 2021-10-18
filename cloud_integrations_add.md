@@ -4,7 +4,7 @@ Adding a cloud integration requires establishing a trust relationship between Am
 
 You start by granting Wavefront read-only access to your Amazon account or by giving more limited permissions.
 
-###More Info
+### More Info
 
 * [Giving Wavefront Global Read-Only Access](https://docs.wavefront.com/integrations_aws_metrics.html#giving-wavefront-global-read-only-access)
 * [Giving Wavefront Limited Access](https://docs.wavefront.com/integrations_aws_metrics.html#giving-wavefront-limited-access)
