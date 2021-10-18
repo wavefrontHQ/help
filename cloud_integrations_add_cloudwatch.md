@@ -1,4 +1,4 @@
-### Registering a CloudWatch Integration
+### Register a CloudWatch Integration
 
 {% include cloud_integrations_add_single.md integration="CloudWatch" %}
 
