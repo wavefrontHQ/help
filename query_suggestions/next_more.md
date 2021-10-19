@@ -5,4 +5,4 @@ The next() function allows you to assign the next known reported data point valu
 **Docs:**
 
 [next()](https://docs.wavefront.com/ts_next.html)<br>
-[Optimize dashboard performance](https://docs.wavefront.com/ui_dashboards.html#ensure-optimal-dashboard-performance)
+[Optimize Dashboard Performance](https://docs.wavefront.com/ui_dashboards.html#ensure-optimal-dashboard-performance)

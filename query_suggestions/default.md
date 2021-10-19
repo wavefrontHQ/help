@@ -5,5 +5,5 @@ MISSING DATA FUNCTIONS: [[queryFunctionName type=header text=default()]]
 **Tips to improve performance**
 - Use <[[queryFunctionName type=body text=timeWindow]]>to focus on the data you really need.
 
-- Use <[[queryFunctionName type=body text=timeWindow]]> to specify a gap before the inserted data in case of
+- Use <[[queryFunctionName type=body text=delayTime]]> to specify a gap before the inserted data in case of
 

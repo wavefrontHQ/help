@@ -5,4 +5,4 @@ The default() function allows you to specify the <[[queryFunctionName text=defau
 **Docs:**
 
 [default()](https://docs.wavefront.com/ts_default.html)<br>
-[Optimize dashboard performance](https://docs.wavefront.com/ui_dashboards.html#ensure-optimal-dashboard-performance)
+[Optimize Dashboard Performance](https://docs.wavefront.com/ui_dashboards.html#ensure-optimal-dashboard-performance)

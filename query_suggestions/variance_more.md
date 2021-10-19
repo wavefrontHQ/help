@@ -4,7 +4,7 @@ Standard aggregation functions like variance() interpolate data in each time ser
 
 If you are aggregating thousands of time series, query performance might be affected.
 
-**Docs:**
+**Doc & Video**
 
 [Time Series and Interpolation](https://www.youtube.com/watch?v=9LnDszVrJs4)<br>
-[Optimize dashboard performance](https://docs.wavefront.com/ui_dashboards.html#ensure-optimal-dashboard-performance)
+[Optimize Dashboard Performance](https://docs.wavefront.com/ui_dashboards.html#ensure-optimal-dashboard-performance)
