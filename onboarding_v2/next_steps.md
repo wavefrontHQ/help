@@ -8,8 +8,9 @@
 
 [[inviteUsers]]
 
-<p>Want to learn about Distributed Tracing, histograms, and other cool features?</p>
-<p><a href="https://wavefront.com/join-public-slack"> <img src="images/slack.png"></img></a>&nbsp; &nbsp;
-<a href="https://docs.wavefront.com/tutorial_overview.html"><img src="images/tutorials_videos.png"></img></a> </p>
+<p>Want to learn about other features? Have questions?</p>
+<p><a href="https://docs.wavefront.com/tutorial_overview.html"><img src="images/tut_snag.png"></img></a>&nbsp; &nbsp;
+<a href="https://help.wavefront.com/hc/en-us/requests/new"> <img src="images/get_help_snag.png"></img></a>&nbsp; &nbsp;
+ </p>
 
 </div>
