@@ -4,5 +4,5 @@ For all integration types you first grant Wavefront read-only access to your Ama
 
 ###More Info
 
-* [Giving Wavefront Global Read-Only Access](https://docs.wavefront.com/integrations_aws_overview.html#giving-wavefront-global-read-only-access)
+* [Giving Wavefront Global Read-Only Access](https://docs.wavefront.com/integrations_aws_overview.html#give-wavefront-read-only-access-to-your-amazon-account-and-get-the-role-arn)
 * [Giving Wavefront Limited Access](https://docs.wavefront.com/integrations_aws_overview.html#giving-wavefront-limited-access)
