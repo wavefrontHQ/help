@@ -89,6 +89,10 @@
       "file": "cloud_integrations_add_kubernetes.md"
     },
     {
+      "path": "^/extdata/(add|edit)/vrops(.*)$",
+      "file": "cloud_integrations_add_vrops.md"
+    },    
+    {
       "path": "^/extdata/(.*)$",
       "file": "cloud_integrations_add.md"
     },
