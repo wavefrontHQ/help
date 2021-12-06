@@ -6,9 +6,9 @@ To register a new vRealize Operations instance, you need a Cloud Services consol
 
 In the **Metric Allow List**, add metrics to an allow list by entering a regular expression. For example:
 
-* To fetch only cost metrics, enter: `^vrops.vmware.(datastore|clustercomputeresource).cost.*$`
-* To fetch only health metrics, enter: `^vrops.vmware.(datastore|clustercomputeresource).health.*$`
-* To fetch only cost and health metrics, enter `^vrops.vmware.(datastore|clustercomputeresource).(cost|health).*$`
+* To fetch only cost metrics, enter: <code>^vrops.vmware.(datastore|clustercomputeresource).cost.*$</code>
+* To fetch only health metrics, enter: <code>^vrops.vmware.(datastore|clustercomputeresource).health.*$</code>
+* To fetch only cost and health metrics, enter <code>^vrops.vmware.(datastore|clustercomputeresource).(cost|health).*$</code>
 
 
 ### More Info
