@@ -93,6 +93,10 @@
       "file": "cloud_integrations_add_vrops.md"
     },    
     {
+      "path": "^/extdata/(add|edit)/snowflake(.*)$",
+      "file": "cloud_integrations_add_snowflake.md"
+    },    
+    {
       "path": "^/extdata/(.*)$",
       "file": "cloud_integrations_add.md"
     },
