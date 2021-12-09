@@ -15,12 +15,12 @@ After you created a user with the correct permissions, to register your Snowflak
 1. In the **Name** text box, provide a meaningful name.
 2. In the **Account ID** text box, enter your account ID.
 3. Enter the Snowflake user name and password in the respective text boxes.
-4. (Optional) Add metrics to a metrics allow list by using a regular expression. For example:
+4. (Optional) In the **Metric Allow List** text box, add metrics to a metrics allow list by using a regular expression. For example:
     * To monitor only the daily credit usage and a cloud services rebate for an account within the last 365 days (1 year), enter:
       <code>^snowflake.metering-daily-history.*$</code>
     * To monitor the hourly credit usage for a single warehouse (or all the warehouses in your account) within a specified date range, enter:
       <code>^snowflake.warehouse-metering-history.*$</code>
     * To monitor the average daily storage usage, in bytes, for a single database (or all the databases in your account) within a specified date range, enter:
       <code>^snowflake.database-usage-storage-usage-history.*$</code>
-5. (Optional) Update minutes in the **Service Refresh Rate**. The default is `60` minutes.
+5. (Optional) Change the **Service Refresh Rate**. The default is `60` minutes.
 6. Click **Register**.
