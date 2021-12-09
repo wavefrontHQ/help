@@ -5,7 +5,7 @@
       "file": "alerts.md"
     },
     {
-      "path": "^/alerts/add$",
+      "path": "^/alertsv1/add$",
       "file": "alert_create.md"
     },
     {
