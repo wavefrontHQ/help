@@ -7,9 +7,9 @@ To set up the Dynatrace integration, you must provide an API token. Click the **
 1. In the **Name** text box, enter a meaningful name.
 2. In the **Base URL** text box, provide your Dynatrace server API endpoint URL.
 3. In the **API Token** text box, paste the API token that you copied.
-4. (Optional) In the **Metric Allow List** field, add metrics to an allow list by entering a regular expression. For example:
+4. (Optional) In the **Metric Allow List** text box, add metrics to an allow list by entering a regular expression. For example:
    * To fetch only load action duration metrics, enter: <code>^dynatrace.builtin.synthetic.browser.actionDuration.load.*$</code>
    * To fetch only successful executions count metrics, enter: <code>^dynatrace.builtin.synthetic.browser.success.*$</code>
    * To fetch only server contribution metrics, enter <code>^dynatrace.builtin.synthetic.browser.serverContribution.*$</code>
-5. (Optional) Change the **Service Refresh Rate**. The default is 5 minutes.
+5. (Optional) Change the **Service Refresh Rate**. The default is `5` minutes.
 6. Click **Register**.
