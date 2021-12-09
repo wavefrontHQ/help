@@ -93,6 +93,10 @@
       "file": "cloud_integrations_add_vrops.md"
     },    
     {
+      "path": "^/extdata/(add|edit)/dynatrace(.*)$",
+      "file": "cloud_integrations_add_dynatrace.md"
+    },    
+    {
       "path": "^/extdata/(.*)$",
       "file": "cloud_integrations_add.md"
     },
