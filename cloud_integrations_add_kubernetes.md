@@ -10,5 +10,5 @@ You have three choices:
 
 Once you decide where you want to install the Wavefront Collector, follow the instructions on the left. For Tanzu and Kubernetes clusters, you can choose between simple Helm install or manual installation. For OpenShift cluster, the steps vary depending on your OpenShift Enterprise version.
 
-**Read More**
+**Read More**<br/>
 [Kubernetes Troubleshooting](https://docs.wavefront.com/wf_kubernetes_troubleshooting.html)

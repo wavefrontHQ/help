@@ -1,4 +1,4 @@
-### What is a Derived Metric?
+### What Is a Derived Metric?
 
 You can create a derived metric by setting up a query that includes an `aliasMetric` or `aliasSource`, and saving that query from the `Derived Metrics` page.
 
