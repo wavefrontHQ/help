@@ -16,8 +16,7 @@ From each view, drill down to the Service Dashboard and Traces Browser.
 Click the Link icon to get a link and share what you’re seeing right now (NON-LIVE display). 
 
 
-### More Info 
-
+**Read More**
 [Wavefront Distributed Tracing Overview](https://docs.wavefront.com/tracing_basics.html)<br/>
 
 [Send Trace Data to Wavefront](https://docs.wavefront.com/tracing_instrumenting_frameworks.html)
