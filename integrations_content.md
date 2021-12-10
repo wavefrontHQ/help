@@ -8,4 +8,3 @@ Featured and Data Collector integrations have metrics and content:
 - **Content** - pre-defined dashboards that highlight important metrics or illustrate techniques for querying metrics. Some dashboards contain pre-defined alert conditions that are embedded as queries in charts on the dashboards. You can install and uninstall the dashboards.
 
 {% include integrations_links.md %}
-
