@@ -1,4 +1,4 @@
-### What is a Dashboard?
+### What Is a Dashboard?
 
 Dashboards group a set of related [charts](https://docs.wavefront.com/ui_charts.html). All charts in a dashboard share [display
 preferences](https://docs.wavefront.com/ui_dashboards.html#set-dashboard-display-preferences),
