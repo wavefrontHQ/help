@@ -10,7 +10,7 @@ On the **User Information** tab, you can update your user preferences:
 * If WQL is your default query language, you can select [Chart Builder](https://docs.wavefront.com/chart_builder.html) as the default or select the Query Editor.
 
 
-### More Info
+**Read More**<br/>
 
 [Your Wavefront Account](https://docs.wavefront.com/users_account_managing.html)
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)

@@ -1,4 +1,4 @@
-### More Info
+**Read More**<br/>
 
 Wavefront has a wealth of resources for learning the platform. Check them out:
 

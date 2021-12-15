@@ -13,6 +13,6 @@ You can export traces and view them later using the Offline Traces page.
 1. Export traces via the API. 
 1. Feed the JSON response to the Offline Traces page. 
 
-### More Info 
+**Read More**<br/>
 
 [View Traces Offline](https://docs.wavefront.com/tracing_view_offline_traces.html)
