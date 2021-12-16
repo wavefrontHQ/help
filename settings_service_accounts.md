@@ -9,7 +9,6 @@ From this page, you can:
 * Assign permissions to a service account. In most situations, it's best to assign permissions directly to the service account.
 
 
-### More Info
-
+**Read More**<br/>
 [Managing Service Accounts](https://docs.wavefront.com/service-accounts.html)
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
