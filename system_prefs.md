@@ -13,6 +13,5 @@ As an administrator with **Accounts, Groups & Roles** permission, on the **New A
 Individual users can override some of these settings by clicking the gear icon and selecting [their user account](https://docs.wavefront.com/users_account_managing.html).
 
 **Read More**<br/>
-
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
 [Using PromQL in Wavefront](http://docs.wavefront.com/wavefront_prometheus.html)

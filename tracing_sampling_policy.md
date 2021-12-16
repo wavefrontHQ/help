@@ -5,7 +5,5 @@ Wavefront [intelligent sampling](http://docs.wavefront.com/trace_data_sampling.h
 With sampling policies, you retain more data than default intelligent sampling. That requires more storage and affects your cost. 
 
 **Read More**<br/>
-
 [Manage Sampling Policies](https://docs.wavefront.com/trace_sampling_policies.html)
-
 [Trace Sampling Overview](https://docs.wavefront.com/trace_data_sampling.html#how-it-works)

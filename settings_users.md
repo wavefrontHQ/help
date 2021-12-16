@@ -9,6 +9,5 @@ From this page, you can:
 
 
 **Read More**<br/>
-
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
 [Managing Users and Roles](https://docs.wavefront.com/users_roles.html)

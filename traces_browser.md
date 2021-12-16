@@ -10,5 +10,4 @@ Explore the details of your application’s traces:
 * **Download traces** and view them later using the Offline Traces page. 
 
 **Read More**<br/>
-
 [Traces Browser ](https://docs.wavefront.com/tracing_traces_browser.html)

@@ -11,7 +11,6 @@ On the **User Information** tab, you can update your user preferences:
 
 
 **Read More**<br/>
-
 [Your Wavefront Account](https://docs.wavefront.com/users_account_managing.html)
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
 [Using PromQL in Wavefront](http://docs.wavefront.com/wavefront_prometheus.html)

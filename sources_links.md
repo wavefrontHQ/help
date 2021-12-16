@@ -1,5 +1,4 @@
 **Read More**<br/>
-
 [Managing Sources](https://docs.wavefront.com/sources_managing.html)
 
 **Watch Videos**<br/>
