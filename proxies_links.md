@@ -1,5 +1,5 @@
 **Read More**<br/>
-[Integrations](https://docs.wavefront.com/integrations.html)
+[Integrations](https://docs.wavefront.com/integrations.html)<br/>
 [Managing Wavefront Proxies](https://docs.wavefront.com/proxies_installing.html)
 
 
