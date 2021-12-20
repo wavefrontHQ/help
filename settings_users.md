@@ -7,7 +7,6 @@ From this page, you can:
 * Create roles and assign the roles to groups or accounts
 
 
-
 **Read More**<br/>
-[Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
+[Authorization in Wavefront](https://docs.wavefront.com/authorization.html)<br/>
 [Managing Users and Roles](https://docs.wavefront.com/users_roles.html)

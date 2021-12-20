@@ -6,5 +6,5 @@ If you belong to more than one group, hover over the group name to see which per
 
 
 **Read More**<br/>
-[Your Wavefront Account](https://docs.wavefront.com/users_account_managing.html)
+[Your Wavefront Account](https://docs.wavefront.com/users_account_managing.html)<br/>
 [Authorization in Wavefront](https://docs.wavefront.com/authorization.html)

@@ -8,5 +8,5 @@ The Groups page allows you to:
 You can also select a permission on the left to see which groups have that permissions.
 
 **Read More**<br/>
-[Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
+[Authorization in Wavefront](https://docs.wavefront.com/authorization.html)<br/>
 [Managing Users and Groups](https://docs.wavefront.com/users_roles.html)
