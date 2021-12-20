@@ -4,7 +4,5 @@ The Apdex score helps you compare the response time of a service with a response
 
 **Read More**<br/>
 [Configure Apdex Settings](https://docs.wavefront.com/tracing_apdex.html)<br/>
-
 [apdex() Function](https://docs.wavefront.com/hs_apdex_function.html)<br/>
-
 [apdexLatency() Function](https://docs.wavefront.com/hs_apdex_latency_function.html)

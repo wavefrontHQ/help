@@ -15,7 +15,6 @@ Cloud integrations allow you to collect and monitor metrics from Cloud services,
 Alert notification integrations link alerts with incident management systems and notification services.
 
 **Authentication**<br/>
-
 Authentication integrations enable SSO access to Wavefront by linking to authentication providers.
 
 {% include integrations_links.md %}
