@@ -13,6 +13,10 @@
       "file": "alert_create.md"
     },
     {
+      "path": "^/alertsv1/add$",
+      "file": "alert_create.md"
+    },
+    {
       "path": "^/alerts/(.*)/edit$",
       "file": "alert_create.md"
     },
