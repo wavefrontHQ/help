@@ -8,3 +8,6 @@ about metric names, source names, point tag values, and time window of the origi
 
 The template uses [Mustache syntax](https://mustache.github.io/). It supports several properties derived from the series
 and supports functions to transform sections in the template.
+
+**Watch Videos**<br/>
+[External Links](https://youtu.be/oufjL7nM0LQ)

@@ -11,4 +11,5 @@ When you create a derived metric, you specify the following information:
 
 After you've saved the query, we run it at the specified interval, and you can use the resulting metric in other queries.
 
-{% include derived_metrics_links.md %}
+**Read More**<br/>
+[Derived Metrics](https://docs.wavefront.com/derived_metrics.html)

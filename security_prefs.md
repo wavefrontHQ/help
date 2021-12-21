@@ -8,7 +8,9 @@ As an administrator with **Accounts, Groups & Roles** permission, on the **Secur
 
 Any change that you make applies only to the dashboards and alerts created after the change. If you change the setting to **Object Creator**, only new dashboards and alerts have restricted access. If you later change the setting to **Everyone**, all dashboards and alerts that were created while the setting was **Object Creator** keep the restricted access.
 
-### More Info
-
-[Authorization in Wavefront](https://docs.wavefront.com/authorization.html)
+**Read More**<br/>
+[Authorization in Wavefront](https://docs.wavefront.com/authorization.html)<br/>
 [Managing Access](https://docs.wavefront.com/access.html)
+
+**Watch Videos**<br/>
+[Access Control in Wavefront](https://youtu.be/45E4pkann0E)
