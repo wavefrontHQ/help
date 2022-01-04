@@ -9,6 +9,5 @@ Explore the details of your application’s traces:
 * **Examine the critical path** (orange line), an end-to-end sequence of blocking spans. Each blocking span must complete before the trace can complete. 
 * **Download traces** and view them later using the Offline Traces page. 
 
-### More Info 
-
+**Read More**<br/>
 [Traces Browser ](https://docs.wavefront.com/tracing_traces_browser.html)
