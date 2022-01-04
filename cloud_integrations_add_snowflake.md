@@ -1,11 +1,12 @@
 ### Add a Snowflake Integration
 
-Use the Snowflake integration to monitor a Snowflake database and the ACCOUNT_USAGE schema. Snowflake is a full-featured native integration that offers agentless data ingestion of Snowflake usage metric data as well as a predefined dashboard.
+Use the Snowflake integration to monitor a Snowflake database and the ACCOUNT_USAGE schema. 
 
 To register a new Snowflake instance and start monitoring the Snowflake usage, you must give Wavefront access to your Snowflake account. The overall process involves the following steps:
 
 * Create a custom role that will monitor the Snowflake usage, for example `WAVEFRONT`.
 * Grant the monitoring privileges to the new role.
+* Grant the role with the usage privilege on the warehouse.
 * Assign the role to a new or an already existing user.
 
 Follow the instructions in the Wavefront UI if you don't know how to achieve this.
@@ -15,6 +16,8 @@ After you created a user with the correct permissions, to register your Snowflak
 1. In the **Name** text box, provide a meaningful name.
 2. In the **Account ID** text box, enter your account ID.
 3. Enter the Snowflake user name and password in the respective text boxes.
+4. In the **Role** and **Warehouse** text boxes, enter the role and the warehouse assigned to the user. 
+   If you don't specify a role and warehouse, the default ones that are assigned to the user will be used.
 4. (Optional) In the **Metric Allow List** text box, add metrics to a metrics allow list by using a regular expression. For example:
     * To monitor only the daily credit usage and a cloud services rebate for an account within the last 365 days (1 year), enter:
       <code>^snowflake.metering-daily-history.*$</code>
