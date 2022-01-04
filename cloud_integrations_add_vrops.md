@@ -12,4 +12,4 @@ In the **Metric Allow List**, add metrics to an allow list by entering a regular
 
 
 **Read More**<br/>
-* [vRealize Operations Integration Overview](https://docs.wavefront.com/integrations_vrops.html)
+* [vRealize Operations Cloud Integration Overview](https://docs.wavefront.com/integrations_vrops.html)
