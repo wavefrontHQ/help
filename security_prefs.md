@@ -1,6 +1,6 @@
 ### Organization Security Settings
 
-As an administrator with **Accounts, Groups & Roles** permission, on the **Security** tab, you can set access to newly created dashboards and alerts:
+As an administrator with **Accounts** permission, on the **Security** tab, you can set access to newly created dashboards and alerts:
 
 * If you select  **Grant Modify Access To: Everyone**, you give access to all user accounts that belong to the **Everyone** group.
 * If you select **Grant Modify Access To: Everyone** and select the **Service Accounts** check box, you give access to user accounts that belong to the **Everyone** group and all service accounts that belong to the **Service Accounts** group.
