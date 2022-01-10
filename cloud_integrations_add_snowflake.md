@@ -15,6 +15,7 @@ After you created a user with the correct permissions, to register your Snowflak
 
 1. In the **Name** text box, provide a meaningful name.
 2. In the **Account ID** text box, enter your account ID.
+   For information about the Snowflake account ID, see the [Snowflake documentation](https://docs.snowflake.com/en/user-guide/admin-account-identifier.html).
 3. Enter the Snowflake user name and password in the respective text boxes.
 4. In the **Role** and **Warehouse** text boxes, enter the role and the warehouse assigned to the user. 
    If you don't specify a role and warehouse, the default ones that are assigned to the user will be used.
