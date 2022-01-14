@@ -5,5 +5,5 @@
 To see your own permissions, click the gear icon and select your name.
 
 **Read More**<br/>
-[Accounts, Groups, and Permissions](https://docs.wavefront.com/users_roles.html)
+[Accounts](https://docs.wavefront.com/users_roles.html)
 [Examining Groups and Permissions](http://docs.wavefront.com/users_account_managing.html#examining-groups-and-permissions)
