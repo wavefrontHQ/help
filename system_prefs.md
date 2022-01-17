@@ -1,6 +1,6 @@
 ### Organization Default Settings
 
-As an administrator with **Accounts, Groups & Roles** permission, on the **New Account Defaults** tab, you can set Wavefront preferences:
+As an administrator with **Accounts** permission, on the **New Account Defaults** tab, you can set Wavefront preferences:
 
 * Globally set whether Getting Started Progress display is the default. 
 * Set a default landing page - a dashboard that you specify or the dashboard list. 
