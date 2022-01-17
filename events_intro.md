@@ -7,4 +7,4 @@ Events originate from several different sources. When you perform actions in Wav
 
 You can close (end) user events that are ongoing (whether they have no end time or a specific end time).
 
-Events display as icons on the X-axis and as lines and regions of a chart. You specify which events display using [Basic events() Queries](https://docs.wavefront.com/events_queries.html) and control whether they display at the [chart](https://docs.wavefront.com/charts_events_displaying.html) or [dashboard](https://docs.wavefront.com/charts_events_displaying.html#controlling-events-overlays) level. 
+Events display as icons on the X-axis and as lines and regions of a chart. You specify which events display using [Basic events() Queries](https://docs.wavefront.com/events_queries.html) and control whether they display at the [chart](https://docs.wavefront.com/charts_events_displaying.html) or [dashboard](https://docs.wavefront.com/charts_events_displaying.html#controlling-events-overlays) level.

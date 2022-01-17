@@ -5,7 +5,15 @@
       "file": "alerts.md"
     },
     {
+      "path": "^/alertsv1/add$",
+      "file": "alert_create.md"
+    },
+    {
       "path": "^/alerts/add$",
+      "file": "alert_create.md"
+    },
+    {
+      "path": "^/alertsv1/add$",
       "file": "alert_create.md"
     },
     {
@@ -230,7 +238,7 @@
       "file": "settings_query_dashboard.md"
     },
     {
-      "path": "^/usergroups(.*)$",
+      "path": "^/account/usergroups(.*)$",
       "file": "user_groups.md"
     },
     {
