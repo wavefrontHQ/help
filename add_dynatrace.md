@@ -16,7 +16,7 @@ In this initial release of the Dynatrace integration, we have the following limi
 To set up the Dynatrace integration, you must provide the environment ID and a valid API token. 
 
 1. Log in to your Dynatrace account.
-2. Click the user icon in the header, and select the your user name from the context menu.
+2. Click the user icon in the header, and from the context menu, select your user name.
 3. Under the **Environment access and settings** section, click the name of the environment that you want to monitor.
 4. Copy the **Environment ID** shown in the URL of the form https://<code>your-environment-id</code>.live.dynatrace.com and paste it in a text file. 
 5. Click **Access Tokens** in the navigation menu.
