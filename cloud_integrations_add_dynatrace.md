@@ -11,9 +11,9 @@ To set up the Dynatrace integration, you must provide the environment ID and a v
    The API Token is securely stored and never exposed except for read-only access to fetch data from the Dynatrace Operations server.
 
 4. (Optional) In the **Metric Allow List** text box, add metrics to an allow list by entering a regular expression. For example:
-    * To fetch only Apache Tomcat and Oracle WebLogic metrics, enter: <code>^dynatrace.(.)(tomcat|weblogic).$</code>
-    * To fetch only Kubernetes metrics, enter: <code>^dynatrace.(.)(cloud.kubernetes).$</code>
-    * To fetch only host performance metrics, enter: <code>^dynatrace.(.)(host).$</code>
-    * To fetch only Synthetic metrics, enter: <code>^dynatrace.(.)(synthetic).$</code>
+    * To fetch only Apache Tomcat and Oracle WebLogic metrics, enter: <code>^dynatrace.(.)(tomcat|weblogic).*$</code>
+    * To fetch only Kubernetes metrics, enter: <code>^dynatrace.(.)(cloud.kubernetes).*$</code>
+    * To fetch only host performance metrics, enter: <code>^dynatrace.(.)(host).*$</code>
+    * To fetch only Synthetic metrics, enter: <code>^dynatrace.(.)(synthetic).*$</code>
 5. (Optional) Change the **Service Refresh Rate**. The default is `5` minutes.
 6. Click **Register**.
