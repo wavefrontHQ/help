@@ -1,3 +1,3 @@
-### Register an AWS Metrics+ Integration
+### Edit or Register an AWS Metrics+ Integration
 
 {% include cloud_integrations_add_single.md integration="AWS Metrics+" %}
