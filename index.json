@@ -258,6 +258,10 @@
       "file": "settings_service_accounts.md"
     },
     {
+      "path": "^/account/apitokens(.*)$",
+      "file": "api_tokens.md"
+    },
+    {
       "path": "^/tracing/appmap$",
       "file": "application_status.md"
     },
