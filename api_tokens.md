@@ -1,6 +1,6 @@
 ### View and Manage the API Tokens in Your Organization
 
-As a Super Admin, you can view the API token of any user or service account, examine their usage, and revoke a token, if needed.
+As a user with the **Accounts** permission, you can view the API tokens of any user or service account, examine their usage, and revoke a token, if needed.
 
 **Important:** Revoking a token cannot be undone. Any script that uses a revoked token returns an authorization error.
 
