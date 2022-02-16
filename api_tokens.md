@@ -1,10 +1,10 @@
-### View and Manage the API Tokens in Your Organization
+### Viewing and Managing API Tokens
 
-As a user with the **Accounts** permission, you can view the API tokens of any user or service account, examine their usage, and revoke a token, if needed.
+As a user with the **Accounts** permission, you can view the API tokens of all user and service accounts in your organization, examine their usage, and revoke a token, if needed.
 
 **Important:** Revoking a token cannot be undone. Any script that uses a revoked token returns an authorization error.
 
-On the **API Tokens** tab, you can:
+On this page, you can:
 * Sort the API tokens by clicking the arrows in the column headers.
 * Search and, optionally, save and share your search by using the Search field above the tokens table.
 * Filter the API tokens by account type, usage, particular accounts, or your saved search by using the filters on the left.
