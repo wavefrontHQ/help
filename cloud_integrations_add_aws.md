@@ -19,7 +19,7 @@ Then, you register the integration by providing the necessary information, such 
       
       In AWS, go to **CloudTrail** &gt;**Trails** to see the bucket name.
       
-   4. (Optional) **Prefix** - A log file prefix specified when you created the CloudTrail. 
+   4. (Optional) **Prefix** - A log file prefix specified when you created the CloudTrail service. 
       
       The default prefix is `AWSLogs`. If you use a custom prefix, you must put it here without using a forward slash at the end of the prefix, i.e. a trailing slash.
       

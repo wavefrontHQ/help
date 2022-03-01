@@ -61,16 +61,28 @@
       "file": "cloud_integrations_add.md"
     },
     {
-      "path": "^/extdata/(add|edit)/cloudwatch(.*)$",
+      "path": "^/extdata/add/cloudwatch(.*)$",
       "file": "cloud_integrations_add_cloudwatch.md"
     },
     {
-      "path": "^/extdata/(add|edit)/cloudtrail(.*)$",
+      "path": "^/extdata/edit/cloudwatch(.*)$",
+      "file": "cloud_integrations_edit_cloudwatch.md"
+    },
+    {
+      "path": "^/extdata/add/cloudtrail(.*)$",
       "file": "cloud_integrations_add_cloudtrail.md"
     },
     {
-      "path": "^/extdata/(add|edit)/ec2(.*)$",
+      "path": "^/extdata/edit/cloudtrail(.*)$",
+      "file": "cloud_integrations_edit_cloudtrail.md"
+    },
+    {
+      "path": "^/extdata/add/ec2(.*)$",
       "file": "cloud_integrations_add_aws_metrics.md"
+    },
+    {
+      "path": "^/extdata/edit/ec2(.*)$",
+      "file": "cloud_integrations_edit_aws_metrics.md"
     },
     {
       "path": "^/extdata/(add|edit)/tesla(.*)$",
