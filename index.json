@@ -58,7 +58,7 @@
     },
     {
       "path": "^/extdata/(add|edit)/amazon(.*)$",
-      "file": "cloud_integrations_add_aws.md"
+      "file": "cloud_integrations_add.md"
     },
     {
       "path": "^/extdata/(add|edit)/cloudwatch(.*)$",
