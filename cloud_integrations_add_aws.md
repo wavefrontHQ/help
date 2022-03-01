@@ -6,7 +6,7 @@ You start by granting Wavefront read-only access to your Amazon account or by gi
 
 Then, you register the integration by providing the necessary information, such as:
 
-* Name and Role ARN (for all AWS Metrics+, AWS CloudTrail and AWS CloudWatch)
+* Name and Role ARN (for AWS Metrics+, AWS CloudTrail, and AWS CloudWatch)
 * Bucket Name, Prefix, and Region (for CloudTrail only)
 * Allow Lists and Service Refresh Rate (for CloudWatch only)
 
