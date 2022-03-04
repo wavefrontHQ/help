@@ -33,4 +33,4 @@ Then, you register the integration by providing the necessary information, such 
 
 **Read More**<br />
 * [Learn How to Register AWS Metrics+, AWS CloudTrail, and AWS CloudWatch](https://docs.wavefront.com/integrations_aws_overview.html#register-additional-amazon-web-services)
-* [Learn How to Configuring CloudWatch Data Ingestion](https://docs.wavefront.com/integrations_aws_metrics.html#configuring-cloudwatch-data-ingestion)
+* [Learn How to Configure CloudWatch Data Ingestion](https://docs.wavefront.com/integrations_aws_metrics.html#configuring-cloudwatch-data-ingestion)
