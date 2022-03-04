@@ -18,6 +18,8 @@ Then, you can register the integration:
    
    * **Region** - AWS Region where the CloudTrail logs reside.
 
+4. Click **Register**.
+
 For information about registering and configuring CloudWatch, see [Configure CloudWatch Data Ingestion](https://docs.wavefront.com/integrations_aws_metrics.html#configuring-cloudwatch-data-ingestion).
 
 **Read More**<br />
