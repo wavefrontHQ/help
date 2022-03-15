@@ -1,4 +1,4 @@
-### What is a Source?
+### What Is a Source?
 
 A source is a unique application, host, container, or instance that emits metrics. The source is explicitly set
 in the **source** field of a [Wavefront data format](https://docs.wavefront.com/wavefront_data_format.html) metric. For

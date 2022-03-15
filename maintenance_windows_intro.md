@@ -1,4 +1,4 @@
-### What is a Maintenance Window?
+### What Is a Maintenance Window?
 
 A maintenance window is a time window when disruptive operations occur as a result of system maintenance or testing. These disruptive operations create a high likelihood of causing alerts to fire. A maintenance window
 allows you to identify when maintenance is scheduled and prevent affected alerts from firing.
