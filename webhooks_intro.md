@@ -1,4 +1,4 @@
-### What is an Alert Target?
+### What Is an Alert Target?
 
 An alert target can be one of the following: 
 

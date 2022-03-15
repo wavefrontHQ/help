@@ -1,4 +1,4 @@
-### What is Traces Browser? 
+### What Is Traces Browser? 
 
 Explore the details of your application’s traces: 
 
