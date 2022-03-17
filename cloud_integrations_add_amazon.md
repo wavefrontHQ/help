@@ -1,6 +1,6 @@
 ### Add an Amazon Cloud Integration
 
-Setting up an Amazon cloud integration requires establishing a trust relationship between Amazon and Wavefront. This involves creating a role in Amazon Web Services, providing it with read-only access, and getting the Role ARN.
+Setting up an Amazon cloud integration requires establishing a trust relationship between Amazon and Tanzu Observability by Wavefront. This involves creating a role in Amazon Web Services, providing it with read-only access, and getting the Role ARN.
 
 Then, you can register the integration:
 
@@ -23,6 +23,6 @@ Then, you can register the integration:
 For information about registering and configuring CloudWatch, see [Configure CloudWatch Data Ingestion](https://docs.wavefront.com/integrations_aws_metrics.html#configuring-cloudwatch-data-ingestion).
 
 **Read More**<br />
-* [Giving Wavefront Global Read-Only Access](https://docs.wavefront.com/integrations_aws_overview.html#give-wavefront-read-only-access-to-your-amazon-account-and-get-the-role-arn)
-* [Giving Wavefront Limited Access](https://docs.wavefront.com/integrations_aws_overview.html#giving-wavefront-limited-access)
-* [Register Additional Amazon Web Services](https://docs.wavefront.com/integrations_aws_overview.html#register-additional-amazon-web-services)
+* [Give Global Read-Only Access](https://docs.wavefront.com/integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn)
+* [Give Limited Access](https://docs.wavefront.com/integrations_aws_overview.html#giving-wavefront-limited-access)
+* [Register Additional Amazon Web Services](https://docs.wavefront.com/integrationleles_aws_overview.html#register-additional-amazon-web-services)
