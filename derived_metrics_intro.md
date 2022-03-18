@@ -6,4 +6,4 @@ Derived metrics are useful for certain use cases:
 * Simplify the user experience by condensing the result of your query down to a single metric. All users can use that metric in other queries.
 * Improve performance by pre-processing expensive queries. Other queries can use the result(s) instead of running the whole query.
 
-Wavefront runs that query in the background, by default approximately once a minute and you can use the (aliased) metric in other queries.
+Tanzu Observability by Wavefront runs that query in the background, by default approximately once a minute and you can use the (aliased) metric in other queries.

@@ -1,9 +1,9 @@
 ### Add a Cloud Integration
 
-Adding a cloud integration requires establishing a trust relationship between Amazon and Wavefront by sharing account IDs.
+Adding a cloud integration requires establishing a trust relationship between Amazon and Tanzu Observability by Wavefront by sharing account IDs.
 
-You start by granting Wavefront read-only access to your Amazon account or by giving more limited permissions.
+You start by granting Tanzu Observability read-only access to your Amazon account or by giving more limited permissions.
 
 **Read More**<br/>
-* [Giving Wavefront Global Read-Only Access](https://docs.wavefront.com/integrations_aws_metrics.html#giving-wavefront-global-read-only-access)<br/>
-* [Giving Wavefront Limited Access](https://docs.wavefront.com/integrations_aws_metrics.html#giving-wavefront-limited-access)
+* [Giving Global Read-Only Access](integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn)<br/>
+* [Giving Limited Access](https://docs.wavefront.com/integrations_aws_metrics.html#giving-limited-access)
