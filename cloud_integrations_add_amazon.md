@@ -24,5 +24,5 @@ For information about registering and configuring CloudWatch, see [Configure Clo
 
 **Read More**<br />
 * [Give Global Read-Only Access](https://docs.wavefront.com/integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn)
-* [Give Limited Access](https://docs.wavefront.com/integrations_aws_overview.html#giving-wavefront-limited-access)
-* [Register Additional Amazon Web Services](https://docs.wavefront.com/integrationleles_aws_overview.html#register-additional-amazon-web-services)
+* [Give Limited Access](https://docs.wavefront.com/integrations_aws_overview.html#giving-limited-access)
+* [Register Additional Amazon Web Services](https://docs.wavefront.com/integrations_aws_overview.html#register-additional-amazon-web-services)

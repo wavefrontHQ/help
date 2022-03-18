@@ -6,4 +6,4 @@ You start by granting Tanzu Observability read-only access to your Amazon accoun
 
 **Read More**<br/>
 * [Giving Global Read-Only Access](integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn)<br/>
-* [Giving Limited Access](https://docs.wavefront.com/integrations_aws_metrics.html#giving-wavefront-limited-access)
+* [Giving Limited Access](https://docs.wavefront.com/integrations_aws_metrics.html#giving-limited-access)
