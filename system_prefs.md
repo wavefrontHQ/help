@@ -13,5 +13,5 @@ As an administrator with **Accounts** permission, on the **New Account Defaults*
 Individual users can override some of these settings by clicking the gear icon and selecting [their user account](https://docs.wavefront.com/users_account_managing.html).
 
 **Read More**<br/>
-[Authorization Model](https://docs.wavefront.com/authorization.html)
+[Authorization Model](https://docs.wavefront.com/authorization.html)<br/>
 [Using PromQL in Tanzu Observability](http://docs.wavefront.com/wavefront_prometheus.html)
