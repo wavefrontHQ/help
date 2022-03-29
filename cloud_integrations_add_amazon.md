@@ -2,6 +2,8 @@
 
 Setting up an Amazon Web Services cloud integration requires establishing a trust relationship between Amazon and Tanzu Observability by Wavefront. This involves creating a role in Amazon Web Services, providing it with read-only access, and getting the Role ARN.
 
+**Note**: Depending on the Tanzu Observability version that you use, there might be slight differences between the UI and the documented procedures for setting up and managing your AWS integration.
+
 Then, you can register the integration:
 
 1. In the **Name** text box, enter a meaningful name.
