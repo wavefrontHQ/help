@@ -1,5 +1,6 @@
 **Read More**<br/>
-[Working with Metrics](https://docs.wavefront.com/metric_types.html#metrics-browser)
+[Metric Types](https://docs.wavefront.com/metric_types.html)<br/>
+[Metrics and the Metric Browser](https://docs.wavefront.com/metrics_managing.html)
 
 **Watch Videos**<br/>
 [Browsing Your Data](https://bcove.video/3n13ulm)
