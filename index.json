@@ -101,8 +101,20 @@
       "file": "cloud_integrations_add_gcp.md"
     },
     {
-      "path": "^/extdata/(add|edit)/azure(.*)$",
+      "path": "^/extdata/edit/gcpbilling(.*)$",
+      "file": "cloud_integrations_edit_gcp_billing.md"
+    },
+    {
+      "path": "^/extdata/edit/gcp(.*)$",
+      "file": "cloud_integrations_edit_gcp_metrics.md"
+    },
+    {
+      "path": "^/extdata/add/azure(.*)$",
       "file": "cloud_integrations_add_azure.md"
+    },
+    {
+      "path": "^/extdata/edit/azure(.*)$",
+      "file": "cloud_integrations_edit_azure.md"
     },
     {
       "path": "^/extdata/(add|edit)/kubernetes(.*)$",
