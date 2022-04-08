@@ -97,7 +97,7 @@
       "file": "cloud_integrations_add_appdynamics.md"
     },
     {
-      "path": "^/extdata/(add|edit)/gcp(.*)$",
+      "path": "^/extdata/add/gcp(.*)$",
       "file": "cloud_integrations_add_gcp.md"
     },
     {
