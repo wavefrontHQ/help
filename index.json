@@ -61,6 +61,10 @@
       "file": "cloud_integrations_add_amazon.md"
     },
     {
+      "path": "^/integration/aws/overview(.*)$",
+      "file": "cloud_integrations_amazon_overview.md"    
+    },
+    {
       "path": "^/extdata/add/cloudwatch(.*)$",
       "file": "cloud_integrations_add_cloudwatch.md"
     },

@@ -23,7 +23,7 @@ Then, you can register the integration:
 
 4. Click **Register**.
 
-By default, all AWS services will be enabled. You can edit the configuration after the setup. For information about configuring CloudWatch, see [Configure CloudWatch Data Ingestion](https://docs.wavefront.com/integrations_aws_metrics.html#configuring-cloudwatch-data-ingestion).
+By default, all your AWS services will be enabled. You can edit the product configuration after the setup. For information about configuring CloudWatch, see [Configure CloudWatch Data Ingestion](https://docs.wavefront.com/integrations_aws_metrics.html#configuring-cloudwatch-data-ingestion).
 
 **Read More**<br />
 * [Give Global Read-Only Access](https://docs.wavefront.com/integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn)
