@@ -8,7 +8,7 @@ The overall process involves the following:
 * Giving that account viewer privileges 
 * Downloading a JSON private key
 
-To register a Google Cloud Platform (GCP) integration you need a JSON key. 
+To register a Google Cloud Platform (GCP) integration you need the JSON key. 
 
 1. Provide the necessary information for establishing a trust relationship and click **Next**.
    1. In the **Name** text box, enter a meaningful name.
