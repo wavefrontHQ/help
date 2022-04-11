@@ -4,9 +4,12 @@ Setting up an Amazon Web Services cloud integration requires establishing a trus
 
 Then, you can register the integration:
 
-1. In the **Name** text box, enter a meaningful name.
-2. In the **Role ARN** text box, enter the Role ARN from Amazon IAM.
-3. (Optional) To register CloudTrail, click **Show Advanced Options** and provide the necessary information.
+1. Select which AWS services you want to set up and click **Next**.
+    * **CloudWatch & Metrics+**
+    * **CloudWatch & Metrics+ & CloudTrail**
+2. In the **Name** text box, enter a meaningful name.
+3. In the **Role ARN** text box, enter the Role ARN from Amazon IAM.
+4. If in Step 1 you have selected **CloudWatch & Metrics+ & CloudTrail**, you must also provide the information needed to register **CloudTrail**.
 
    * **Bucket Name** - The S3 bucket that contains CloudTrail logs. 
    
@@ -16,11 +19,11 @@ Then, you can register the integration:
    
      The default prefix is `AWSLogs`. If you use a custom prefix, you must put it here without using a forward slash at the end of the prefix, i.e. a trailing slash.
    
-   * **Region** - AWS Region where the CloudTrail logs reside.
+   * **Region** - The AWS Region where the CloudTrail logs reside.
 
 4. Click **Register**.
 
-For information about registering and configuring CloudWatch, see [Configure CloudWatch Data Ingestion](https://docs.wavefront.com/integrations_aws_metrics.html#configuring-cloudwatch-data-ingestion).
+By default, all AWS services will be enabled. You can edit the configuration after the setup. For information about configuring CloudWatch, see [Configure CloudWatch Data Ingestion](https://docs.wavefront.com/integrations_aws_metrics.html#configuring-cloudwatch-data-ingestion).
 
 **Read More**<br />
 * [Give Global Read-Only Access](https://docs.wavefront.com/integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn)
