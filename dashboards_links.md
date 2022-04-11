@@ -1,7 +1,7 @@
 **Read More**<br/>
-[Create a Dashboard](https://docs.wavefront.com/ui_dashboards.html#create-a-dashboard)<br>
-[Add a Chart to a Dashboard](http://docs.wavefront.com/ui_dashboards.html#add-a-chart-to-a-dashboard)<br>
-[Dashboard Variables](https://docs.wavefront.com/dashboards_variables.html)
+[Create a Dashboard](https://docs.wavefront.com/ui_dashboards.html#create-a-dashboard)<br/>
+[Edit a Dashboard](https://docs.wavefront.com/ui_dashboards.html#make-changes-to-a-dashboard-in-edit-mode)<br/>
+[Dashboard Variables](https://docs.wavefront.com/dashboards_variables.html)<br/>
 
 **Watch Videos**<br/>
 [Browsing Your Data](https://bcove.video/3n13ulm)<br/>

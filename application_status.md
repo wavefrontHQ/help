@@ -17,5 +17,5 @@ Click the Link icon to get a link and share what you’re seeing right now (NO
 
 
 **Read More**<br/>
-[Wavefront Distributed Tracing Overview](https://docs.wavefront.com/tracing_basics.html)<br/>
-[Send Trace Data to Wavefront](https://docs.wavefront.com/tracing_instrumenting_frameworks.html)
+[Distributed Tracing Overview](https://docs.wavefront.com/tracing_basics.html)<br/>
+[Instrumenting Your App for Tracing](https://docs.wavefront.com/tracing_instrumenting_frameworks.html)
