@@ -3,4 +3,4 @@
 [Metrics and the Metric Browser](https://docs.wavefront.com/metrics_managing.html)
 
 **Watch Videos**<br/>
-[Browsing Your Data](https://bcove.video/3n13ulm)
+[Browse Your Data](hhttps://vmwaretv.vmware.com/media/t/1_ubikydhv/252649793)
