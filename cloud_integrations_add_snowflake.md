@@ -7,7 +7,8 @@ To register a new Snowflake instance and start monitoring the Snowflake usage, y
 * Generate a private and a public key. 
   Snowflake supports key-pair authentication for enhanced authentication security. For more information, see the [Snowflake documentation](https://docs.snowflake.com/en/user-guide/key-pair-auth.html#step-1-generate-the-private-key).
 * Create a custom role that will monitor the Snowflake usage, for example `WAVEFRONT`.
-* Grant the monitoring privileges to the new role and Grant the role with the usage privilege on the warehouse.
+* Grant the monitoring privileges to the new role.
+* Grant the role with the usage privilege on the warehouse.
 * Assign the role to a new or an already existing user who has the public key assigned.
 
 Follow the instructions in your Wavefront cluster UI if you don't know how to achieve this.
