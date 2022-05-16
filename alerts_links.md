@@ -6,5 +6,5 @@
 
 **Watch Videos**<br/>
 [How Alerts Work](https://youtu.be/VjmWExKiYYg)<br/>
-[Introduction to Alerts](https://bcove.video/3gh9rce)<br/>
-[Alert States and Lifecycle](https://bcove.video/3iYlXiP)<br/>
+[Introduction to Alerts](https://vmwaretv.vmware.com/media/t/1_7mg11riu/252649793)<br/>
+[Alert States and Lifecycle](https://vmwaretv.vmware.com/media/t/1_vi9pvcz4/252649793)<br/>
