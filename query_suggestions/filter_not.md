@@ -10,4 +10,4 @@ Query with NOT
 **Doc & Video:**
 
 [Use Filters to Look at the Right Data](https://docs.wavefront.com/query_language_performance.html#use-filters-to-look-at-the-right-data)<br>
-[Video: Query Language Basics](https://bcove.video/3FqMmPo)
+[Video: Query Language Basics](https://vmwaretv.vmware.com/media/t/1_fd1z47ps)
