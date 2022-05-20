@@ -9,7 +9,7 @@
 <p>To learn how to drill down and customize dashboards, watch this video:
 <p>&nbsp;</p>
 
-<iframe src="https://players.brightcove.net/1971571333001/default_default/index.html?videoId=6154498320001" width="600" height="340" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
+<iframe title="Customize Dashboards" src="https://players.brightcove.net/1971571333001/default_default/index.html?videoId=6154498320001" width="600" height="340" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
 &nbsp;
 </div>
 </div>
