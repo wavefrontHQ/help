@@ -9,7 +9,7 @@
 <p>When you get an alert notification, it includes a clickable link to the alert in Alert Viewer. Watch this video for an introduction:</p>
 <p>&nbsp;</p>
 
-<iframe title="Alert Viewer in Tanzu Observability by Wavefront" src="https://players.brightcove.net/1971571333001/default_default/index.html?videoId=6263535548001" width="600" height="340" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
+<iframe title="Alert Viewer in Tanzu Observability by Wavefront" src="https://vmwaretv.vmware.com/embed/secure/iframe/entryId/1_qdr0dtwr/uiConfId/49694343/pbc/252649793/st/0" width="600" height="340" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
 &nbsp;
 </div>
 </div>
