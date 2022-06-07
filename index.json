@@ -312,6 +312,10 @@
     {
       "path": "^/spanpolicy/deleted$",
       "file": "tracing_manage_sampling_policy.md"
-    }  
+    },
+    {
+     "path": "^/logs$",
+     "file": "log_browser.md"
+   }  
   ]
 }
