@@ -4,9 +4,9 @@
 [Dashboard Variables](https://docs.wavefront.com/dashboards_variables.html)
 
 **Watch Videos**<br/>
-[Browsing Your Data](https://bcove.video/3n13ulm)<br/>
-[Time Windows in Dashboards and Charts (v1 UI)](https://bcove.video/3kJ6PGT)<br/>
-[Create Dashboards](https://bcove.video/2WxBJoe)<br/>
-[Customize Dashboards](https://bcove.video/2Wux6eP)<br/>
-[Create and Modify Charts with Chart Builder](https://bcove.video/2Xx9IPz)<br/>
-[Sharing Content](https://bcove.video/3DZazeL)
+[Browse Your Data](https://vmwaretv.vmware.com/media/t/1_ubikydhv/252649793)<br/>
+[Time Windows in Dashboards and Charts (v1 UI)](https://vmwaretv.vmware.com/media/t/1_zew0muhn/252649793)<br/>
+[Create Dashboards](https://vmwaretv.vmware.com/media/t/1_gqelhfur/252649793)<br/>
+[Customize Dashboards](https://vmwaretv.vmware.com/media/t/1_gunwcmwm/252649793)<br/>
+[Create and Modify Charts with Chart Builder](https://vmwaretv.vmware.com/media/t/1_46pqfyms/252649793)<br/>
+[Sharing Content](https://vmwaretv.vmware.com/media/t/1_0esjgu8b/252649793)

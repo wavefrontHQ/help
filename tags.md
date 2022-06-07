@@ -11,4 +11,4 @@ respective browsers and during API invocations. In the Tanzu Observability by Wa
 
 **Watch Videos**<br/>
 [Tagging Your Data with Wavefront](https://www.youtube.com/watch?v=9tt4orZHQts&index=3&list=PLmp0id7yKiEdaWcjNtGikcyqpNcPNbn_K)<br/>
-[Organizing with Tags](https://bcove.video/3APZACf)
+[Organizing with Tags](https://vmwaretv.vmware.com/media/t/1_12xb5gcm/252649793)

@@ -13,9 +13,9 @@
 &nbsp;
 &nbsp;
 
-<p>Have questions? &nbsp; &nbsp; <a href="https://wavefront.com/join-public-slack"> <img src="images/slack.png"></img></a>
+<p>Have questions? &nbsp; &nbsp; <a href="https://wavefront.com/join-public-slack" aria-label="Slack us"> <img src="images/slack.png" alt="Slack us"></img></a>
 &nbsp; &nbsp;
-<a href="https://wavefront.com/meet-1-on-1"><img src="images/1on1.png"></img> </a> </p>
+<a href="https://wavefront.com/meet-1-on-1" aria-label="Schedule one on one"><img src="images/1on1.png" alt="Schedule one on one"></img> </a> </p>
 
 </div>
 </div>

@@ -282,6 +282,10 @@
       "file": "settings_service_accounts.md"
     },
     {
+      "path": "^/account/roles(.*)$",
+      "file": "roles.md"
+    },
+    {
       "path": "^/account/apitokens(.*)$",
       "file": "api_tokens.md"
     },

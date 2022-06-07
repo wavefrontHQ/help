@@ -6,4 +6,4 @@ When you create a user event you specify:
 * The event classification.
 
 **Watch Videos**<br/>
-[Creating an Event](https://bcove.video/3AURJU0)
+[Creating an Event](https://vmwaretv.vmware.com/media/t/1_i1ar4s8f/252649793)
