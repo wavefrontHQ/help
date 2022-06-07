@@ -1,11 +1,14 @@
-### Group Management
+### Managing Groups
+Groups allow you to manage the roles assigned to a number of accounts altogether.
 
-The Groups page allows you to:
-* Create or delete user groups.
-* Add users to groups and remove permissions from groups.
-* Add permissions to groups and remove permissions from groups.
+By default, all service accounts belong to the **Service Accounts** system group, and all user accounts belong to the **Everyone** system group.
 
-You can also select a permission on the left to see which groups have that permissions.
+From this page, users with the **Accounts** permission can:
+* Create, edit, and delete groups. You cannot delete a system group.
+* Add account to groups and remove accounts from groups. Accounts can be user accounts and service accounts. One account can belong to many groups. You cannot change the members of a system group. 
+* Assign roles to groups and revoke roles from groups. You cannot assign permissions to groups.
+
+You can also select one or more roles on the left to see which groups have these roles.
 
 **Read More**<br/>
 [Authorization Model](https://docs.wavefront.com/authorization.html)<br/>

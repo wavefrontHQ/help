@@ -1,12 +1,13 @@
-### Managing Accounts, Groups, and Roles
+### Managing User Accounts
+Users authenticate with a username and a password.
 
-From this page, you can:
-* Invite other users to your company's Tanzu Observability by Wavefront account.
-* Create a service account
-* Add users to groups and remove them from groups.
-* Create roles and assign the roles to groups or accounts
+From this page, users with the **Accounts** permission can:
+* Invite new users to your company's Wavefront environment.
+* Assign groups, roles, and permissions to users.
+* Revoke groups, roles, and permissions from users.
 
+You can also select one or more permissions, groups, and roles on the left to see which users match the selections.
 
 **Read More**<br/>
 [Authorization Model](https://docs.wavefront.com/authorization.html)<br/>
-[Managing Users and Roles](https://docs.wavefront.com/users_roles.html)
+[Manage User Accounts](https://docs.wavefront.com/user-accounts.html)
