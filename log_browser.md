@@ -1,8 +1,8 @@
 ## What is Log Browser
 
-Search and filter logs to find the root cause of the issues you run into.
+Search and filter logs to find the root cause of critical issues.
 
-Tanzu Observability retains logs for 7, 14, or 30 days, based on your settings. To keep log data for longer, [contact technical support](https://help.wavefront.com/hc/en-us).
+Tanzu Observability retains logs for 7, 15, or 30 days, based on your settings. To keep log data for longer, [contact technical support](https://help.wavefront.com/hc/en-us).
 
 **Step 1: Send Logs**
 
