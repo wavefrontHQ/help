@@ -17,7 +17,9 @@ Use the logs browser to:
 
 See [Log Browser](http://docs-sandbox-b.wavefront.com/logging_log_browser.html) for details.
 
-Don’t see logs? See [Logs FAQs](http://docs-sandbox-b.wavefront.com/logging_faq.html).
+**Don’t See Logs?** 
+
+See [Logs FAQs](http://docs-sandbox-b.wavefront.com/logging_faq.html).
 
 **Read More**
 
