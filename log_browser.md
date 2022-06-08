@@ -12,7 +12,7 @@ Configure your application or environment to [send logs to Tanzu Observability](
 
 Use the [Log Browser](http://docs-sandbox-b.wavefront.com/logging_log_browser.html) to: 
 * See logs for a selected time range.
-* Filter logs using tags, application, service, source, and text.
+* Filter logs using tags, words, application, service, and source.
 * Include or exclude logs from the search results, and much more.
 
 Don’t See Logs? See [Logs FAQs](http://docs-sandbox-b.wavefront.com/logging_faq.html).
