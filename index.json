@@ -286,6 +286,10 @@
       "file": "settings_service_accounts.md"
     },
     {
+      "path": "^/account/roles(.*)$",
+      "file": "roles.md"
+    },
+    {
       "path": "^/account/apitokens(.*)$",
       "file": "api_tokens.md"
     },
@@ -312,6 +316,10 @@
     {
       "path": "^/spanpolicy/deleted$",
       "file": "tracing_manage_sampling_policy.md"
-    }  
+    },
+    {
+     "path": "^/logs$",
+     "file": "log_browser.md"
+   }  
   ]
 }

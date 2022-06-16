@@ -8,4 +8,4 @@ You can send alert notifications to various types of targets: email addresses, p
 PagerDuty and VictorOps, or communication channels such as Slack. You can also invoke an [alert notification](https://docs.wavefront.com/webhooks_alert_notification.html) or configure arbitrary actions such as running an auto-remediation script.
 
 **Watch Videos**<br/>
-[Create a Multi-Threshold Alert](https://youtu.be/qWBP6PrkUrU)
+[Create Alerts with Tanzu Observability](https://vmwaretv.vmware.com/media/t/1_e655iog1)
