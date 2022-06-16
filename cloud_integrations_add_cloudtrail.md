@@ -3,7 +3,7 @@
 {% include cloud_integrations_add_single.md integration="CloudTrail" %}
 
 1. In the **Name** text box, enter a meaningful name.
-2. From the **Role ARN** menu, select an existing Role ARN.
+2. From the **Role ARN** drop-down menu, select an existing Role ARN.
 3. In the **Bucket Name** text box, enter the S3 bucket that contains CloudTrail logs. 
    
    In AWS, go to **CloudTrail** &gt;**Trails** to see the bucket name.
@@ -12,5 +12,5 @@
    
    The default prefix is `AWSLogs`. If you use a custom prefix, you must put it here without using a forward slash at the end of the prefix, i.e. a trailing slash.
    
-5. In the **Region** text box, enter the AWS Region where the CloudTrail logs reside.
+5. From the **CloudTrail Region** drop-down menu, select the AWS Region where the CloudTrail logs reside.
 6. Click **Register**. 

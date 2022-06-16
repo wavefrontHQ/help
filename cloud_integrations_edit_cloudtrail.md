@@ -11,5 +11,5 @@
    
      The default prefix is `AWSLogs`. If you use a custom prefix, you must put it here without using a forward slash at the end of the prefix, i.e. a trailing slash.
    
-   * In the **Region** text box, update the AWS Region where the CloudTrail logs reside.
+   * From the **CloudTrail Region** drop-down menu, select the AWS Region where the CloudTrail logs reside.
 5. Click **Update**. 
