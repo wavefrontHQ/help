@@ -1,5 +1,3 @@
-AGGREGATION FUNCTIONS: [[queryFunctionName type=header text=max()]]
-
 ```
 [[queryFunctionName type=header text=max(]]<tsExpression>
 [,metrics|sources|sourceTags|pointTags|
@@ -7,6 +5,10 @@ AGGREGATION FUNCTIONS: [[queryFunctionName type=header text=max()]]
 ```
 
 **Tips to improve performance**
-- Consider using [[queryFunctionName type=body text=align()]] to align the metrics to the same time. Then aggregate the aligned metrics with an aggregation function, e.g. ‘[[queryFunctionName type=header text=max]]([[queryFunctionName type=body text=align]](1m, <[[queryFunctionName text=tsExpression]]>))’
+Consider using [[queryFunctionName type=body text=align()]] to align the metrics to the same time. Then aggregate the aligned metrics with an aggregation function, e.g. ‘[[queryFunctionName type=header text=max]]([[queryFunctionName type=body text=align]](1m, <[[queryFunctionName text=tsExpression]]>))’
 
-- If you don’t need to interpolate the underlying data, use [[queryFunctionName type=header text=rawmax()]] instead of [[queryFunctionName type=header text=max()]]
+Use **“align()”** function and set time window to
+[[suggestionTip type=time_window name=max]]
+
+If you don’t need to interpolate the underlying data, use [[queryFunctionName type=header text=rawmax()]] instead of [[queryFunctionName type=header text=max()]]
+[[suggestionTip type=change_to_row name=max ]]

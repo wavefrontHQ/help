@@ -1,5 +1,3 @@
-AGGREGATION FUNCTIONS: [[queryFunctionName type=header text=count()]]
-
 ```
 [[queryFunctionName type=header text=count(]]<tsExpression>
 [,metrics|sources|sourceTags|pointTags|
@@ -7,6 +5,11 @@ AGGREGATION FUNCTIONS: [[queryFunctionName type=header text=count()]]
 ```
 
 **Tips to improve performance**
-- Consider using [[queryFunctionName type=body text=align()]] to align the metrics to the same time. Then aggregate the aligned metrics with an aggregation function, e.g. ‘[[queryFunctionName type=header text=count]]([[queryFunctionName type=body text=align]](1m, <[[queryFunctionName text=tsExpression]]>))’
+Consider using [[queryFunctionName type=body text=align()]] to align the metrics to the same time. Then aggregate the aligned metrics with an aggregation function, e.g. ‘[[queryFunctionName type=header text=count]]([[queryFunctionName type=body text=align]](1m, <[[queryFunctionName text=tsExpression]]>))’
 
-- If you don’t need to interpolate the underlying data, use [[queryFunctionName type=header text=rawcount()]] instead of [[queryFunctionName type=header text=count()]]
+Use **“align()”** function and set time window to
+[[suggestionTip type=time_window name=avg]]
+
+If you don’t need to interpolate the underlying data, 
+use [[queryFunctionName type=header text=rawcount()]] instead of [[queryFunctionName type=header text=count()]]
+[[suggestionTip type=change_to_row name=avg ]]
