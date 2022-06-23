@@ -2,7 +2,7 @@
 
 Search and filter logs to find the root cause of critical issues using the Log Browser
 
-Tanzu Observability retains logs for 7, 15, or 30 days, based on your settings. To keep log data for longer, [contact technical support](https://help.wavefront.com/hc/en-us).
+Tanzu Observability retains logs for 7, 15, or 30 days, based on your settings. 
 
 **Step 1: Send Logs**
 
