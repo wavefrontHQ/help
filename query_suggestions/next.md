@@ -4,5 +4,6 @@
 
 **Tips to improve performance**
 
+```
 Use <[[queryFunctionName type=body text=timeWindow]]> to focus on the data you really need.
-[[suggestionTip type=time_window name=next]]
+```
