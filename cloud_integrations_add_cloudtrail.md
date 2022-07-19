@@ -1,6 +1,5 @@
 ### Register a CloudTrail Integration
 
-{% include cloud_integrations_add_single.md integration="CloudTrail" %}
 
 1. In the **Name** text box, enter a meaningful name.
 2. From the **Role ARN** drop-down menu, select an existing Role ARN.
