@@ -2,7 +2,7 @@
 
 
 1. In the **Name** text box, enter a meaningful name.
-2. From the **Role ARN** drop-down menu, select an existing Role ARN.
+2. From the **"Role ARN" from Amazon IAM** drop-down menu, select an existing Role ARN.
 3. To configure which AWS metrics and tags to ingest into Tanzu Observability, you can add instances, volumes, metrics, and tags to allow lists. 
 
    * Add **instances** and **volumes** to allow lists by specifying EC2 tags defined on the instances and volumes. 

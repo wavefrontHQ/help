@@ -2,7 +2,7 @@
 
 
 1. In the **Name** text box, enter a meaningful name.
-2. From the **Role ARN** drop-down menu, select an existing Role ARN.
+2. From the  **"Role ARN" from Amazon IAM** drop-down menu, select an existing Role ARN.
 3. In the **Bucket Name** text box, enter the S3 bucket that contains CloudTrail logs. 
    
    In AWS, go to **CloudTrail** &gt;**Trails** to see the bucket name.

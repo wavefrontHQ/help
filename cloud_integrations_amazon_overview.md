@@ -5,11 +5,10 @@ Monitor and manage your Amazon Web Services integration instances. If you still 
 After you register you integration, on this **Overview** page, you can:
 
 * Monitor your existing AWS integration instances.
-* Add a new integration instance, by clicking the **Add an Integration Instance** and following the instructions.
+* Add a new integration instance, by clicking **Add an Integration Instance** and completing the setup.
 * Search through the list of the available integration instances.
 * Manage your existing AWS integration instances by clicking the ellipsis icon and selecting an option to:
   * Add an integration to an existing one. 
-  
     For example, if you have previously selected to configure CloudWatch and Metrics+, you can also add CloudTrail.
     
   * Edit an integration instance.

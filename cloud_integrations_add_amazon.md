@@ -8,7 +8,7 @@ Then, you can register the integration:
     * **CloudWatch & Metrics+**
     * **CloudWatch & Metrics+ & CloudTrail**
 2. In the **Name** text box, enter a meaningful name.
-3. In the **Role ARN** text box, enter the Role ARN from Amazon IAM.
+3. In the **"Role ARN" from Amazon IAM** text box, enter the Role ARN from Amazon IAM.
 4. If in Step 1 you have selected **CloudWatch & Metrics+ & CloudTrail**, you must also provide the information needed to register **CloudTrail**.
 
    * **Bucket Name** - The S3 bucket that contains CloudTrail logs. 
