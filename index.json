@@ -316,6 +316,10 @@
     {
      "path": "^/logs$",
      "file": "log_browser.md"
-   }  
+   },
+   {
+    "path": "^/usage/ingestionpolicies$",
+    "file": "ingestion_policies.md"
+  }  
   ]
 }
