@@ -266,7 +266,7 @@
       "file": "settings_query_dashboard.md"
     },
     {
-      "path": "^/account/usergroups(.*)$",
+      "path": "^/account/usergroups$",
       "file": "user_groups.md"
     },
     {
@@ -274,19 +274,19 @@
       "file": "settings_users.md"
     },
     {
-      "path": "^/account/users(.*)$",
+      "path": "^/account/users$",
       "file": "settings_users.md"
     },
     {
-      "path": "^/account/serviceaccounts(.*)$",
+      "path": "^/account/serviceaccounts$",
       "file": "settings_service_accounts.md"
     },
     {
-      "path": "^/account/roles(.*)$",
+      "path": "^/account/roles$",
       "file": "roles.md"
     },
     {
-      "path": "^/account/apitokens(.*)$",
+      "path": "^/account/apitokens$",
       "file": "api_tokens.md"
     },
     {
@@ -320,6 +320,10 @@
     {
       "path": "^/usage/ingestionpolicies$",
       "file": "ingestion_policies.md"
+    },
+    {
+      "path": "^/usage/ingestionpolicies/create$",
+      "file": "ingestion_policies_create.md"
     }  
   ]
 }
