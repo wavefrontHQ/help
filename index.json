@@ -198,10 +198,6 @@
       "file": "settings_profile.md"
     },
     {
-      "path": "^/settings/users$",
-      "file": "settings_users.md"
-    },
-    {
       "path": "^/settings/groups$",
       "file": "settings_permissions.md"
     },
@@ -268,10 +264,6 @@
     {
       "path": "^/account/usergroups$",
       "file": "user_groups.md"
-    },
-    {
-      "path": "^/users(.*)$",
-      "file": "settings_users.md"
     },
     {
       "path": "^/account/users$",

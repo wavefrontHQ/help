@@ -8,7 +8,7 @@ When you create an ingestion policy, you specify the following information:
     **Note**: After you create the policy, you cannot change the scope. You can change only the assigned objects from that scope. For example, for an ingestion policy that is scoped for groups, you can only add and remove groups for that policy, but you cannot change the scope to accounts or else.
 * Optionally, a **PPS Limit** to set a limit of the PPS usage by the ingestion policy.
 * If you set a PPS limit, you must configure the **Conditions**, **Recipients**, and **Alert Name and Tags** for the associated alert.
-* Policy name and description to **Create** the policy.
+* Policy name and an optional description to **Create** the policy.
 
 **Read More**<br/>
 [Examine Usage with Ingestion Policies](https://docs.wavefront.com/ingestion_policies.html)
