@@ -218,18 +218,6 @@
       "file": "sources.md"
     },
     {
-      "path": "^/webhooks$",
-      "file": "webhooks.md"
-    },
-    {
-      "path": "^/webhooks/add$",
-      "file": "webhooks_create.md"
-    },
-    {
-      "path": "^/webhooks/(.*)$",
-      "file": "webhooks_create.md"
-    },
-    {
       "path": "^/notificants/add$",
       "file": "webhooks_create.md"
     },
@@ -266,7 +254,7 @@
       "file": "settings_query_dashboard.md"
     },
     {
-      "path": "^/account/usergroups(.*)$",
+      "path": "^/account/usergroups$",
       "file": "user_groups.md"
     },
     {
@@ -278,15 +266,15 @@
       "file": "settings_users.md"
     },
     {
-      "path": "^/account/serviceaccounts(.*)$",
+      "path": "^/account/serviceaccounts$",
       "file": "settings_service_accounts.md"
     },
     {
-      "path": "^/account/roles(.*)$",
+      "path": "^/account/roles$",
       "file": "roles.md"
     },
     {
-      "path": "^/account/apitokens(.*)$",
+      "path": "^/account/apitokens$",
       "file": "api_tokens.md"
     },
     {
