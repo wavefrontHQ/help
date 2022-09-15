@@ -262,7 +262,7 @@
       "file": "settings_users.md"
     },
     {
-      "path": "^/account/users(.*)$",
+      "path": "^/account/users$",
       "file": "settings_users.md"
     },
     {
@@ -299,7 +299,7 @@
     },
     {
       "path": "^/spanpolicy/deleted$",
-      "file": "tracing_manage_sampling_policy.md"
+      "file": "tracing_deleted_sampling_policies.md"
     },
     {
      "path": "^/logs$",
