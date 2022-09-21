@@ -177,41 +177,12 @@
       "file": "webhooks.md"
     },
     {
-      "path": "^/intro/populate$",
-      "query": "redirect=proxies",
-      "file": "proxy_add.md"
-    },
-    {
-      "path": "^/intro/populate$",
-      "file": "proxy_first_add.md"
-    },
-    {
       "path": "^/proxies$",
       "file": "proxies.md"
     },
     {
       "path": "^/proxies/add$",
       "file": "proxy_first_add.md"
-    },
-    {
-      "path": "^/settings/profile$",
-      "file": "settings_profile.md"
-    },
-    {
-      "path": "^/settings/users$",
-      "file": "settings_users.md"
-    },
-    {
-      "path": "^/settings/groups$",
-      "file": "settings_permissions.md"
-    },
-    {
-      "path": "^/settings/customerPreferences$",
-      "file": "settings_preferences.md"
-    },
-    {
-      "path": "^/settings/query_dashboard$",
-      "file": "settings_query_dashboard.md"
     },
     {
       "path": "^/sources$",
@@ -254,12 +225,12 @@
       "file": "settings_query_dashboard.md"
     },
     {
-      "path": "^/account/usergroups$",
-      "file": "user_groups.md"
+      "path": "^/selfservicesaml$",
+      "file": "sso_self_service.md"
     },
     {
-      "path": "^/users(.*)$",
-      "file": "settings_users.md"
+      "path": "^/account/usergroups$",
+      "file": "user_groups.md"
     },
     {
       "path": "^/account/users$",
