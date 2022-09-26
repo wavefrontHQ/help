@@ -225,6 +225,10 @@
       "file": "settings_query_dashboard.md"
     },
     {
+      "path": "^/metricspolicy$",
+      "file": "metrics_policy.md"
+    },
+    {
       "path": "^/selfservicesaml$",
       "file": "sso_self_service.md"
     },
