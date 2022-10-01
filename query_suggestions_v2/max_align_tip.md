@@ -1,6 +1,6 @@
 
 **Option 1:** Consider using [[queryFunctionName type=body text=align()]] to align the metrics to the same time.
-
+<br/><br/>
 ```
-Use [[queryFunctionName type=bold text=align()]] function and set time window.
+Insert [[queryFunctionName type=bold text=align()]] and set time window.
 ```
