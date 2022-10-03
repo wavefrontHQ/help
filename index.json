@@ -312,7 +312,7 @@
     {
       "path": "^/usage/ingestionpolicy/create$",
       "file": "ingestion_policies_create.md"
-    }
+    },
     {
       "path": "^/usage/ingestionpolicy/update/(.*)$",
       "file": "ingestion_policies_edit.md"
