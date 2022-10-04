@@ -7,7 +7,6 @@ Cloud integrations allow you to ingest metrics directly from cloud services. Tan
 * Amazon (CloudWatch, CloudTrail and AWS Metrics+)
 * Google Cloud Provider
 * Microsoft Azure
-* Tesla
 * New Relic
 * AppDynamics
 * vRealize Operations Cloud

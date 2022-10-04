@@ -85,10 +85,6 @@
       "file": "cloud_integrations_edit_aws_metrics.md"
     },
     {
-      "path": "^/extdata/(add|edit)/tesla(.*)$",
-      "file": "cloud_integrations_add_tesla.md"
-    },
-    {
       "path": "^/extdata/(add|edit)/newrelic(.*)$",
       "file": "cloud_integrations_add_newrelic.md"
     },
