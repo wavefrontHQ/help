@@ -14,7 +14,7 @@ To locate an ingestion policy, in which you're interested, you can:
 * Search and, optionally, save and share your search by using the Search field above the ingestion policies table.
 * Filter the ingestion policies by the accounts who performed the last updates or by using your saved searches on the left.
 
-To drill down and examine the PPS usage by a particular ingestion policy over time, click the name of the ingestion policy and examine the ingestion policy dashboard.
+To drill down and examine the PPS usage by a particular ingestion policy over time, click the name of the ingestion policy and view the ingestion policy dashboard. The dashboard contains data from the time the policy was created.
 
 **Read More**<br/>
 [Examine Usage with Ingestion Policies](https://docs.wavefront.com/ingestion_policies.html)
