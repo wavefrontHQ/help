@@ -1,4 +1,4 @@
-Standard aggregation functions like [[queryFunctionName type=header text=max()]] interpolate data in each time series. The aggregation function is applied to the interpolated series.  Aggregating thousands of time series affects query performance.
+Standard aggregation functions like [[queryFunctionName type=header text=max()]] interpolate data in each time series. The aggregation function is applied to the interpolated series. Aggregating thousands of time series affects query performance.
 
 **Doc & Video:**
 

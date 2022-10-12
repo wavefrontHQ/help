@@ -5,4 +5,3 @@ sources|sourceTags|pointTags|
 ```
 
 **Tips to improve performance:**
-
