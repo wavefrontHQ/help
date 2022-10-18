@@ -1,6 +1,6 @@
 ### Add a Kubernetes Cluster
 
-Tanzu Observability provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install the Wavefront Operator. The setup process varies based on the distribution type that you choose to monitor. 
+Tanzu Observability provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure the Wavefront Operator. The setup process varies based on the distribution type that you choose to monitor. 
 
 1. In the **Collector Configuration** section, configure the deployment options for the cluster.
     1. In the **Cluster Name** text box provide the name of your Kubernetes cluster.
@@ -11,9 +11,9 @@ Tanzu Observability provides a comprehensive solution for monitoring Kubernetes.
           **Note**: Logs (Beta) is not supported when you use OpenShift.
 
 1. For a **Kubernetes Cluster**, enter the configuration options.
-   1. Choose whether you want to see the logs for your cluster. By default, the **Logs (Beta)** option is set to on.
-   1. Choose whether you want to enable or disable **App Auto-Discovery & Metrics**. By default, the **App Auto-Discovery & Metrics** option is set to on.
-   1. Choose whether you want to use an **HTTP Proxy**. If you enable HTTP proxy, to allow outbound traffic, you must also add these URLs to your proxy rules:
+   1. Choose whether you want to see the logs for your cluster. By default, the **Logs (Beta)** option is enabled.
+   1. Choose whether you want to enable or disable **App Auto-Discovery & Metrics**. By default, the **App Auto-Discovery & Metrics** option is enabled.
+   1. Choose whether you want to use an **HTTP Proxy**. If you enable HTTP proxy, to allow outbound traffic, you must add these URLs to your proxy rules:
       * Logs (Beta): `https://data.mngmt.cloud.vmware.com`
       * Metrics: `https://<your_cluster>.wavefront.com/`
       In addition, you must also configure the HTTP proxy settings, such as: 
@@ -27,7 +27,7 @@ Tanzu Observability provides a comprehensive solution for monitoring Kubernetes.
 1. For a **Kubernetes Cluster**, from the **Script** section, get the deployment script. 
     1. Review the script and click the **Copy to clipboard** button.
     1. Run the script in your Kubernetes cluster.
-1. After successful installation, navigate back to the Tanzu Observability GUI, and click **Finish**.
+1. After successful installation, return back to the Tanzu Observability GUI, and click **Finish**.
 
 **Read More**<br/>
 [Kubernetes Troubleshooting](https://docs.wavefront.com/kubernetes_troubleshooting.html)
