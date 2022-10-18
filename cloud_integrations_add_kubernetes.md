@@ -7,7 +7,7 @@ Tanzu Observability provides a comprehensive solution for monitoring Kubernetes.
     1. Choose the distribution type. You have two choices:
         * Kubernetes Cluster - If you choose to install the Wavefront Operator in a Kubernetes cluster (for example, in a VMware vSphere with Tanzu or Amazon EKS cluster), proceed with the next steps. 
         * OpenShift - If you choose to use OpenShift to install the Wavefront Operator, follow the instructions displayed on the Tanzu Observability GUI and click **Finish**.
-          The steps you perform are mainly done in the OpenShift Container Platform web console.
+          The steps you perform are mainly done in the OpenShift Container Platform web console.<br>
           **Note**: Logs (Beta) is not supported when you use OpenShift.
 
 1. For a **Kubernetes Cluster**, enter the configuration options.
