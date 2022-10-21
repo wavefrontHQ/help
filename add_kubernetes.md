@@ -2,6 +2,7 @@
 
 Tanzu Observability provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure the Wavefront Collector and a Wavefront Proxy. The setup process varies based on the distribution type that you choose to monitor. 
 
+
 ### Set Up in a Kubernetes Cluster
 
 1. In the **Collector Configuration** section, configure the deployment options for the cluster.
@@ -30,6 +31,8 @@ Tanzu Observability provides a comprehensive solution for monitoring Kubernetes.
 1. After successful installation, return back to the Tanzu Observability GUI, and click **Finish**.
 
 ### Set Up in an OpenShift Cluster
+
+**Note**: Logs (Beta) is not supported when you use OpenShift.
 
 1. In the **Collector Configuration** section, configure the deployment options for the cluster.
     1. In the **Cluster Name** text box provide the name of your Kubernetes cluster.
@@ -126,7 +129,7 @@ The Wavefront Collector supports monitoring of OpenShift clusters:
     
 * To monitor OpenShift Origin 3.9, follow the steps in [Installation and Configuration on OpenShift](https://github.com/wavefronthq/wavefront-kubernetes-collector/tree/main/docs/openshift.md).
     
-* To monitor OpenShift Enterprise 3.11, follow the steps in [Installation and Configuration of Wavefront Collector Operator on OpenShift](https://github.com/wavefronthq/wavefront-kubernetes-collector/tree/main/docs/openshift-operator.md)
+* To monitor OpenShift Enterprise 3.11, follow the steps in [Installation and Configuration of Wavefront Collector Operator on OpenShift](https://github.com/wavefronthq/wavefront-kubernetes-collector/tree/main/docs/openshift-operator.md).
 
 
 ### Learn More
