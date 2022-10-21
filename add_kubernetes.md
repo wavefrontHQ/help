@@ -11,8 +11,8 @@ Tanzu Observability provides a comprehensive solution for monitoring Kubernetes.
 1. Choose whether you want to enable or disable **App Auto-Discovery & Metrics**. By default, the **App Auto-Discovery & Metrics** option is enabled.
 1. Choose whether you want to use an **HTTP Proxy**. 
    If you enable HTTP proxy, to allow outbound traffic, you must add these URLs to your proxy rules:
-    * Logs (Beta): `https://data.mngmt.cloud.vmware.com`
-    * Metrics: `https://<your_cluster>.wavefront.com/`
+    * **Logs (Beta)**: https://data.mngmt.cloud.vmware.com
+    * **Metrics**: https://<your_cluster>.wavefront.com/
       
    In addition, you must also configure the HTTP proxy settings, such as: 
   
@@ -39,28 +39,29 @@ Tanzu Observability provides a comprehensive solution for monitoring Kubernetes.
 
 #### Install and Configure the Wavefront Helm Chart on OpenShift Enterprise 4.x
     
-  This section contains the installation and configuration steps for full-stack monitoring of OpenShift clusters using the Wavefront Helm Chart.
+This section contains the installation and configuration steps for full-stack monitoring of OpenShift clusters using the Wavefront Helm Chart.
     
 **Install the Wavefront Helm Chart**
     
-    1. Log in to the OpenShift Container Platform web console as an administrator.
+1. Log in to the OpenShift Container Platform web console as an administrator.
     
-    2. Create a project named `wavefront`.
+2. Create a project named <code>wavefront</code>.
     
-    3. In the left pane, navigate to **Helm** and select **Install a Helm Chart from the developer catalog**.
+3. In the left pane, navigate to **Helm** and select **Install a Helm Chart from the developer catalog**.
     
-    4. Search for **Wavefront** and click **Install Helm Chart**.
+4. Search for **Wavefront** and click **Install Helm Chart**.
     
-    5. Install from the **form view** tab. Replace the following parameters with your values:
-      * clusterName: &lt;OPENSHIFT_CLUSTER_NAME&gt;
-      * token: [&lt;YOUR_WF_API_TOKEN&gt;](https://docs.wavefront.com/users_account_managing.html#generate-an-api-token)
-      * url: https://&lt;YOUR_WF_INSTANCE&gt;.wavefront.com
+5. Install from the **form view** tab. Replace the following parameters with your values:
+
+    * clusterName: &lt;OPENSHIFT_CLUSTER_NAME&gt;
+    * token: [&lt;YOUR_WF_API_TOKEN&gt;](https://docs.wavefront.com/users_account_managing.html#generate-an-api-token)
+    * url: https://&lt;YOUR_WF_INSTANCE&gt;.wavefront.com
     
-    6. Click **Install**.
+6. Click **Install**.
     
-    Because default parameters are used, the Collector runs as a Daemonset and uses `wavefront-proxy` as a sink. The Collector auto discovers the pods and services that expose metrics and dynamically starts collecting metrics for the targets. It collects metrics from the Kubernetes API server, if configured.
+   Because default parameters are used, the Collector runs as a Daemonset and uses <code>wavefront-proxy</code> as a sink. The Collector auto discovers the pods and services that expose metrics and dynamically starts collecting metrics for the targets. It collects metrics from the Kubernetes API server, if configured.
     
-    Now, go back to your Wavefront cluster and search for the `<OPENSHIFT_CLUSTER_NAME>` in the Kubernetes integration dashboards.
+   Now, go back to your Wavefront cluster and search for the <code><OPENSHIFT_CLUSTER_NAME></code in the Kubernetes integration dashboards.
     
 **Configure the Collector to Use an Existing Proxy**    
 
@@ -68,17 +69,18 @@ To configure Wavefront Collector to use a Wavefront proxy that's already running
     
 1. In the OpenShift Container Platform web console, on the **yaml view** tab, in the **proxy** section, set **enabled** to false:
 
-        ```yaml
-        proxy:
-          enabled: false
-        ```
+    ```yaml
+          proxy:
+            enabled: false
+    ```
 
     
 2. On the **yaml view** tab, add **proxyAddress** under **collector**.
-       ```yaml
-        collector:
-          proxyAddress: <YOUR_WF_PROXY_ADDRESS>:2878
-        ```
+     
+     ```yaml
+          collector:
+            proxyAddress: <YOUR_WF_PROXY_ADDRESS>:2878
+      ```
   
     
 3. Click **Install**.
@@ -97,7 +99,7 @@ To configure Wavefront Collector to use a Wavefront proxy that's already running
 2. Under **Actions**, click **Upgrade**.
   
 3. On the **yaml view** tab, under **proxy**, add **preprocessor**.
-        ```yaml
+  ```yaml
         proxy:
           preprocessor:
             rules.yaml: |
@@ -114,20 +116,20 @@ To configure Wavefront Collector to use a Wavefront proxy that's already running
                   scope   : pointLine
                   search  : "[&\\$!@]"
                   replace : "_"
-        ```
+  ```
 4. Click **Upgrade**.
     
     
 #### Install and Configure Wavefront Operator on OpenShift Enterprise 3.x
     
-    The Wavefront Collector supports monitoring of OpenShift clusters:
+The Wavefront Collector supports monitoring of OpenShift clusters:
     
 * To monitor OpenShift Origin 3.9, follow the steps in [Installation and Configuration on OpenShift](https://github.com/wavefronthq/wavefront-kubernetes-collector/tree/main/docs/openshift.md).
     
 * To monitor OpenShift Enterprise 3.11, follow the steps in [Installation and Configuration of Wavefront Collector Operator on OpenShift](https://github.com/wavefronthq/wavefront-kubernetes-collector/tree/main/docs/openshift-operator.md)
 
 
-## Learn More
+### Learn More
 
 * [Kubernetes Overview](https://docs.wavefront.com/wavefront_kubernetes.html)
 * [Kubernetes Troubleshooting](https://docs.wavefront.com/kubernetes_troubleshooting.html)
