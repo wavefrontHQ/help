@@ -13,7 +13,7 @@
    * Add **metrics** to allow lists by specifying a regular expression that is a complete match of the entire metric name. 
 
      To add **elb** and **rds** metrics to an allow list, use the regular expression **^aws\.(elb|rds).*$**. If you do not specify tags or regular expressions, all metrics are retrieved. 
-  
+   * Add the **names of the buckets** that contain the objects you want to request metrics for to allow lists. Use a regular expression.
    * Add AWS **point tags** to allow lists by specifying a regular expression.
 4. (Optional) Change the **Service Refresh Rate**. The default is `5` minutes.
 5. Select the list of AWS products for which you want to collect metrics by using the CloudWatch integration. 
