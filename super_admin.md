@@ -1,4 +1,4 @@
-### Super Admin User
+### Who Is the Super Admin User?
 
 When a company signs up with Tanzu Observability by Wavefront, we create a Super Admin user who has full administrative privileges.
 * All permissions

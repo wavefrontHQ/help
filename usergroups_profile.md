@@ -1,6 +1,6 @@
 ### See Which Groups You Belong To
 
-On this page, you can see to which groups you belong, and which roles and permissions you have. 
+On this page, you can see the groups to which you belong, as well as the roles and permissions that you have.
 
 - Permissions with the check-circle icon are assigned explicitly.
 - Permissions with the check icon are inherited from a group or role.
