@@ -15,7 +15,7 @@ Use the [Log Browser](https://docs.wavefront.com/logging_log_browser.html) to:
 * Filter the logs by using tags, words, application, service, and source.
 * Include or exclude some of the logs from the search results, and much more.
 
-Don’t see logs? See [Logs FAQs](https://docs.wavefront.com/logging_faq.html).
+Don’t see logs? See [Logs Troubleshooting](https://docs.wavefront.com/logging_faq.html).
 
 **Read More**
 
