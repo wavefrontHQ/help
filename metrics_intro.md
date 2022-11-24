@@ -10,4 +10,6 @@ Once metrics are ingested into Tanzu Observability, administrators can [query](h
 
 All users can then receive [alerts](https://docs.wavefront.com/alerts.html), drill down into the prepared dashboards and charts, and start finding the root cause for problems.
 
-Metrics are automatically hidden after 4 weeks of inactivity, but you can also manually hide metrics. Hidden metrics are removed from autocomplete, but they can still be used in a query when data values are present.
+**Note**: By default, after 4 weeks of inactivity, metrics become obsolete. To change the obsolescence period for your metrics, contact [Technical Support](https://docs.wavefront.com/wavefront_support_feedback.html).
+
+Obsolete metrics are automatically hidden, but you can also manually hide metrics. Hidden metrics are removed from autocomplete, but they can still be used in a query when data values are present.
