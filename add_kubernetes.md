@@ -3,6 +3,12 @@
 Tanzu Observability provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure the Wavefront Collector and a Wavefront Proxy. The setup process varies based on the distribution type that you choose to monitor. 
 
 
+1. Log in to your Wavefront cluster: https://<your-wavefront-cluster>.wavefront.com.
+2. Click **Integrations** on the toolbar.
+3. In the **Featured** section, click the **Kubernetes** tile.
+4. Click **Add Integration**.
+
+
 ### Set Up in a Kubernetes Cluster
 
 1. In the **Collector Configuration** section, configure the deployment options for the cluster.
