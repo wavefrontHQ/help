@@ -7,7 +7,7 @@ in the **source** field of a [Wavefront data format](https://docs.wavefront.com/
 * Sources that didn't emit metrics during the last 2 days are in **Metrics Stopped** status.
 * Sources that didn't emit metrics for a certain period (obsolescence period) are in **Obsolete** status. In the Metrics browser and Query Editor, obsolete sources are no longer shown in the autocomplete dropdown.
 
-  **Note**: By default, the obsolescence period for metrics and sources is 4 weeks. To change this configuration, contact [Technical Support](https://docs.wavefront.com/wavefront_support_feedback.html).
+  **Note**: By default, the obsolescence period for metrics and sources is 4 weeks. You can see your current configuration from the Advanced settings of any [chart](https://docs.wavefront.com/ui_charts.html#include-metrics-that-stopped-reporting) or [dashboard](https://docs.wavefront.com/ui_dashboards.html#set-dashboard-display-preferences-and-settings). To change this configuration, contact [Technical Support](https://docs.wavefront.com/wavefront_support_feedback.html).
 
 On this page, you can:
 * Hide sources, including obsolete sources. In the Metrics Browser, the hidden sources are no longer shown in the autocomplete dropdown. In Query Editor, the hidden sources can still be used when data values are present.
