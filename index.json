@@ -273,8 +273,20 @@
       "file": "tracing_deleted_sampling_policies.md"
     },
     {
-     "path": "^/logs$",
-     "file": "log_browser.md"
-   }  
+      "path": "^/logs$",
+      "file": "log_browser.md"
+    },
+    {
+      "path": "^/usage/ingestionpolicies$",
+      "file": "ingestion_policies.md"
+    },
+    {
+      "path": "^/usage/ingestionpolicy/create$",
+      "file": "ingestion_policies_create.md"
+    },
+    {
+      "path": "^/usage/ingestionpolicy/update/(.*)$",
+      "file": "ingestion_policies_edit.md"
+    }  
   ]
 }
