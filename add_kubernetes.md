@@ -1,6 +1,8 @@
 ## Add a Kubernetes Integration
 
-Tanzu Observability provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure the Wavefront Collector and a Wavefront Proxy. The setup process varies based on the distribution type that you choose to monitor. 
+Tanzu Observability provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure the Wavefront Collector and a Wavefront Proxy. With the 2022-48.x we introduce a new Kubernetes Operator which simplifies the deployment. 
+
+The setup process varies based on the distribution type that you choose to monitor. 
 
 
 1. Log in to your Wavefront cluster: https://your-wavefront-cluster.wavefront.com.
@@ -9,7 +11,7 @@ Tanzu Observability provides a comprehensive solution for monitoring Kubernetes.
 4. Click **Add Integration**.
 
 
-### Set Up in a Kubernetes Cluster
+### Kubernetes Quick Install Using the Kubernetes Operator
 
 1. In the **Collector Configuration** section, configure the deployment options for the cluster.
     1. In the **Cluster Name** text box provide the name of your Kubernetes cluster.
@@ -36,7 +38,7 @@ Tanzu Observability provides a comprehensive solution for monitoring Kubernetes.
     1. Run the script in your Kubernetes cluster.
 1. After successful installation, return back to the Tanzu Observability GUI, and click **Finish**.
 
-### Set Up in an OpenShift Cluster
+### Kubernetes Install in an OpenShift Cluster
 
 
 * Complete the steps below and click **Finish**.
