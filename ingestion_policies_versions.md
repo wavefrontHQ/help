@@ -1,5 +1,5 @@
 ### View History and Revert an Ingestion Policy Version
-Every time a user with the **Ingestion Policies** permission edits an ingestion policy, they create a new version of that policy.
+Every time you (or another user with the **Ingestion Policies** permission) edit an ingestion policy, you create a new version of that policy.
 
 On this page you can:
 
