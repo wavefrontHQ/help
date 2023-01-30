@@ -11,7 +11,7 @@ This page shows a paginated table of all existing ingestion policies. For each p
 
 On this page you can sort, search for and filter ingestion policies. You can also drill down and examine the PPS usage by a particular ingestion policy over time, by clicking the name of the ingestion policy and viewing the ingestion policy dashboard. 
 If you have the **Ingestion Policies** permission, you also can:
-* See the policy versions by clicking the ellipsis icon next to the policy and selecting **Versions**. You can also revert the policy to an earlier version.
+* See the policy history by clicking the ellipsis icon next to the policy and selecting **Versions**. You can also revert the policy to an earlier version.
 * Edit a policy by clicking the ellipsis icon next to the policy and selecting **Edit**.
 * Delete a policy by clicking the ellipsis icon next to the policy and selecting **Delete**.
 

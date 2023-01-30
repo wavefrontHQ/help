@@ -289,7 +289,7 @@
       "file": "ingestion_policies_edit.md"
     },  
     {
-      "path": "^/usage/ingestionpolicy/history/(.*)$",
+      "path": "^/usage/ingestionpolicies/history/(.*)$",
       "file": "ingestion_policies_versions.md"
     }  
   ]
