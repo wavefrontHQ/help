@@ -1,7 +1,7 @@
 ### View History and Revert an Ingestion Policy Version
 Every time a user with the **Ingestion Policies** permission edits an ingestion policy, they create a new version of that policy.
 
-As a user with the **Ingestion Policies** permission, on this pge you can:
+On this page you can:
 
 * See the details of each version of the policy - the user who updated the policy and created the version, when was the policy updated, and what was updated in the policy.
 * Open the current policy dashboard by clicking the current version number.
