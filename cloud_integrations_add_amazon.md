@@ -1,6 +1,6 @@
 ### Add an Amazon Cloud Integration
 
-Setting up an Amazon Web Services cloud integration requires establishing a trust relationship between Amazon and Tanzu Observability by Wavefront. This involves creating a role in Amazon Web Services, providing it with read-only access, and getting the Role ARN.
+Setting up an Amazon Web Services cloud integration requires establishing a trust relationship between Amazon and VMware Aria Operations for Applications. This involves creating a role in Amazon Web Services, providing it with read-only access, and getting the Role ARN.
 
 Then, you can register the integration:
 

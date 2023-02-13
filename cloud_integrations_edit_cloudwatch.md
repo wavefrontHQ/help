@@ -3,7 +3,7 @@
 {% include cloud_integrations_add_single.md integration="CloudWatch" %}
 
 1. Edit the **Name** of the integration.
-2. Edit the AWS metrics and tags to ingest into Tanzu Observability by Wavefront by updating the allow lists. 
+2. Edit the AWS metrics and tags to ingest into Operations for Applications by updating the allow lists. 
 
    * Add **instances** and **volumes** to allow lists by specifying EC2 tags defined on the instances and volumes. 
   
