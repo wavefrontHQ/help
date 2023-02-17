@@ -2,7 +2,7 @@
 Users authenticate with a username and a password.
 
 From this page, users with the **Accounts** permission can:
-* Invite new users to your company's Wavefront environment.
+* Invite new users to your company's VMware Aria Operations for Applications environment.
 * Assign groups, roles, and permissions to users.
 * Revoke groups, roles, and permissions from users.
 
