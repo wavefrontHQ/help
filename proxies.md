@@ -1,24 +1,26 @@
-### Managing Proxies
+### Proxies Browser
 
 Proxies allow you to send your data to Tanzu Observability by Wavefront in a secure, fast, and reliable manner. The proxy works with the Wavefront server to ensure end-to-end flow control.
 
-From this page, users with the **Proxies** permission can view, create, and manage proxies.
+This page shows a paginated table that lists all existing proxies with their details:
+* The **Proxy Name** column shows the name, hostname, and ID of each proxy.
+* From the columns icon in the bottom-left corner of the table, you can customize the other columns to show the last check-in date and time, status, ingestion rate for particular data type, version, backlog (queue) size, and the user who created each proxy.
+* From the drop-down menu in top-right corner, you can select **Deleted** to show the ephemeral proxies that were deleted during the last 24 hours and the non-ephemeral proxies that were deleted during the last 1 month.
+* You can sort, search, and filter the proxies list.
 
-* The **Hostname** column shows where the proxy is running.
-* The **Status** column shows if the proxy is *active*, *orphaned*, or *stopped by the server*. When restarting a proxy, the proxy service restarts and creates a new service ID. The proxy with the old service ID becomes *orphaned* and is automatically deleted after 24 hours.
-* The **Last Check-in** column shows when the proxy ingested data into the Wavefront service for the last time.
-* The **Space Available** column shows the time left until the proxy buffer will become full if data keep arriving at the current rate.
-* The **Clock Drift** column shows the difference between the clocks on the Wavefront service and the proxy. Could affect the metric timestamps because metrics are on proxy time.
-* The **Queued Items** shows the amount of points per second (PPS) that the proxy has queued. When the proxy detects network
-connectivity issues, it queues metrics in memory and to disk. Once connectivity is restored, the proxy
-replays queued metrics but prioritizes real-time traffic.
+The status of a proxy can be:
+* **Active**: The proxy is running and sending data.
+* **Orphaned**: The proxy stopped sending data. Either the sources stopped emitting data or the proxy service has been stopped.
+    **Note**: You can start the stopped proxy service again only on a non-ephemeral proxy. Restarting the proxy service on an ephemeral proxy, installs a new proxy with a new ID and the old proxy becomes orphaned.
+* **Stopped by Server**: The Tanzu Observability subscription has ended for the customer.
+* **Token Expired**: The token has expired. You must install a new proxy.
 
-To create a proxy, click **Add new proxy**.
+From this page, you can:
+* Install a proxy by clicking **Add new proxy**.
+* Delete one or more proxies by selecting the check boxes for the proxies and clicking the **Delete** icon.
+    **Note**: You cannot delete a proxy in **Active** status.
+* Open a proxy dashboard by clicking the proxy name to examine its health and usage information. This dashboard contains a number of charts based on the internal metrics emitted by the proxy.
+* Go to the **Wavefront Service and Proxy Data** dashboard by clicking **Usage and Proxies Data Dashboard** to examine the overall health and usage information for all proxies in the environment. This dashboard is predefined in the Wavefront Usage integration. The **Proxies: Overview** and the **Proxy Troubleshooting** sections of this dashboard contain a number of charts based on the internal metrics emitted by the proxies.
 
-To rename a proxy, click the vertical ellipsis for the proxy and select **Edit**.
-
-To view the proxy usage chart, click the name of the proxy. You can edit the chart and save it to a new or existing dashboard.
-
-To delete an *orphaned* or *stopped by server* proxy, select the check box for the proxy and click the **Delete** icon.
 
 {% include proxies_links.md %}
