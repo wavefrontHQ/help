@@ -1,6 +1,6 @@
 ### What Is a Derived Metric?
 
-You can create a derived metric by setting up a query that includes an `aliasMetric` or `aliasSource`, and saving that query from the `Derived Metrics` page.
+You can create a derived metric by setting up a query that includes the `aliasMetric` or `aliasSource` function, and saving that query.
 
 Derived metrics are useful for certain use cases:
 * Simplify the user experience by condensing the result of your query down to a single metric. All users can use that metric in other queries.
