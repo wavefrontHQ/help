@@ -4,4 +4,4 @@
 [Advanced events() Queries](https://docs.wavefront.com/events_queries_advanced.html)<br/>
 
 **Watch Videos**<br/>
-[Introduction to Events](https://bcove.video/3iZdNql)
+[Introduction to Events](https://vmwaretv.vmware.com/media/t/1_sq8p1jhk/252649793)

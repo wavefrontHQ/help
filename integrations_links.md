@@ -2,5 +2,5 @@
 [Integrations](https://docs.wavefront.com/integrations.html)
 
 **Watch Videos**<br/>
-[Introduction to Integrations](https://bcove.video/2JTvMgW)<br/>
-[Setup the Windows Host Integration](https://bcove.video/3rXZ1RY)
+[Introduction to Integrations](https://vmwaretv.vmware.com/media/t/1_j454pr6u/252649793)<br/>
+[Set Up the Windows Host Integration](https://vmwaretv.vmware.com/media/t/1_0bbze8os/252649793)

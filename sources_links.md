@@ -1,5 +1,5 @@
 **Read More**<br/>
-[Managing Sources](https://docs.wavefront.com/sources_managing.html)
+[Sources](https://docs.wavefront.com/sources_managing.html)
 
 **Watch Videos**<br/>
-[Browsing Your Data](https://bcove.video/3n13ulm)
+[Browse Your Data](https://vmwaretv.vmware.com/media/t/1_ubikydhv/252649793)

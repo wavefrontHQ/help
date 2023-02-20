@@ -4,4 +4,4 @@
 [Prevent Alerts from Firing](https://docs.wavefront.com/maintenance_windows_managing.html)
 
 **Watch Videos**<br/>
-[Using Maintenance Windows](https://bcove.video/3m7AM4x)
+[Using Maintenance Windows](https://vmwaretv.vmware.com/media/t/1_u77s1kyo/252649793)
