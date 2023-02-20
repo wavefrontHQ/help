@@ -1,6 +1,6 @@
 ### Manage Your API Tokens
 
-On the **API Access** tab, you can:
+On this page, you can:
 
 * Generate a new API token by clicking the **Generate** button.
   You can have up to 20 API tokens at a time.
@@ -8,7 +8,7 @@ On the **API Access** tab, you can:
 
 API tokens are required for accessing the REST API. 
  
-To access the REST API documentation, click the gear icon on the tollbar and select **API Documentation**.
+To access the REST API documentation, click the gear icon on the toolbar and select **API Documentation**.
 
 **Read More**<br/>
 [Customize Your Account](https://docs.wavefront.com/users_account_managing.html)<br/>
