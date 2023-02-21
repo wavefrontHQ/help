@@ -173,7 +173,7 @@
       "file": "webhooks.md"
     },
     {
-      "path": "^/proxies$",
+      "path": "^/proxies_$",
       "file": "proxies.md"
     },
     {
