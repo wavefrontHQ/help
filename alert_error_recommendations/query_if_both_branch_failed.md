@@ -1,0 +1,1 @@
+Both branches of \"if()\" failed.\nThe true branch failed with \"%s\". For details, see [if Function](https://docs.wavefront.com/ts_if.html).
