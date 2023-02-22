@@ -1,12 +1,10 @@
 ### Proxies Browser
 
-Proxies allow you to send your data to Tanzu Observability by Wavefront in a secure, fast, and reliable manner. The proxy works with the Wavefront server to ensure end-to-end flow control.
-
-This page shows a paginated table that lists all existing proxies and their details:
-* The **Proxy Name** column shows the name, hostname, and ID of each proxy.
-* The other columns are configurable and can show the last check-in date and time, status, ingestion rate per data type, version, backlog (queue) size, and the user who created each proxy. To add or remove table columns, click the icon in the bottom-left corner of the table.
-* From the drop-down menu in top-right corner, you can select to show **All** or **Deleted** proxies. The **Deleted** list shows the ephemeral proxies that were deleted during the last 24 hours and the non-ephemeral proxies that were deleted during the last 1 month.
-* You can sort the table by column, search by keyword, and filter by proxy status and saved search.
+This page shows a paginated table that lists all existing proxies and their details. You can:
+* Add or remove table columns by clicking the icon in the bottom left corner of the table.
+The **Proxy Name** column shows the name, hostname, and ID of each proxy.
+* Select to show **All** or **Deleted** proxies from the drop-down menu in the top-right corner of the table. The **Deleted** list shows the ephemeral proxies that were deleted during the last 24 hours and the non-ephemeral proxies that were deleted during the last 1 month.
+* Sort the table by column, search by keyword, and filter by proxy status and saved search.
 
 The status of a proxy can be:
 * **Active**: The proxy is running and sending data.
@@ -16,7 +14,7 @@ The status of a proxy can be:
 * **Stopped by Server**: The Tanzu Observability subscription has ended for the customer.
 * **Token Expired**: The token has expired. You must install a new proxy.
 
-From this page, you can:
+From this page, you also can:
 * Install a proxy by clicking **Add new proxy**.
 * Delete one or more proxies by selecting the check boxes for the proxies and clicking the **Delete** icon.
 
