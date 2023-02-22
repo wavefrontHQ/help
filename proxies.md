@@ -19,8 +19,8 @@ From this page, you also can:
 * Delete one or more proxies by selecting the check boxes for the proxies and clicking the **Delete** icon.
 
     **Note**: You cannot delete a proxy in **Active** status.
-* Open an individual proxy dashboard by clicking the corresponding proxy name. This dashboard contains a number of charts based on the internal metrics emitted by the proxy. You can examine the proxy health and usage information.
-* Go to the **Wavefront Service and Proxy Data** dashboard by clicking **Usage and Proxies Data Dashboard**. This dashboard is predefined in the Wavefront Usage integration. The **Proxies: Overview** and the **Proxy Troubleshooting** sections of this dashboard contain a number of charts based on the internal metrics emitted by all proxies in the environment. You can examine the overall health and usage information for your proxies.
+* Open an individual proxy dashboard by clicking the corresponding proxy name.
+* Go to the **Wavefront Service and Proxy Data** dashboard by clicking **Usage and Proxies Data Dashboard**.
 
 
 {% include proxies_links.md %}
