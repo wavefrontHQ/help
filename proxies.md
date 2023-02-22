@@ -7,9 +7,12 @@ This page shows a paginated table that lists all existing proxies and their deta
 
 The status of a proxy can be:
 * **Active**: The proxy is running and sending data.
-* **Orphaned**: The proxy stopped sending data. Either the sources stopped sending data to the proxy or the proxy service has been stopped.
+* **Orphaned**: The proxy stopped sending data. The reason can be:
+    - The sources stopped sending data to the proxy.
+    - The token has been revoked.
+    - The proxy service has been stopped.
 
-    **Note**: You can start the stopped proxy service again only on a non-ephemeral proxy. Restarting the proxy service on an ephemeral proxy, installs a new proxy with a new ID and the old proxy transitions into irreversible orphaned status.
+        **Note**: You can start the stopped proxy service again only on a non-ephemeral proxy. Restarting the proxy service on an ephemeral proxy, installs a new proxy with a new ID and the old proxy transitions into irreversible orphaned status.
 * **Stopped by Server**: The Tanzu Observability subscription has ended for the customer.
 * **Token Expired**: The token has expired. You must install a new proxy.
 
