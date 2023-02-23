@@ -1,4 +1,4 @@
-### Proxies Browser
+### Managing Proxies
 
 This page shows a paginated table that lists all existing proxies and their details. You can:
 * Add or remove table columns by clicking the icon in the bottom-left corner of the table.
