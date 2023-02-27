@@ -16,4 +16,10 @@
    * Add AWS **point tags** to allow lists by specifying a regular expression.
 4. (Optional) Edit the **Service Refresh Rate**. The default is `5` minutes.
 5. Update the list of AWS products for which you want to collect metrics by using the CloudWatch integration. 
-6. Click **Update**.
+6. (Optional) If you select a custom list of AWS products, you can also specify custom namespaces.
+
+    A namespace is a container for CloudWatch metrics. Metrics in different namespaces are isolated from each other, so that metrics from different applications are not mistakenly aggregated into the same statistics. 
+
+    If you want to monitor a service which is not in the list of products, e.g. Amazon Chime SDK, in the **Custom Namespace(s)** text box, enter <code>AWS/ChimeSDK</code>. If you have defined your own custom namespace for the same service in AWS, for example <code>ABC</code>, provide the custom namespace the way you have defined it in AWS. In this case, in the **Custom Namespace(s)** text box, enter <code>ABC</code> without a prefix.
+    
+7. Click **Update**.
