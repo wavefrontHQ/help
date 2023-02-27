@@ -20,4 +20,3 @@ Don’t see logs? See [Logs Troubleshooting](https://docs.wavefront.com/logging_
 **Read More**
 
 [Logs Overview](https://docs.wavefront.com/logging_overview.html)
-<br/>[Try out the tutorial on GitHub](https://github.com/wavefrontHQ/demo-app)
