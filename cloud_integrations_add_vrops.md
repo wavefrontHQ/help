@@ -1,4 +1,4 @@
-### Add a VMware Aria Operations Integration
+### Add a VMware Aria Operations (SaaS) Integration
 
 The VMware Aria Operations integration is a full-featured native integration, that offers agentless data ingestion of VMware Aria Operations metric data, as well as a predefined dashboard.
 
@@ -15,4 +15,4 @@ To register a new VMware Aria Operations instance, you must get a VMware Cloud S
 6. Provide the VMware Aria Operations endpoint URL and click **Register**.
 
 **Read More**<br/>
-  [VMware Aria Operations Integration Overview](https://docs.wavefront.com/integrations_vrops.html)
+  [VMware Aria Operations (SaaS) Integration Overview](https://docs.wavefront.com/integrations_vrops.html)

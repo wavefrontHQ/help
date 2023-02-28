@@ -9,6 +9,6 @@ Cloud integrations allow you to ingest metrics directly from cloud services. VMw
 * Microsoft Azure
 * New Relic
 * AppDynamics
-* vRealize Operations Cloud
+* VMware Aria Operations (SaaS)
 * Dynatrace
 * Snowflake

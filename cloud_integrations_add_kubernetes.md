@@ -1,6 +1,6 @@
 ### Add a Kubernetes Cluster
 
-VMware Aria Operations for Applications provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure the Wavefront Operator. The setup process varies based on the distribution type that you choose to monitor. 
+To set up the Kubernetes integration, you must install and configure the Wavefront Operator. The setup process varies based on the distribution type that you choose to monitor. 
 
 You have two choices:
 

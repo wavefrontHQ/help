@@ -3,7 +3,7 @@
 Adding a Microsoft Azure cloud integration requires establishing a trust relationship between Azure and VMware Aria Operations for Applications. The overall process involves the following:
 
 * Getting a Directory ID
-* Creating an Azure Active Directory application that represents VMware Aria Operations for Applications inside Azure and getting the Application ID.
+* Creating an Azure Active Directory application that represents Operations for Applications inside Azure and getting the Application ID.
 * Creating a secret key and getting the Application secret.
 
 To register a Microsoft Azure Cloud Integration:
