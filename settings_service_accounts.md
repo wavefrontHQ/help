@@ -1,5 +1,5 @@
 ### Managing Service Accounts
-A service account is for services that use the Wavefront API to perform certain tasks. Service accounts use a token to authenticate and are constrained from performing certain UI operations.
+A service account is for services that use the API to perform certain tasks. Service accounts use a token to authenticate and are constrained from performing certain UI operations.
 
 By default all service accounts belong to the **Service Accounts** system group.
 

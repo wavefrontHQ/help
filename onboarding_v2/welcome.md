@@ -1,6 +1,6 @@
 <div class="container-fluid">
 
-<p>Wavefront gives you the power to operate your whole stack easily and effectively.</p>
+<p>VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront) gives you the power to operate your whole stack easily and effectively.</p>
 <p>In this Getting Started workflow you'll:</p>
 <ul>
 <li>Visualize data in dashboards & charts (or start by getting some data in).</li>

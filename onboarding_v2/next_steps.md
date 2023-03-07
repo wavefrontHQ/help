@@ -3,7 +3,7 @@
 <p>To experiment with sample data, use our <a href="../dashboard/tutorial-intro"><strong>tutorial integration</strong></a>.</p>
 <p><a href="../dashboard/tutorial-intro" aria-label="Tutorial integration"><img src="images/tutorial_integration_pic.png" alt="Tutorial integration"></img> </a></p>
 <p>&nbsp;</p>
-<p><strong>Invite your co-workers to collaborate in Wavefront!</strong></p>
+<p><strong>Invite your co-workers to collaborate!</strong></p>
 <p>Enter email addresses separated by commas or spaces.</p>
 
 [[inviteUsers]]
