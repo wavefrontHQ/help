@@ -1,6 +1,6 @@
 ### What Is a Sampling Policy? 
 
-VMware Aria Operations for Applications performs [intelligent sampling](http://docs.wavefront.com/trace_data_sampling.html) to retain only traces that are likely to be informative, such as traces with errors or traces that take a long time to complete.
+Operations for Applications performs [intelligent sampling](http://docs.wavefront.com/trace_data_sampling.html) to retain only traces that are likely to be informative, such as traces with errors or traces that take a long time to complete.
 
 If you want more control over the traces retained in Operations for Applications, you can create a sampling policy to keep the spans you specify. You can then edit, delete, restore, deactivate, and explore the version history of the policy you created. 
 

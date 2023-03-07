@@ -1,6 +1,6 @@
 ### What Is an Integration?
 
-Operations for Applications integrations are the link between any system and VMware Aria Operations for Applications. Integration links can be from your system into Operations for Applications or from Operations for Applications to an external system: data collector, alert notification, and authentication.
+Operations for Applications integrations are the link between any system and Operations for Applications. Integration links can be from your system into Operations for Applications or from Operations for Applications to an external system: data collector, alert notification, and authentication.
 
 **Integration Categories**<br/>
 Integrations are grouped into different categories. **Featured**, collector, and code instrumentation integrations include all ways to get data into Operations for Applications: using a collector agent and Wavefront proxy, sending metrics from application code to the proxy, and Operations for Applications pulling the data from a cloud service. 

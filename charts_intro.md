@@ -6,7 +6,7 @@ You add [Wavefront Query Language](https://docs.wavefront.com/query_language_get
 
 ### Interacting with Charts and Dashboards
 
-VMware Aria Operations for Applications provides many ways to interact with charts and dashboards.
+Operations for Applications provides many ways to interact with charts and dashboards.
 * In [dashboards](ui_dashboards.html), you can change time windows, share links, apply global queries, isolate sources and series, and zoom in and out.
 * In [charts](ui_charts.html) you can use the following hot keys:
   - Shift to see full precision values in the legend.

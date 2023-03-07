@@ -1,5 +1,5 @@
 ### Using SAML SSO
-By default, user accounts authenticate to VMware Aria Operations for Applications with passwords.
+By default, user accounts authenticate to Operations for Applications with passwords.
 
 From this page, as a user with the **SAML IdP Admin** permission, you can integrate your service instance with your SAML SSO provider, so that all users authenticate to Operations for Applications through your identity provider.
 

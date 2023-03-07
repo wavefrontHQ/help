@@ -2,7 +2,7 @@
 
 You can use the Logs Browser to search and filter logs so that you can find the root cause of critical issues in your system.
 
-VMware Aria Operations for Applications retains logs for 7, 15, or 30 days, based on your settings. 
+Operations for Applications retains logs for 7, 15, or 30 days, based on your settings. 
 
 **Step 1: Send Logs**
 

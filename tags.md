@@ -1,4 +1,4 @@
-A _tag_ is custom metadata that provides application-specific meaning to metrics and VMware Aria Operations for Applications entities, such as alerts,
+A _tag_ is custom metadata that provides application-specific meaning to metrics and Operations for Applications entities, such as alerts,
 dashboards, events, and sources. Tags group metrics and entities according to categories that you define.
 
 The primary use of tags is to limit the number of metrics and entities that you are querying or working with at once. Limiting
