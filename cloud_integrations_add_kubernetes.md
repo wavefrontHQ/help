@@ -1,12 +1,12 @@
 ### Add a Kubernetes Cluster
 
-To set up the Kubernetes integration, you must install and configure the Wavefront Operator. The setup process varies based on the distribution type that you choose to monitor. 
+To set up the Kubernetes integration, you must install and configure the Kubernetes Observability Operator. The setup process varies based on the distribution type that you choose to monitor. 
 
 You have two choices:
 
-  * **Kubernetes Cluster** - If you choose to install the Wavefront Operator in a Kubernetes cluster (for example, in a VMware vSphere with Tanzu or Amazon EKS cluster), proceed with the steps below.
+  * **Kubernetes Cluster** - If you choose to install the Kubernetes Observability Operator in a Kubernetes cluster (for example, in a VMware vSphere with Tanzu or Amazon EKS cluster), proceed with the steps below.
    
-  * **OpenShift** - If you choose to use OpenShift to install the Wavefront Operator, follow the instructions displayed on the Operations for Applications GUI and click **Finish**.
+  * **OpenShift** - If you choose to use OpenShift to install the Operator, follow the instructions displayed on the Operations for Applications GUI and click **Finish**.
           
     **Note**: Logs (Beta) is not supported when you use OpenShift.
 
