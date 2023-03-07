@@ -1,6 +1,6 @@
 ## Add a Kubernetes Integration
 
-VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront) provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure the Wavefront Collector for Kubernetes and a Wavefront proxy. With the 2022-48.x we introduce a new  Kubernetes Observability Operator which simplifies the deployment. 
+Tanzu Observability by Wavefront provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure the Wavefront Collector for Kubernetes and a Wavefront proxy. With the 2022-48.x we introduce a new  Kubernetes Observability Operator which simplifies the deployment. 
 
 The setup process varies based on the distribution type that you choose to monitor. 
 
@@ -31,12 +31,12 @@ The setup process varies based on the distribution type that you choose to monit
 
 1. Enter the authentication options and click **Next**.
    
-   You can authenticate to the Operations for Applications REST API by using either a user account, or a service account. In both cases the account must have an API token.
+   You can authenticate to the Wavefront REST API by using either a user account, or a service account. In both cases the account must have an API token.
    
 1. From the **Script** section, get the deployment script. 
     1. Review the script and click the **Copy to clipboard** button.
     1. Run the script in your Kubernetes cluster.
-1. After successful installation, return back to the Operations for Applications GUI, and click **Finish**.
+1. After successful installation, return back to the Tanzu Observability GUI, and click **Finish**.
 
 ### Kubernetes Install in an OpenShift Cluster
 
