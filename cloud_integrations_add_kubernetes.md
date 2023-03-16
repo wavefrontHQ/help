@@ -6,7 +6,7 @@ You have two choices:
 
   * **Kubernetes Cluster** - If you choose to install the Kubernetes Observability Operator in a Kubernetes cluster (for example, in a VMware vSphere with Tanzu or Amazon EKS cluster), proceed with the steps below.
    
-  * **OpenShift** - If you choose to use OpenShift to install the Operator, follow the instructions displayed on the Operations for Applications GUI and click **Finish**.
+  * **OpenShift** - If you choose to use OpenShift, follow the instructions displayed in the Operations for Applications GUI and click **Finish**.
           
     **Note**: Logs (Beta) is not supported when you use OpenShift.
 
