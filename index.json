@@ -94,7 +94,7 @@
     },
     {
       "path": "^/extdata/add/gcp(.*)$",
-      "file": "cloud_integrations_add_gcp.md"
+      "file": "add_gcp.md"
     },
     {
       "path": "^/extdata/edit/gcpbilling(.*)$",
@@ -106,7 +106,7 @@
     },
     {
       "path": "^/extdata/add/azure(.*)$",
-      "file": "cloud_integrations_add_azure.md"
+      "file": "add_azure.md"
     },
     {
       "path": "^/extdata/edit/azure(.*)$",
@@ -118,7 +118,7 @@
     },
     {
       "path": "^/extdata/(add|edit)/vrops(.*)$",
-      "file": "cloud_integrations_add_vrops.md"
+      "file": "add_vrops.md"
     },
     {
       "path": "^/extdata/(add|edit)/dynatrace(.*)$",
@@ -126,7 +126,7 @@
     },
     {
       "path": "^/extdata/(add|edit)/snowflake(.*)$",
-      "file": "cloud_integrations_add_snowflake.md"
+      "file": "add_snowflake.md"
     },    
     {
       "path": "^/extdata/(.*)$",

@@ -1,6 +1,6 @@
 ### Add a Dynatrace Integration
 
-The Dynatrace integration is an AI-powered, full-stack, automated performance management solution. This integration collects the metrics from a Dynatrace SaaS environment and sends them to Tanzu Observability by Wavefront.
+The Dynatrace integration is an AI-powered, full-stack, automated performance management solution. This integration collects the metrics from a Dynatrace SaaS environment and sends them to Operations for Applications.
 
 To set up the Dynatrace integration, you must provide the environment ID and a valid API token. Click the **How to get the Environment ID** and **How to get the API Token** links on the left and follow the instructions. After you copy the environment ID and the generated API token, follow these steps:
 

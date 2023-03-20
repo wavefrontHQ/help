@@ -1,6 +1,6 @@
 ### Add a GCP Integration
 
-Adding a Google Cloud Platform (GCP) integration requires establishing a trust relationship between GCP and VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront). Minimum required permissions you need depend on the services that you are using. See [Google Cloud Platform Overview and Permissions](http://docs.wavefront.com/integrations_gcp_overview.html) for details.
+Adding a Google Cloud Platform (GCP) integration requires establishing a trust relationship between GCP and Operations for Applications. Minimum required permissions you need depend on the services that you are using. See [Google Cloud Platform Overview and Permissions](http://docs.wavefront.com/integrations_gcp_overview.html) for details.
 
 The overall process involves the following:
 

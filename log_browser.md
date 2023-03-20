@@ -1,12 +1,12 @@
 ### What Is the Log Browser?
 
-You can use the Log Browser to search and filter logs so that you can find the root cause of critical issues in your system.
+You can use the Logs Browser to search and filter logs so that you can find the root cause of critical issues in your system.
 
-Tanzu Observability retains logs for 7, 15, or 30 days, based on your settings. 
+Operations for Applications retains logs for 7, 15, or 30 days, based on your settings. 
 
 **Step 1: Send Logs**
 
-Configure your application or environment to [send logs to Tanzu Observability](https://docs.wavefront.com/logging_send_logs.html).
+Configure your application or environment to [send logs to Operations for Applications](https://docs.wavefront.com/logging_send_logs.html).
 
 **Step 2: Search and Filter Logs**
 
@@ -20,4 +20,3 @@ Don’t see logs? See [Logs Troubleshooting](https://docs.wavefront.com/logging_
 **Read More**
 
 [Logs Overview](https://docs.wavefront.com/logging_overview.html)
-<br/>[Try out the tutorial on GitHub](https://github.com/wavefrontHQ/demo-app)

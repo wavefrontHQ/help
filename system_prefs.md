@@ -1,6 +1,6 @@
 ### Organization Default Settings
 
-As an administrator with **Accounts** permission, on the **New Accounts Defaults** tab, you can set Tanzu Observability by Wavefront preferences:
+As a user with the **Accounts** permission, on the **New Accounts Defaults** tab, you can set preferences for your service instance:
 
 * Globally set whether Getting Started Progress display is the default. 
 * Set a default landing page - a dashboard that you specify or the dashboard list. 
@@ -14,4 +14,4 @@ Individual users can override some of these settings by clicking the gear icon a
 
 **Read More**<br/>
 [Authorization Model](https://docs.wavefront.com/authorization.html)<br/>
-[Using PromQL in Tanzu Observability](http://docs.wavefront.com/wavefront_prometheus.html)
+[Using PromQL](http://docs.wavefront.com/wavefront_prometheus.html)
