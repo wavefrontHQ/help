@@ -9,9 +9,15 @@ This page shows a paginated table of all existing ingestion policies. For each p
 * The **Current Usage vs Limit** column shows the policy PPS usage for the current billing period. The *green* progress bar indicates that the usage is below 80% of the limit. The *orange* progress bar indicates that the usage is above 80% of the limit but the limit is not reached yet. The *red* progress bar indicates that the limit is exceeded.
 * The **Usage Trend** column shows a line chart of the policy PPS usage from the beginning of the current billing period.
 
-On this page you can sort, search for and filter ingestion policies. You can also drill down and examine the PPS usage by a particular ingestion policy over time, by clicking the name of the ingestion policy and viewing the ingestion policy dashboard. 
+On this page you can:
+
+* Sort, search for and filter ingestion policies.
+* Drill down and examine the PPS usage by a particular ingestion policy over time by clicking the name of the ingestion policy and viewing the ingestion policy dashboard.
+* See the policy history by clicking the ellipsis icon next to the policy and selecting **Versions**. If you have the **Ingestion Policies** permission, you can also revert the policy to an earlier version.
+
 If you have the **Ingestion Policies** permission, you also can:
-* See the policy history by clicking the ellipsis icon next to the policy and selecting **Versions**. You can also revert the policy to an earlier version.
+
+* Create a policy by clicking **New Ingestion Policy**.
 * Edit a policy by clicking the ellipsis icon next to the policy and selecting **Edit**.
 * Delete a policy by clicking the ellipsis icon next to the policy and selecting **Delete**.
 
