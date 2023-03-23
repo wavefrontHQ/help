@@ -287,6 +287,10 @@
     {
       "path": "^/usage/ingestionpolicy/update/(.*)$",
       "file": "ingestion_policies_edit.md"
+    },  
+    {
+      "path": "^/usage/ingestionpolicies/history/(.*)$",
+      "file": "ingestion_policies_versions.md"
     }  
   ]
 }
