@@ -2,21 +2,27 @@
 
 Use the Snowflake integration to monitor a Snowflake database and the ACCOUNT_USAGE schema. 
 
-To register a new Snowflake instance and start monitoring the Snowflake usage, you must give Tanzu Observability by Wavefront access to your Snowflake account. The overall process involves the following steps:
+To register a new Snowflake instance and start monitoring the Snowflake usage, you must give VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront) access to your Snowflake account. The overall process involves:
 
-* Create a custom role that will monitor the Snowflake usage, for example `WAVEFRONT`.
-* Grant the monitoring privileges to the new role.
-* Grant the role with the usage privilege on the warehouse.
-* Assign the role to a new or an already existing user.
+* Generating a private and a public key. 
+  Snowflake supports key-pair authentication for enhanced authentication security. 
+* Creating a custom role that will monitor the Snowflake usage, for example `MYROLE`.
+* Granting the role with the `usage` and `monitor` privileges on the warehouse.
+* Assigning the role to a new or an already existing user who has the public key assigned.
 
-Follow the instructions in your Wavefront cluster UI if you don't know how to achieve this.
+You can follow the steps provided in our GUI.
 
-After you created a user with the correct permissions, to register your Snowflake integration, follow these steps:
+After you generate the private and the public keys and create a user with the correct permissions, to register your Snowflake integration, follow these steps:
 
 1. In the **Name** text box, provide a meaningful name.
-2. In the **Account ID** text box, enter your account ID.
-   For information about the Snowflake account ID, see the [Snowflake documentation](https://docs.snowflake.com/en/user-guide/admin-account-identifier.html).
-3. Enter the Snowflake user name and password in the respective text boxes.
+2. In the **Account ID** text box, enter the Snowflake account identifier with the account name, `<orgname>-<account_name>`.
+   For information about the Snowflake account identifiers, see the [Snowflake documentation](https://docs.snowflake.com/en/user-guide/admin-account-identifier.html).
+3. Enter the Snowflake user name in the **User Name** text box.
+
+4. Enter the private key in the **Private Key** text box.
+
+   The private key that you enter must begin with the line `----BEGIN PRIVATE KEY----` and end with the line `----END PRIVATE KEY----`. The private key is securely stored and never exposed except for read-only access to the Snowflake APIs.
+   
 4. In the **Role** and **Warehouse** text boxes, enter the role and the warehouse assigned to the user. 
    If you don't specify a role and warehouse, the default ones that are assigned to the user will be used.
 4. (Optional) In the **Metric Allow List** text box, add metrics to a metrics allow list by using a regular expression. For example:

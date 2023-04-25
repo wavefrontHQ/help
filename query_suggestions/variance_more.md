@@ -4,4 +4,4 @@ Standard aggregation functions like [[queryFunctionName type=header text=varianc
 
 [variance Function](https://docs.wavefront.com/ts_variance.html)<br>
 [Be Smart About Aggregation](https://docs.wavefront.com/query_language_performance.html#be-smart-about-aggregation)<br>
-[Video: Time Series and Interpolation](https://youtu.be/9LnDszVrJs4)
+[Video: Time Series and Interpolation](https://vmwaretv.vmware.com/media/t/1_afml14zm)

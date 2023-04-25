@@ -1,6 +1,6 @@
 ### Add a Dynatrace Integration
 
-The Dynatrace integration is an AI-powered, full-stack, automated performance management solution. This integration collects the metrics from a Dynatrace SaaS environment and sends them to Tanzu Observability by Wavefront.
+The Dynatrace integration is an AI-powered, full-stack, automated performance management solution. This integration collects the metrics from a Dynatrace SaaS environment and sends them to VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront).
 
 **Limitations**
 

@@ -1,9 +1,9 @@
 ### Add a Microsoft Azure Cloud Integration
 
-Adding a Microsoft Azure cloud integration requires establishing a trust relationship between Azure and Tanzu Observability by Wavefront. The overall process involves the following:
+Adding a Microsoft Azure cloud integration requires establishing a trust relationship between Azure and VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront). The overall process involves the following:
 
 * Getting a Tenant ID
-* Creating an Azure Active Directory application that represents Tanzu Observability inside Azure and getting the Application ID.
+* Creating an Azure Active Directory application that represents Operations for Applications inside Azure and getting the Application ID.
 * Creating a secret key and getting the Application secret.
 
 You can do that either by using the Azure Cloud Shell, or the Microsoft Azure User Interface.
