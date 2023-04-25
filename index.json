@@ -94,7 +94,7 @@
     },
     {
       "path": "^/extdata/add/gcp(.*)$",
-      "file": "cloud_integrations_add_gcp.md"
+      "file": "add_gcp.md"
     },
     {
       "path": "^/extdata/edit/gcpbilling(.*)$",
@@ -106,7 +106,7 @@
     },
     {
       "path": "^/extdata/add/azure(.*)$",
-      "file": "cloud_integrations_add_azure.md"
+      "file": "add_azure.md"
     },
     {
       "path": "^/extdata/edit/azure(.*)$",
@@ -118,7 +118,7 @@
     },
     {
       "path": "^/extdata/(add|edit)/vrops(.*)$",
-      "file": "cloud_integrations_add_vrops.md"
+      "file": "add_vrops.md"
     },
     {
       "path": "^/extdata/(add|edit)/dynatrace(.*)$",
@@ -126,7 +126,7 @@
     },
     {
       "path": "^/extdata/(add|edit)/snowflake(.*)$",
-      "file": "cloud_integrations_add_snowflake.md"
+      "file": "add_snowflake.md"
     },    
     {
       "path": "^/extdata/(.*)$",
@@ -173,15 +173,6 @@
       "file": "webhooks.md"
     },
     {
-      "path": "^/intro/populate$",
-      "query": "redirect=proxies",
-      "file": "proxy_add.md"
-    },
-    {
-      "path": "^/intro/populate$",
-      "file": "proxy_first_add.md"
-    },
-    {
       "path": "^/proxies$",
       "file": "proxies.md"
     },
@@ -190,40 +181,8 @@
       "file": "proxy_first_add.md"
     },
     {
-      "path": "^/settings/profile$",
-      "file": "settings_profile.md"
-    },
-    {
-      "path": "^/settings/users$",
-      "file": "settings_users.md"
-    },
-    {
-      "path": "^/settings/groups$",
-      "file": "settings_permissions.md"
-    },
-    {
-      "path": "^/settings/customerPreferences$",
-      "file": "settings_preferences.md"
-    },
-    {
-      "path": "^/settings/query_dashboard$",
-      "file": "settings_query_dashboard.md"
-    },
-    {
       "path": "^/sources$",
       "file": "sources.md"
-    },
-    {
-      "path": "^/webhooks$",
-      "file": "webhooks.md"
-    },
-    {
-      "path": "^/webhooks/add$",
-      "file": "webhooks_create.md"
-    },
-    {
-      "path": "^/webhooks/(.*)$",
-      "file": "webhooks_create.md"
     },
     {
       "path": "^/notificants/add$",
@@ -262,27 +221,31 @@
       "file": "settings_query_dashboard.md"
     },
     {
-      "path": "^/account/usergroups(.*)$",
+      "path": "^/metricspolicy$",
+      "file": "metrics_policy.md"
+    },
+    {
+      "path": "^/selfservicesaml$",
+      "file": "sso_self_service.md"
+    },
+    {
+      "path": "^/account/usergroups$",
       "file": "user_groups.md"
     },
     {
-      "path": "^/users(.*)$",
+      "path": "^/account/users$",
       "file": "settings_users.md"
     },
     {
-      "path": "^/account/users(.*)$",
-      "file": "settings_users.md"
-    },
-    {
-      "path": "^/account/serviceaccounts(.*)$",
+      "path": "^/account/serviceaccounts$",
       "file": "settings_service_accounts.md"
     },
     {
-      "path": "^/account/roles(.*)$",
+      "path": "^/account/roles$",
       "file": "roles.md"
     },
     {
-      "path": "^/account/apitokens(.*)$",
+      "path": "^/account/apitokens$",
       "file": "api_tokens.md"
     },
     {
@@ -307,11 +270,27 @@
     },
     {
       "path": "^/spanpolicy/deleted$",
-      "file": "tracing_manage_sampling_policy.md"
+      "file": "tracing_deleted_sampling_policies.md"
     },
     {
-     "path": "^/logs$",
-     "file": "log_browser.md"
-   }  
+      "path": "^/logs$",
+      "file": "log_browser.md"
+    },
+    {
+      "path": "^/usage/ingestionpolicies$",
+      "file": "ingestion_policies.md"
+    },
+    {
+      "path": "^/usage/ingestionpolicy/create$",
+      "file": "ingestion_policies_create.md"
+    },
+    {
+      "path": "^/usage/ingestionpolicy/update/(.*)$",
+      "file": "ingestion_policies_edit.md"
+    },  
+    {
+      "path": "^/usage/ingestionpolicies/history/(.*)$",
+      "file": "ingestion_policies_versions.md"
+    }  
   ]
 }
