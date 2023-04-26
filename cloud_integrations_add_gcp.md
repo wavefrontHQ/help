@@ -32,7 +32,7 @@ To register a Google Cloud Platform integration:
    Here, the actual metric name is <code>gcp.pubsub.subscription.push_request_latencies</code>, while <code>bucket</code>, <code>count</code>, <code>mean</code>, and <code>sumOfSquaredDeviation</code> are the aggregation types. When you create the regular expression, you must use only <code>gcp.pubsub.subscription.push_request_latencies</code>. For example, <code>^gcp.pubsub.subscription.push_request_latencies$</code>.
 
 
-   Cumulative count of messages acknowledged by Acknowledge requests, grouped by delivery type.
+   Cumulative count of messages acknowledged by Acknowledge requests, grouped by delivery type:
    
     * <code>gcp.pubsub.subscription.ack_message_count_count</code>
     * <code>gcp.pubsub.subscription.ack_message_count_rate</code>
