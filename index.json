@@ -278,7 +278,7 @@
     },
     {
       "path": "^/log-alerts$",
-      "file": "log_browser.md"
+      "file": "log_alerts.md"
     },
     {
       "path": "^/usage/ingestionpolicies$",
