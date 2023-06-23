@@ -181,6 +181,10 @@
       "file": "proxy_first_add.md"
     },
     {
+      "path": "^/proxies/new$",
+      "file": "proxy_new.md"
+    },
+    {
       "path": "^/sources$",
       "file": "sources.md"
     },
