@@ -1,10 +1,10 @@
 ### Adding a Proxy
 
-A Wavefront proxy ingests metrics and forwards them to Operations for Applications in a secure, fast, and reliable manner. In most cases, a Wavefront proxy must be running in your installation before metrics begin streaming to your Operations for Applications service from a host or application. In production, it is recommended to place a team of proxies behind a load balancer.
+In most cases a Wavefront proxy must be running in your environment before metrics begin streaming to your Operations for Applications service from a host or application. In production, it is recommended to place a team of proxies behind a load balancer.
 
-To authenticate to Operations for Applications, the proxy requires a VMware Cloud services access token with the **Proxies** service role.
+To authenticate to Operations for Applications, the Wavefront proxy requires a VMware Cloud services access token with the **Proxies** service role.
 
-**Important**: In order to retrieve a VMware Cloud services access token, the Wavefront proxy must allow an outbound HTTPS connection to the VMware Cloud Services Console (`https://console.cloud.vmware.com/`).
+**Important**: To retrieve a VMware Cloud services access token, the Wavefront proxy connects to the VMware Cloud services API. For that reason, your environment must allow an outbound HTTPS connection to the VMware Cloud services platform (`https://console.cloud.vmware.com/`).
 
 To add a proxy, you must first choose the method for the proxy to retrieve the access token - using **OAuth App** or **API Token**. Then, you must choose the OS on which you want to install the proxy - **Linux**, **Docker**, **Mac**, **Windows**, or **Kubernetes**, and follow the on-screen instructions.
 
