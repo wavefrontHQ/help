@@ -14,7 +14,7 @@ To add a proxy, you must first choose the method for the proxy to retrieve the a
 
     **Note**: The proxy exchanges the OAuth app credentials for an access token. The server to server OAuth app is configured with a token TTL configuration. When the access token expires, the proxy automatically retrieves a new access token.
 
-*	**API Token**: You must provide a VMware Cloud services API token (`<CSP_API_TOKEN>`) that belongs to the VMware Cloud organization running the service and that is assigned with the **Proxies** service role.
+* **API Token**: You must provide a VMware Cloud services API token (`<CSP_API_TOKEN>`) that belongs to the VMware Cloud organization running the service and that is assigned with the **Proxies** service role.
 
     For details on how to get the API token, see [How do I generate API tokens](https://docs.vmware.com/en/VMware-Cloud-services/services/Using-VMware-Cloud-Services/GUID-E2A3B1C1-E9AD-4B00-A6B6-88D31FCDDF7C.html).
 
