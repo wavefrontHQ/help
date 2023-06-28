@@ -181,6 +181,10 @@
       "file": "proxy_first_add.md"
     },
     {
+      "path": "^/proxies/new$",
+      "file": "proxy_new.md"
+    },
+    {
       "path": "^/sources$",
       "file": "sources.md"
     },
@@ -197,6 +201,10 @@
       "file": "settings_profile.md"
     },
     {
+      "path": "^/userprofile/settings(.*)$",
+      "file": "settings_userprofile.md"
+    },
+    {
       "path": "^/userprofile/groups(.*)$",
       "file": "usergroups_profile.md"
     },
@@ -211,6 +219,10 @@
     {
       "path": "^/system-preferences/defaults(.*)$",
       "file": "system_prefs.md"
+    },
+    {
+      "path": "^/system-preferences/settings(.*)$",
+      "file": "system_prefs_settings.md"
     },
     {
       "path": "^/system-preferences/security(.*)$",
