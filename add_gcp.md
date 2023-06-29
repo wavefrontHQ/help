@@ -22,6 +22,9 @@ To register a Google Cloud Platform integration:
    The metrics names that start with these prefixes will be imported in addition to what you have selected as categories.
 6. (Optional) Change the **Service Refresh Rate**. The default is `5` minutes.
 7. (Optional) Select to enable **Histogram**.
+
+   Enabling this option means that you'll ingest Google Cloud Platform histogram metrics.
+
 8. (Optional) Select which histogram metrics to ingest. 
    
    You can filter the histogram metrics based on the Google Cloud Platform grouping functions, such as **Count**, **Minimum**, **Maximum**, **Mean**, and **sumOfSquaredDeviation**. If you don't make any selections, all metrics will be ingested.
