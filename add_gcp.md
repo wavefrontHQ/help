@@ -21,9 +21,14 @@ To register a Google Cloud Platform integration:
 5. (Optional) In the **Additional Metric Prefixes** text box, enter a comma separated list of additional metrics prefixes. 
    The metrics names that start with these prefixes will be imported in addition to what you have selected as categories.
 6. (Optional) Change the **Service Refresh Rate**. The default is `5` minutes.
-7. (Optional) Select to enable **Detailed Histogram Metrics**, **Delta Counts**, and **Pricing & Billing** information.
+7. (Optional) Select to enable **Histogram**.
+8. (Optional) Select which histogram metrics to ingest. 
+   
+   You can filter the histogram metrics based on the Google Cloud Platform grouping functions, such as **Count**, **Minimum**, **Maximum**, **Mean**, and **sumOfSquaredDeviation**. If you don't make any selections, all metrics will be ingested.
+
+9. (Optional) Select to enable **Detailed Histogram Metrics**, **Delta Counts**, and **Pricing & Billing** information.
    **Note**: Enabling **Detailed Histogram Metrics** and **Delta Counts** will increase your ingestion rate and costs. 
    
    If you select to enable the **Pricing & Billing** information, you must also provide an API key.
 
-8. Click **Register**.
+10. Click **Register**.
