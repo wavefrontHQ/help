@@ -289,6 +289,14 @@
       "file": "log_browser.md"
     },
     {
+      "path": "^/log-alerts$",
+      "file": "log_alerts.md"
+    },
+    {
+      "path": "^/log-alerts/add$",
+      "file": "log__create_alert.md"
+    },
+    {
       "path": "^/usage/ingestionpolicies$",
       "file": "ingestion_policies.md"
     },
