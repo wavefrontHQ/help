@@ -6,4 +6,4 @@ You can create log alerts and get notifications when the alerts fire. On this Lo
 * The number of times an alert fired.
 * When the alert was last updated.
 
-You can filter the alerts based on the severity or use a search you saved.
+You can filter the alerts based on the alert state, severity, or use a search you saved.
