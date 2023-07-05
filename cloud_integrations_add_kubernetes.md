@@ -28,13 +28,16 @@ You have two choices:
    * **Port** - HTTP proxy port number.
    * **HTTP Proxy Authentication** - Can be either basic (with user name and password), or CA certificate - based (with a CA certificate).
 
-1. Enter the authentication options and click **Next**.
-   
-   You can authenticate to the Operations for Applications REST API by using either a user account, or a service account. In both cases the account must have an API token.
-   
+1. Configure the authentication options and click **Next**.
+    
 1. From the **Script** section, get the deployment script. 
     
     a) Review the script and click the **Copy to clipboard** button.
+
+       * If your service **is onboarded** to VMware Cloud services;
+         * If you have selected **OAuth App** as the authentication type, replace `<CSP_APP_ID>` and `<CSP_APP_SECRET>` with your server to server app credentials and `<CSP_ORG_ID>` with the ID of the VMware Cloud organization running the service.
+         * If you have selected **API token** as the authentication type, replace `<CSP_API_TOKEN>` with your VMware Cloud services API token.
+       * If your service is **not onboarded** to VMware Cloud services, proceed to the next step.
     
     b) Run the script in your Kubernetes cluster.
     
@@ -43,3 +46,4 @@ You have two choices:
 **Read More**<br/>
 [Kubernetes Overview](https://docs.wavefront.com/wavefront_kubernetes.html)<br/>
 [Kubernetes Troubleshooting](https://docs.wavefront.com/kubernetes_troubleshooting.html)
+[Proxy Authentication Types](https://docs.wavefront.com/proxies_installing.html#proxy-authentication-types)
