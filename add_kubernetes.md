@@ -16,11 +16,11 @@ The setup process varies based on the distribution type that you choose to monit
 1. In the **Collector Configuration** section, configure the deployment options for the cluster.
     1. In the **Cluster Name** text box provide the name of your Kubernetes cluster.
     1. Choose the **Kubernetes Cluster** as a distribution type. 
-1. Choose whether you want to see the logs for your cluster. By default, the **Logs (Beta)** option is enabled.
+1. Choose whether you want to see the logs for your cluster. By default, the **Logs** option is enabled.
 1. Choose whether you want to enable or disable **Metrics**. By default, the **Metrics** option is enabled.
 1. Choose whether you want to use an **HTTP Proxy**. 
    If you enable HTTP proxy, to allow outbound traffic, you must add these URLs to your proxy rules:
-    * **Logs (Beta)**: <code>https://data.mgmt.cloud.vmware.com</code>
+    * **Logs**: <code>https://data.mgmt.cloud.vmware.com</code>
     * **Metrics**: <code>https://your_cluster.wavefront.com/</code>
       
    In addition, you must also configure the HTTP proxy settings, such as: 
@@ -53,7 +53,7 @@ The setup process varies based on the distribution type that you choose to monit
 
 Complete the steps below and click **Finish**.
 
-**Note**: Logs (Beta) is not supported when you use OpenShift.
+**Note**: The Logs feature is not supported when you use OpenShift.
 
 
 #### Install and Configure the Operations for Applications Helm Chart on OpenShift Enterprise 4.x
