@@ -6,7 +6,7 @@ You have two choices:
 
   * **Kubernetes Cluster** - If you choose to install the Observability for Kubernetes Operator in a Kubernetes cluster (for example, in a VMware vSphere with Tanzu or Amazon EKS cluster), proceed with the steps below.
    
-  * **OpenShift** - If you choose to use OpenShift, follow the instructions displayed in the Operations for Applications GUI and click **Finish**.
+  * **OpenShift** - If you choose to use OpenShift, follow the instructions displayed in the Operations for Applications UI and click **Finish**.
           
     **Note**: Logs (Beta) is not supported when you use OpenShift.
 
@@ -30,18 +30,18 @@ You have two choices:
 
 1. Configure the authentication options and click **Next**.
     
-1. From the **Script** section, get the deployment script. 
-    
-    a) Review the script and click the **Copy to clipboard** button.
+1. In the **Script** section, review the script and click the **Copy to clipboard** button.
 
-       * If your service **is onboarded** to VMware Cloud services;
-         * If you have selected **OAuth App** as the authentication type, replace `<CSP_APP_ID>` and `<CSP_APP_SECRET>` with your server to server app credentials and `<CSP_ORG_ID>` with the ID of the VMware Cloud organization running the service.
-         * If you have selected **API token** as the authentication type, replace `<CSP_API_TOKEN>` with your VMware Cloud services API token.
-       * If your service is **not onboarded** to VMware Cloud services, proceed to the next step.
+   * When your Operations for Applications service **is onboarded** to VMware Cloud services:
+         
+     * If you have selected **OAuth App** as the authentication type, replace `<CSP_APP_ID>` and `<CSP_APP_SECRET>` with your server to server app credentials and `<CSP_ORG_ID>` with the ID of the VMware Cloud organization running the service.
+     * If you have selected **API token** as the authentication type, replace `<CSP_API_TOKEN>` with your VMware Cloud services API token.
+       
+   * When your Operations for Applications service is **not onboarded** to VMware Cloud services, proceed to the next step.
     
-    b) Run the script in your Kubernetes cluster.
+1. Run the script in your Kubernetes cluster.
     
-1. After successful installation, return back to the Operations for Applications GUI, and click **Finish**.
+1. After successful installation, return back to the Operations for Applications UI, and click **Finish**.
 
 **Read More**<br/>
 [Kubernetes Overview](https://docs.wavefront.com/wavefront_kubernetes.html)<br/>

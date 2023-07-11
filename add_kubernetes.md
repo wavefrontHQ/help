@@ -31,22 +31,22 @@ The setup process varies based on the distribution type that you choose to monit
 
 1. Enter the authentication options and click **Next**.
    
-   The authentication options vary depending on whether your Operations for Applications service is onboarded to VMware Cloud services. For more details, see [Proxy Authentication Types](https://docs.wavefront.com/proxies_installing.html#proxy-authentication-types).
+   The authentication options vary depending on whether your [Operations for Applications service is onboarded to VMware Cloud services](https://docs.wavefront.com/subscriptions-differences.html). For more details, see [Proxy Authentication Types](https://docs.wavefront.com/proxies_installing.html#proxy-authentication-types).
    
    * If your service **is onboarded** to VMware Cloud services, choose to authenticate by using either an **OAuth App** or an **API token**. 
 
-     * **OAuth App** authentication, requires you to use an existing App ID, App Secret, and Organization ID of a server to server app which has the **Proxies** service role assigned and belongs to the VMware Cloud services organization running the service.
-     * **API Token** authentication requires you to use an API token that belongs to your user account in the VMware Cloud organization running the service. You must regenerate and reconfigure the API Token periodically depending on the token TTL configuration.
+     * **OAuth App** authentication requires you to use an existing App ID, App Secret, and Organization ID of a server to server app that has the **Proxies** service role assigned and belongs to the VMware Cloud services organization running the service.
+     * **API Token** authentication requires you to use an API token that belongs to your user account in the VMware Cloud organization running the service. Note that you must regenerate and reconfigure the API Token periodically depending on the token TTL configuration.
 
    * If your service is **not onboarded** to VMware Cloud services, you can authenticate to the Operations for Applications REST API by using either a user account, or a service account. In both cases, the account must have an Operations for Applications API token associated with it.
    
-1. From the **Script** section, get the deployment script. 
-    1. Review the script and click the **Copy to clipboard** button.
-       * If your service **is onboarded** to VMware Cloud services;
-         * If you have selected **OAuth App** as the authentication type, replace `<CSP_APP_ID>` and `<CSP_APP_SECRET>` with your server to server app credentials and `<CSP_ORG_ID>` with the ID of the VMware Cloud organization running the service.
-         * If you have selected **API token** as the authentication type, replace `<CSP_API_TOKEN>` with your VMware Cloud services API token.
-       * If your service is **not onboarded** to VMware Cloud services, proceed to the next step.
-    1. Run the script in your Kubernetes cluster.
+1. In the **Script** section, review the script and click the **Copy to clipboard** button.
+   
+   * When your service **is onboarded** to VMware Cloud services:
+     * If you have selected **OAuth App** as the authentication type, replace `<CSP_APP_ID>` and `<CSP_APP_SECRET>` with your server to server app credentials and `<CSP_ORG_ID>` with the ID of the VMware Cloud organization running the service.
+     * If you have selected **API token** as the authentication type, replace `<CSP_API_TOKEN>` with your VMware Cloud services API token.
+   * When your service is **not onboarded** to VMware Cloud services, proceed to the next step.
+1. Run the script in your Kubernetes cluster.
 1. After successful installation, return back to the Operations for Applications GUI, and click **Finish**.
 
 ### Kubernetes Install in an OpenShift Cluster
