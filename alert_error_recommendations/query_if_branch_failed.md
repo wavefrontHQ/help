@@ -1,1 +1,1 @@
-if() is using its %s branch and the branch failed with \"%s\". For details, see [if Function](https://docs.wavefront.com/ts_if.html).
+if() is using its %s branch and the branch failed with \"%s\". Please see [if Function](https://docs.wavefront.com/ts_if.html) for details.

@@ -1,1 +1,1 @@
-Query service timeout. For details, see [Limits and Best Practices](https://docs.wavefront.com/wavefront_limits.html).
+Query service timeout. Please see [Limits and Best Practices](https://docs.wavefront.com/wavefront_limits.html) for details.

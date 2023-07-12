@@ -1,2 +1,1 @@
-Generic Query Syntax Error. To learn about the query syntax, operators, and functions supported 
-by WQL, see [Query Language Reference](https://docs.wavefront.com/query_language_reference.html).
+Generic Query Syntax Error. To learn about the query syntax, operators, and functions supported by WQL, please see [Query Language Reference](https://docs.wavefront.com/query_language_reference.html).

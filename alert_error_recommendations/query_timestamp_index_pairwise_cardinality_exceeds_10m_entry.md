@@ -1,2 +1,2 @@
 Predicted aggregated pair-wise index cardinality of 10M entries reached, cannot proceed! 
-Attempting: %d; Predicted: %d. See [Optimizing High-Cardinality Data](https://docs.wavefront.com/cardinality.html#optimizing-high-cardinality-data).
+Attempting: %d; Predicted: %d. Please see [Optimizing High Cardinality Data](https://docs.wavefront.com/cardinality.html#optimizing-high-cardinality-data) for details.
