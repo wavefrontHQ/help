@@ -19,7 +19,7 @@ You have two choices:
     
 1. Choose whether you want to enable or disable **Metrics**. By default, the **Metrics** option is enabled.
 1. Choose whether you want to use an **HTTP Proxy**. If you enable HTTP proxy, to allow outbound traffic, you must add these URLs to your proxy rules:
-   * Logs (Beta): `https://data.mgmt.cloud.vmware.com`
+   * Logs: `https://data.mgmt.cloud.vmware.com`
    * Metrics: `https://<your_cluster>.wavefront.com/`
    
 1. If you enable HTTP Proxy, you must also configure the HTTP proxy settings, such as: 
