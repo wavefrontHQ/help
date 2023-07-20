@@ -1,0 +1,1 @@
+Query failed at planning stage. Please contact support. Please see the [Query Language Tutorial](https://docs.wavefront.com/query_language_getting_started.html) for details.
