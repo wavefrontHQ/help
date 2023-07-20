@@ -47,7 +47,7 @@ To register a Google Cloud Platform integration:
    1. (Optional) Select which histogram metrics to ingest. 
    
       * **All** - The default option which means that all metrics will be ingested. 
-      * **Custom** - Allows you to ingest particular histogram metrics based on their Google Cloud Platform grouping functions, such as **Count**, **Minimum**, **Maximum**, **Mean**, and **Standard Deviation**. When you select a grouping function, only the histogram metrics with the respective grouping function will be ingested. If you deselect all check boxes, all histogram metrics will be ingested.
+      * **Custom** - Allows you to ingest particular histogram metrics based on their Google Cloud Platform grouping functions, such as **Count**, **Mean**, and **Standard Deviation**. When you select a grouping function, only the histogram metrics with the respective grouping function will be ingested. If you deselect all check boxes, all histogram metrics will be ingested.
    
    2. (Optional) Select to enable **Detailed Histogram Metrics**, **Delta Counts**, and **Pricing & Billing** information.
 
