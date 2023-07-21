@@ -1,8 +1,8 @@
 ### Add a Kubernetes Cluster
 
-To set up the Kubernetes integration, you must install and configure the Observability for Kubernetes Operator. The setup process varies based on the distribution type that you choose to monitor. 
+To set up the Kubernetes integration, you must install and configure the Observability for Kubernetes Operator. The setup process varies based on the distribution type that you choose to monitor, and whether your Operations for Applications service is onboarded to the VMware Cloud services platform.
 
-You have two choices:
+You have two choices for the distribution types:
 
   * **Kubernetes Cluster** - If you choose to install the Observability for Kubernetes Operator in a Kubernetes cluster (for example, in a VMware vSphere with Tanzu or Amazon EKS cluster), proceed with the steps below.
    

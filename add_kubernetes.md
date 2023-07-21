@@ -2,7 +2,7 @@
 
 VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront) provides a comprehensive solution for monitoring Kubernetes. To set up the Kubernetes integration, you must install and configure our Kubernetes Metrics Collector and a Wavefront proxy. With the 2022-48.x release we introduced the Kubernetes Observability Operator which simplifies the deployment of the Kubernetes Metrics Collector and the Wavefront proxy. 
 
-The setup process varies based on the distribution type that you choose to monitor. 
+The setup process varies based on the distribution type that you choose to monitor, and whether your Operations for Applications service is onboarded to the VMware Cloud services platform.
 
 
 1. Log in to your product cluster.
