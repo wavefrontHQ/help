@@ -1,0 +1,1 @@
+Index loading or refreshing timeouts. Please see [Optimizing High Cardinality Data](https://docs.wavefront.com/cardinality.html#optimizing-high-cardinality-data) for details.
