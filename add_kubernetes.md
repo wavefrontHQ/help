@@ -47,7 +47,7 @@ The setup process varies based on the distribution type that you choose to monit
      * If you have selected **API token** as the authentication type, replace `<CSP_API_TOKEN>` with your VMware Cloud services API token.
    * When your service is **not onboarded** to VMware Cloud services, proceed to the next step.
 1. Run the script in your Kubernetes cluster.
-1. After successful installation, return back to the Operations for Applications GUI, and click **Finish**.
+1. After successful installation, return back to the Operations for Applications UI, and click **Finish**.
 
 ### Kubernetes Install in an OpenShift Cluster
 
