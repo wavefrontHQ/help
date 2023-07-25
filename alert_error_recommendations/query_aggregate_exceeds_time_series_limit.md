@@ -1,0 +1,2 @@
+Cannot aggregate more than %d series. Found %d series for key %s. Please see [Optimizing High 
+Cardinality Data](https://docs.wavefront.com/cardinality.html#optimizing-high-cardinality-data) for details.
