@@ -298,7 +298,7 @@
     },
     {
       "path": "^/log-alerts/add$",
-      "file": "log__create_alert.md"
+      "file": "log_create_alert.md"
     },
     {
       "path": "^/usage/ingestionpolicies$",
