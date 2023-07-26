@@ -237,6 +237,10 @@
       "file": "metrics_policy.md"
     },
     {
+      "path": "^/metricspolicies$",
+      "file": "metrics_policies.md"
+    },
+    {
       "path": "^/selfservicesaml$",
       "file": "sso_self_service.md"
     },
