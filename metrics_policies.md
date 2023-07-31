@@ -1,5 +1,5 @@
 ### Managing Metrics Security Policy Rules
-The metrics security policy allows you to control access to time series, histograms, and delta counters. The metrics security policy consists of rules that you create and organize in decreasing order of priority. A metrics security rule can allow or block specific metrics for specific accounts ([user accounts](https://docs.wavefront.com/csp_user_management.html) and [service accounts](https://docs.wavefront.com/csp_user_management.html)) or [groups](https://docs.wavefront.com/csp_users_roles.html#manage-user-groups).
+The metrics security policy allows you to control access to time series, histograms, and delta counters. The metrics security policy consists of rules that you create and organize in decreasing order of priority. A metrics security rule can allow or block specific metrics for specific accounts ([user accounts](https://docs.wavefront.com/csp_user_management.html) and [service accounts](https://docs.wavefront.com/csp_server_to_server_apps.html)) or [groups](https://docs.wavefront.com/csp_users_roles.html#manage-user-groups).
 
 For an account with blocked access to a particular metric, the metric is hidden in charts, in alerts with enabled metrics security, and in autocomplete lists.
 
