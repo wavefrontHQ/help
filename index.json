@@ -1,7 +1,7 @@
 {
   "helpPages": [
     {
-      "path": "^/alerts?alertType=METRIC$",
+      "path": "^/alerts$",
       "file": "alerts.md"
     },
     {
@@ -293,7 +293,7 @@
       "file": "log_browser.md"
     },
     {
-      "path": "^/alerts?alertType=LOGS$",
+      "path": "^/log-alerts$",
       "file": "log_alerts.md"
     },
     {
