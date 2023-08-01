@@ -1,7 +1,7 @@
 {
   "helpPages": [
     {
-      "path": "^/alerts?alertType=METRICS$",
+      "path": "^/alerts$",
       "file": "alerts.md"
     },
     {
