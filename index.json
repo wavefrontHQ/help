@@ -293,10 +293,6 @@
       "file": "log_browser.md"
     },
     {
-      "path": "^/alerts?alertType=LOGS$",
-      "file": "log_alerts.md"
-    },
-    {
       "path": "^/log-alerts/add$",
       "file": "log_create_alert.md"
     },

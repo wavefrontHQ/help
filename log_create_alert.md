@@ -1,4 +1,4 @@
-## Creating Logs Alerts
+### Creating Logs Alerts
 
 Create a logs alert for the logs data your applications send our service. You must set the conditions that need to be met for the log alert to fire.
 
