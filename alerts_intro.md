@@ -10,6 +10,6 @@ To pause the checking alert conditions, you can snooze alerts for a fixed time w
 
 **Managing Logs Alerts**
 
-You can create logs alerts and see the firing events of a logs alert. If you have **Logs** permissions, you see the **Logs Alert** tab, which lists the logs alerts you create. If you have **Logs** and **Alerts** permissions, you can create and manage logs alerts. 
+You can create logs alerts and see the firing events of a logs alert. If you have the **Logs** permission, you see the **Logs Alert** tab, which lists the logs alerts you create. If you have **Logs** and **Alerts** permissions, you can create and manage logs alerts. 
 
 On the Logs Alerts page, you see the state of the logs alert and the number of times an alert fired. You can also snooze logs alerts for a fixed time window.
