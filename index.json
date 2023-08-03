@@ -237,6 +237,10 @@
       "file": "metrics_policy.md"
     },
     {
+      "path": "^/metricspolicies$",
+      "file": "metrics_policies.md"
+    },
+    {
       "path": "^/selfservicesaml$",
       "file": "sso_self_service.md"
     },
@@ -289,12 +293,8 @@
       "file": "log_browser.md"
     },
     {
-      "path": "^/log-alerts$",
-      "file": "log_alerts.md"
-    },
-    {
       "path": "^/log-alerts/add$",
-      "file": "log__create_alert.md"
+      "file": "log_create_alert.md"
     },
     {
       "path": "^/usage/ingestionpolicies$",
