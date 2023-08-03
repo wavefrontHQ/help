@@ -8,18 +8,18 @@ You have two choices for the distribution types:
    
   * **OpenShift** - If you choose to use OpenShift, follow the instructions displayed in the Operations for Applications UI and click **Finish**.
           
-    **Note**: Logs (Beta) is not supported when you use OpenShift.
+    **Note**: Logs feature is not supported when you use OpenShift.
 
 **To monitor a Kubernetes cluster**:
 
 1. In the **Cluster Name** text box, enter a meaningful cluster name.
-1. (Optional) Choose whether you want to see the logs for your cluster. By default, the **Logs (Beta)** option is enabled.
+1. (Optional) Choose whether you want to see the logs for your cluster. By default, the **Logs** option is enabled.
 
-    This option is available only if you have the Logs (Beta) feature enabled for your cluster. For more information, see [Get Started with Logs (Beta)](https://docs.wavefront.com/logging_overview.html).
+    This option is available only if you have the Logs feature enabled for your cluster. For more information, see [Get Started with Logs](https://docs.wavefront.com/logging_overview.html).
     
 1. Choose whether you want to enable or disable **Metrics**. By default, the **Metrics** option is enabled.
 1. Choose whether you want to use an **HTTP Proxy**. If you enable HTTP proxy, to allow outbound traffic, you must add these URLs to your proxy rules:
-   * Logs (Beta): `https://data.mgmt.cloud.vmware.com`
+   * Logs: `https://data.mgmt.cloud.vmware.com`
    * Metrics: `https://<your_cluster>.wavefront.com/`
    
 1. If you enable HTTP Proxy, you must also configure the HTTP proxy settings, such as: 
