@@ -3,9 +3,9 @@
 You can export traces and view them later using the Offline Traces page. 
 
 **Option 1**:  
-1. Export traces via the Traces Browser. 
+1. Export traces via the [Traces Browser](https://docs.wavefront.com/tracing_traces_browser.html). 
 1. Save them locally as JSON files. 
-1. View them later using the Offline Traces page. 
+1. Upload and view them later on the Offline Traces page. 
 
 **Option 2**: 
 1. Export traces via the API. 

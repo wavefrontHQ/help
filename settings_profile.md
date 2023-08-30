@@ -13,4 +13,4 @@ On the **User Information** tab, you can update your user preferences:
 **Read More**<br/>
 [Customize Your Account](https://docs.wavefront.com/users_account_managing.html)<br/>
 [Authorization](https://docs.wavefront.com/authorization.html)<br/>
-[Using PromQL with Tanzu Observability](http://docs.wavefront.com/wavefront_prometheus.html)
+[Using PromQL](http://docs.wavefront.com/wavefront_prometheus.html)

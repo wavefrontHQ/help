@@ -1,8 +1,8 @@
 ### Add a Cloud Integration
 
-Adding a cloud integration requires establishing a trust relationship between Amazon and Tanzu Observability by Wavefront by sharing account IDs.
+Adding a cloud integration requires establishing a trust relationship between Amazon and VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront) by sharing account IDs.
 
-You start by granting Tanzu Observability read-only access to your Amazon account or by giving more limited permissions.
+You start by granting Operations for Applications read-only access to your Amazon account or by giving more limited permissions.
 
 **Read More**<br/>
 * [Giving Global Read-Only Access](integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn)<br/>

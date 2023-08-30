@@ -10,6 +10,6 @@ When you create an alert target, the information you specify depends in part on 
 
 * For webhook alert targets, specify the webhook endpoint and the content of the POST body to send to the endpoint. The endpoint must be a public URL.
 
-Tanzu Observability by Wavefront provides payload templates for each alert target type, and for several notification targets.
+We provide payload templates for each alert target type, and for several notification targets.
 
 {% include webhooks_links.md %}
