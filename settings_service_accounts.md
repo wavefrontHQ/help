@@ -1,16 +1,15 @@
 ### Managing Service Accounts
-A service account is for services that use the API to perform certain tasks. Service accounts use a token to authenticate and are constrained from performing certain UI operations.
+Service accounts use Operations for Applications API tokens to authenticate.
 
-By default all service accounts belong to the **Service Accounts** system group.
+**Important**: The usage of service accounts is **restricted** to support only a [limited list](https://docs.wavefront.com/integrations_onboarded_subscriptions.html#integrations-that-use-operations-for-applications-api-tokens) of integrations that still authenticate with Operations for Applications API tokens. In all other cases, you should use [server to server OAuth apps](https://docs.wavefront.com/csp_server_to_server_apps.html) which authenticate with the more secure VMware Cloud services access tokens.
 
-From this page, users with the **Accounts** permission can:
+From this page, **Admin** users can:
 * Create and delete service accounts.
 * Deactivate and activate service accounts.
 * Generate, revoke, and rename API tokens for service accounts.
-* Manage the permissions, roles, and groups assigned to service accounts. You cannot revoke the **Service Accounts** system group. In most situations, it's best to assign permissions directly to the service account.
+* Manage the permissions assigned to service accounts.
 
-You can also select one or more permissions, groups, and roles on the left to see which service accounts match the selections.
+You can also select one or more permissions on the left to see which service accounts have these permissions.
 
 **Read More**<br/>
-[Manage Service Accounts](https://docs.wavefront.com/service-accounts.html)<br/>
-[Authorization Model](https://docs.wavefront.com/authorization.html)
+[Manage Service Accounts](https://docs.wavefront.com/csp_service_accounts.html)<br/>
