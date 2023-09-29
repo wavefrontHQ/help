@@ -21,7 +21,7 @@ From this page, you also can:
 * Delete one or more proxies by selecting the check boxes for the proxies and clicking **Delete**.
 
     **Note**: You cannot delete a proxy in **Active** status.
-* Open an individual proxy dashboard by clicking the corresponding proxy name.
+* Open the individual dashboard of a proxy and see its configuration properties by clicking the corresponding proxy name.
 * Go to the **Wavefront Service and Proxy Data** dashboard by clicking **Usage and Proxies Data Dashboard**.
 
 

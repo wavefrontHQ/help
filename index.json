@@ -127,7 +127,7 @@
     {
       "path": "^/extdata/(add|edit)/snowflake(.*)$",
       "file": "add_snowflake.md"
-    },    
+    },
     {
       "path": "^/extdata/(.*)$",
       "file": "cloud_integrations_add.md"
@@ -214,7 +214,11 @@
     },
     {
       "path": "^/super-admin$",
-      "file": "super_admin.md"
+      "file": "super_admin.md",
+      "files": {
+        "before": "super_admin_before_migration.md",
+        "after": "super_admin_after_migration.md"
+      }
     },
     {
       "path": "^/system-preferences/defaults(.*)$",
@@ -226,7 +230,11 @@
     },
     {
       "path": "^/system-preferences/security(.*)$",
-      "file": "security_prefs.md"
+      "file": "security_prefs.md",
+      "files": {
+        "before": "security_prefs_before_migration.md",
+        "after": "security_prefs_after_migration.md"
+      }
     },
     {
       "path": "^/slow-queries/(.*)$",
@@ -254,7 +262,11 @@
     },
     {
       "path": "^/account/serviceaccounts$",
-      "file": "settings_service_accounts.md"
+      "file": "settings_service_accounts.md",
+      "files": {
+        "before": "settings_service_accounts_before_migration.md",
+        "after": "settings_service_accounts_after_migration.md"
+      }
     },
     {
       "path": "^/account/roles$",
@@ -262,7 +274,11 @@
     },
     {
       "path": "^/account/apitokens$",
-      "file": "api_tokens.md"
+      "file": "api_tokens.md",
+      "files": {
+        "before": "api_tokens_before_migration.md",
+        "after": "api_tokens_after_migration.md"
+      }
     },
     {
       "path": "^/tracing/appmap$",
@@ -307,10 +323,10 @@
     {
       "path": "^/usage/ingestionpolicy/update/(.*)$",
       "file": "ingestion_policies_edit.md"
-    },  
+    },
     {
       "path": "^/usage/ingestionpolicies/history/(.*)$",
       "file": "ingestion_policies_versions.md"
-    }  
+    }
   ]
 }
