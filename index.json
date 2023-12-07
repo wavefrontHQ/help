@@ -21,6 +21,10 @@
       "file": "alert_create.md"
     },
     {
+      "path": "^/alertanalytics$",
+      "file": "alerts_analytics.md"
+    },
+    {
       "path": "^/chart$",
       "file": "charts.md"
     },
