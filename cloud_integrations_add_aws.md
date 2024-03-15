@@ -1,21 +1,21 @@
 ### Add an Amazon Cloud Integration
 
-Setting up an Amazon cloud integration requires establishing a trust relationship between Amazon and VMware Aria Operations for Applications. 
+Setting up an Amazon cloud integration requires establishing a trust relationship between Amazon and Tanzu Observability. 
 
-You start by granting Operations for Applications [read-only access to your Amazon account](https://docs.wavefront.com/integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn) or by giving [limited access](https://docs.wavefront.com/integrations_aws_overview.html#giving-limited-access).
+You start by granting Tanzu Observability [read-only access to your Amazon account](https://docs.wavefront.com/integrations_aws_overview.html#give-read-only-access-to-your-amazon-account-and-get-the-role-arn) or by giving [limited access](https://docs.wavefront.com/integrations_aws_overview.html#giving-limited-access).
 
 Then, you register the integration by providing the necessary information. See [AWS Integration Overview](https://docs.wavefront.com/integrations_aws_overview.html) for information about setting up and managing the AWS Cloud integration.
 
 ### Set Up AWS CloudWatch Logs
 
-You can use an AWS Lambda function to ingest CloudWatch logs to Operations for Applications. CloudWatch provides data and actionable insights to monitor your applications and respond to system-wide performance changes. It also helps you optimize resource utilization and get a unified view of operational health. CloudWatch collects monitoring and operational data in the form of logs, metrics, and events, providing a unified view of AWS resources, applications, and services that run on AWS and on-premises servers. You can use CloudWatch to detect anomalous behavior in your environments, set alarms, visualize logs and metrics side by side, take automated actions, troubleshoot issues, and discover insights to keep applications running smoothly. To understand more about CloudWatch, see the [Amazon CloudWatch documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html).
+You can use an AWS Lambda function to ingest CloudWatch logs to Tanzu Observability. CloudWatch provides data and actionable insights to monitor your applications and respond to system-wide performance changes. It also helps you optimize resource utilization and get a unified view of operational health. CloudWatch collects monitoring and operational data in the form of logs, metrics, and events, providing a unified view of AWS resources, applications, and services that run on AWS and on-premises servers. You can use CloudWatch to detect anomalous behavior in your environments, set alarms, visualize logs and metrics side by side, take automated actions, troubleshoot issues, and discover insights to keep applications running smoothly. To understand more about CloudWatch, see the [Amazon CloudWatch documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html).
 
 #### Install the Wavefront Proxy
 
-The Wavefront proxy is required to send logs from your systems to Operations for Applications. If you have not already done so, install a [Wavefront proxy](https://docs.wavefront.com/proxies_installing.html) in your AWS environment.
+The Wavefront proxy is required to send logs from your systems to Tanzu Observability. If you have not already done so, install a [Wavefront proxy](https://docs.wavefront.com/proxies_installing.html) in your AWS environment.
 
-* If your Operations for Applications service **is** onboarded to VMware Cloud services, install  Wavefront proxy version 13.0 or later.
-* If your Operations for Applications service is **not** onboarded to VMware Cloud services, install  Wavefront proxy version 12.2 or later.
+* If your Tanzu Observability service **is** onboarded to VMware Cloud services, install  Wavefront proxy version 13.0 or later.
+* If your Tanzu Observability service is **not** onboarded to VMware Cloud services, install  Wavefront proxy version 12.2 or later.
 
 #### Create an AWS Lambda Function
 

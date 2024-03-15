@@ -1,8 +1,8 @@
 ### Adding a Proxy
 
-In most cases a Wavefront proxy must be running in your environment before metrics begin streaming to your Operations for Applications service from a host or application. In production, it is recommended to place a team of proxies behind a load balancer.
+In most cases a Wavefront proxy must be running in your environment before metrics begin streaming to your Tanzu Observability service from a host or application. In production, it is recommended to place a team of proxies behind a load balancer.
 
-To authenticate to Operations for Applications, the Wavefront proxy requires a VMware Cloud services access token with the **Proxies** service role.
+To authenticate to Tanzu Observability, the Wavefront proxy requires a VMware Cloud services access token with the **Proxies** service role.
 
 **Important**: To obtain a VMware Cloud services access token, the Wavefront proxy connects to the VMware Cloud services API. For that reason, your environment must allow an outbound HTTPS connection to the VMware Cloud services platform (`https://console.cloud.vmware.com/`).
 

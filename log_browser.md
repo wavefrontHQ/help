@@ -2,11 +2,11 @@
 
 You can use the Logs Browser to search logs, filter logs, and find the root cause of the critical issues in your system.
 
-Operations for Applications retains logs for 30 days during the Logs free trial or retains logs for 7 days when on the freemium subscription! 
+Tanzu Observability retains logs for 30 days during the Logs free trial or retains logs for 7 days when on the freemium subscription! 
 
 **Step 1: Send Logs**
 
-Configure your application or environment to [send logs to Operations for Applications](https://docs.wavefront.com/logging_send_logs.html).
+Configure your application or environment to [send logs to Tanzu Observability](https://docs.wavefront.com/logging_send_logs.html).
 
 **Step 2: Search and Filter Logs**
 

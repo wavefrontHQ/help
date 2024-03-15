@@ -1,1 +1,1 @@
-# VMware Aria Operations for Applications Help Panel Documentation
+# VMware Tanzu Observability Help Panel Documentation
