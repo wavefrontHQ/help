@@ -12,7 +12,7 @@ All users can then receive [alerts](https://docs.wavefront.com/alerts.html), dri
 
 The retention period varies based on the metric type:
 * Persistent metrics are retained for 18 months. By default, all ingested metrics are persistent but convertible.
-* Ephemeral metrics are retained for 28 days. By default, only the [internal metrics](https://docs.wavefront.com/wavefront-internal-metrics.html) are ephemeral and they are not convertible.
+* Ephemeral metrics are retained for 28 days. Most of the [internal metrics](https://docs.wavefront.com/wavefront-internal-metrics.html) are ephemeral and they are not convertible.
 
 A Super Admin user in Super Admin mode can change the ephemerality of individual metrics or metrics namespaces. Converting persistent metrics to ephemeral improves the query performance and reduces the cardinality.
 
