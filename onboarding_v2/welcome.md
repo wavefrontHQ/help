@@ -1,6 +1,6 @@
 
 <div class="container-fluid">
-  <p>VMware Aria Operations for Applications (formerly known as Tanzu Observability by Wavefront) gives you the power to
+  <p>VMware Tanzu Observability (formerly known as Aria Operations for Applications) gives you the power to
     operate your whole stack easily and effectively.</p>
   <p>In this Getting Started workflow you'll:</p>
   <ul>
