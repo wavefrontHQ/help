@@ -10,6 +10,12 @@ Once metrics are ingested into Operations for Applications, administrators can [
 
 All users can then receive [alerts](https://docs.wavefront.com/alerts.html), drill down into the prepared dashboards and charts, and start finding the root cause for problems.
 
+The retention period varies based on the metric type:
+* Persistent metrics are retained for 18 months. By default, all ingested metrics are persistent but convertible.
+* Ephemeral metrics are retained for 28 days. Most of the [internal metrics](https://docs.wavefront.com/wavefront-internal-metrics.html) are ephemeral and they are not convertible.
+
+A Super Admin user in Super Admin mode can change the ephemerality of individual metrics or metrics namespaces. Converting persistent metrics to ephemeral improves the query performance and reduces the cardinality.
+
 [Obsolete metrics](https://docs.wavefront.com/metrics_managing.html#obsolete-metrics) are automatically hidden. You can also manually hide metrics. Hidden metrics are removed from autocomplete, but you can still use them in queries when data values are present.
 
 **Note**: The obsolescence period for metrics and sources might vary. You can see your current configuration by looking into the Advanced settings of any [chart](https://docs.wavefront.com/ui_charts.html#include-metrics-that-stopped-reporting) or [dashboard](https://docs.wavefront.com/ui_dashboards.html#set-dashboard-display-preferences-and-settings). To change this configuration, contact [Technical Support](https://docs.wavefront.com/wavefront_support_feedback.html).
