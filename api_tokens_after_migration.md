@@ -2,8 +2,6 @@
 
 As an **Admin** user, you can view the Operations for Applications API tokens in your service, examine their usage, and revoke a token, if needed.
 
-**Important:** This page shows the Operations for Applications API tokens of your service accounts, which are **restricted** to support only a [limited list](https://docs.wavefront.com/integrations_onboarded_subscriptions.html#integrations-that-use-operations-for-applications-api-tokens). In all other cases, you should authenticate with the more secure VMware Cloud services access tokens by using server to server OAuth apps or VMware Cloud services API tokens.
-
 On this page, you can:
 * Sort the API tokens by clicking the arrows in the column headers.
 * Search and, optionally, save and share your search by using the Search field above the tokens table.

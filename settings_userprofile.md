@@ -10,5 +10,4 @@ On this page, you can update your user preferences:
 
 
 **Read More**<br/>
-[Manage Your VMware Cloud Services Account](https://docs.wavefront.com/csp_users_account_managing.html)<br/>
 [Using PromQL](http://docs.wavefront.com/wavefront_prometheus.html)
